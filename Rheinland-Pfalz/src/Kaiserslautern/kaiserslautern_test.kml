@@ -1,0 +1,2576 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>kaiserslautern_test</name>
+<Schema name="kaiserslautern_test" id="kaiserslautern_test">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="lng" type="string"></SimpleField>
+	<SimpleField name="beschreibung" type="string"></SimpleField>
+	<SimpleField name="typ" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Ehem. Kaiserpfalz und Casimirschloss, Willy- Brandt-Platz 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ehem. Kaiserpfalz und Casimirschloss, Willy- Brandt-Platz 2</SimpleData>
+		<SimpleData name="lat">49.44597</SimpleData>
+		<SimpleData name="lng">7.76838</SimpleData>
+		<SimpleData name="beschreibung">von der um 1160 erbauten Kaiserpfalz mit Doppelkapelle ein Teil der Grundmauern und der zugehÃ¶rigen Doppelkapelle erhalten; Ã¶stlich davon um 1570/80 Bau des Casimirschlosses, davon erhalten der sÃ¼dliche Teil des OstflÃ¼gels, Renaissancequaderbau Ã¼ber kreuz- bzw. tonnengewÃ¶lbten Kellern und unterirdischen GÃ¤ngesystem</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76838,49.44597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Apostelkirche, Pariser StraÃŸe 22</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Apostelkirche, Pariser StraÃŸe 22</SimpleData>
+		<SimpleData name="lat">49.44438</SimpleData>
+		<SimpleData name="lng">7.76151</SimpleData>
+		<SimpleData name="beschreibung">Zentralbau auf griechischem Kreuz, neuromanischer Sandsteinquaderbau, 1897- 1901, Arch. Ludwig Ritter von Stempel, MÃ¼nchen, nach KriegszerstÃ¶rung vereinfachter Wiederaufbau 1952-56, Arch. Egon HeuÃŸer; drei Glocken und Eisenglockenstuhl, 1900 Ev. Christuskirche, Am HeiligenhÃ¤uschen 11 flachgedeckter Putzbau auf parabelfÃ¶rmigem Grundriss, Stahlbetonskelettbauweise, eingeschossiger Sakristeianbau, freistehender Glockenturm, 1957/58, Arch. Hansgeorg Fiebiger; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76151,49.44438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pauluskirche, Hahnenbalz 38</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pauluskirche, Hahnenbalz 38</SimpleData>
+		<SimpleData name="lat">49.43215</SimpleData>
+		<SimpleData name="lng">7.76696</SimpleData>
+		<SimpleData name="beschreibung">Saalbau auf asymmetrischem Grundriss, Stahlbetonkonstruktion, 1958-60, Arch. Willibald Hemmer, Buntglasfenster der Fa. KÃ¶lbel, Kaiserslautern; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76696,49.43215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pfarrkirche, MarktstraÃŸe 13</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pfarrkirche, MarktstraÃŸe 13</SimpleData>
+		<SimpleData name="lat">49.44456</SimpleData>
+		<SimpleData name="lng">7.77103</SimpleData>
+		<SimpleData name="beschreibung">Saalbau auf asymmetrischem Grundriss, Stahlbetonkonstruktion, 1958-60, Arch. Willibald Hemmer, Buntglasfenster der Fa. KÃ¶lbel, Kaiserslautern; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77103,49.44456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Minoritenkirche und -kloster Maria Schutz, BismarckstraÃŸe 63</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Minoritenkirche und -kloster Maria Schutz, BismarckstraÃŸe 63</SimpleData>
+		<SimpleData name="lat">49.44233</SimpleData>
+		<SimpleData name="lng">7.78276</SimpleData>
+		<SimpleData name="beschreibung">basilikale Anlage mit Doppelturmfassade, monumentaler Sandstein- bzw. Backsteinbau, neugotische Motive, 1928/29, Arch. Hans und Fritz Seeberger; Skulpturen von L. HÃ¶pfel, Speyer; KlostergebÃ¤ude auf L-fÃ¶rmigem Grundriss, neugotischer Walmdachbau, 1928, Arch. Hans Seeberger</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.78276,49.44233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Pfarrkirche St. Marien, St.-Marien-Platz 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Pfarrkirche St. Marien, St.-Marien-Platz 1</SimpleData>
+		<SimpleData name="lat">49.441737</SimpleData>
+		<SimpleData name="lng">7.761275</SimpleData>
+		<SimpleData name="beschreibung">monumentaler neugotischer Sandsteinquaderbau, dreischiffige Halle, Seitenschiffe mit QuerwalmdÃ¤chern, 1887-92, Arch. Heinrich von Schmidt, MÃ¼nchen, Marienskulptur im Wimperg, von I. Stolz, MÃ¼nchen, Hochreliefs durch Fa. Erfurt &amp; WÃ¼st, Stuttgart, Glasfenster von Wilhelm PÃ¼rz, 1951- 56; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761275,49.441737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AlbertstraÃŸe 16-26 (gerade Nrn.), SteinmetzstraÃŸe 11 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">AlbertstraÃŸe 16-26 (gerade Nrn.), SteinmetzstraÃŸe 11 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">L-fÃ¶rmige Anlage einschlieÃŸlich vorgelagerter GÃ¤rten bzw. GrÃ¼nanlage, ein- bzw. zweigeschossige ZeilenwohnhÃ¤user, tlw. mit WalmdÃ¤chern, Heimatstil, 1912-23 AlbrechtstraÃŸe 47 spÃ¤tgrÃ¼nderzeitliches Eckwohn- und GeschÃ¤ftshaus, sandsteingegliederter Backsteinbau mit Mansarddach, 1903, Arch. F. GrÃ¼n</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AltenwoogstraÃŸe 43-59 (ungerade Nrn.), Barbarossaring 1, Mannheimer StraÃŸe 94-108 (gerade Nrn.), &quot;GrÃ¼ner Block&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">AltenwoogstraÃŸe 43-59 (ungerade Nrn.), Barbarossaring 1, Mannheimer StraÃŸe 94-108 (gerade Nrn.), &quot;GrÃ¼ner Block&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Wohnsiedlung der GemeinnÃ¼tzigen Baugesellschaft Kaiserlautern; langgezogene HÃ¤userzeilen mit kubisch gestaffelten, viergeschossigen Putzbauten mit turmartigen Risaliten um zwei baumbestandene InnenhÃ¶fe, Neue Sachlichkeit, 1926-28, Arch. Hermann Hussong</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Altenhof</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Altenhof</SimpleData>
+		<SimpleData name="lat">49.444416</SimpleData>
+		<SimpleData name="lng">7.768637</SimpleData>
+		<SimpleData name="beschreibung">jÃ¼disches Kultbad (Mikwe), Becken (2,5 x 2,5 m) mit Resten der Zugangstreppe, 14. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768637,49.444416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Altenhof 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Altenhof 6</SimpleData>
+		<SimpleData name="lat">49.444778</SimpleData>
+		<SimpleData name="lng">7.768781</SimpleData>
+		<SimpleData name="beschreibung">ehem. Offiziers-Casino und Hotel fÃ¼r die franzÃ¶sische Besatzung, GebÃ¤udekomplex in Stahlbetonkonstruktion, asymmetrisch angeordnete Flachdachbauten mit Rasterfassaden, 1955/56, Entwurf Sonderbauamt Landau bzw. StÃ¤dt. Hochbauamt, Ltg. Hans Tinti; Sgraffito von Adolf Schaurer; Ausstattung; stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768781,49.444778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Hammerweiher 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Hammerweiher 1</SimpleData>
+		<SimpleData name="lat">49.45202</SimpleData>
+		<SimpleData name="lng">7.73954</SimpleData>
+		<SimpleData name="beschreibung">ehem. Blechhammer mit Stauweiher, U-fÃ¶rmige Anlage, im Kern 1740 (Kellergeschoss und Wassergraben des ehem. Hammerwerks), sandsteingegliederter Putzbau mit Kopfbauten, 19. Jh. (heute Gasthaus)</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.73954,49.45202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Langen Stein 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Langen Stein 1</SimpleData>
+		<SimpleData name="lat">49.45473</SimpleData>
+		<SimpleData name="lng">7.76266</SimpleData>
+		<SimpleData name="beschreibung">eineinhalbgeschossige Villa, neubarocker Mansardwalmdachbau, 1925, Arch. Otto Schellhaas</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76266,49.45473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(vor) Am Schmiedeturm 7 , 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(vor) Am Schmiedeturm 7 , 9</SimpleData>
+		<SimpleData name="lat">49.44719</SimpleData>
+		<SimpleData name="lng">7.77606</SimpleData>
+		<SimpleData name="beschreibung">Teil der mittelalterlichen Stadtmauer im Bereich des ehem. Schmiedeturms, Sandsteinquader</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77606,49.44719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Vogelgesang 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Vogelgesang 10</SimpleData>
+		<SimpleData name="lat">49.45071</SimpleData>
+		<SimpleData name="lng">7.77324</SimpleData>
+		<SimpleData name="beschreibung">herrschaftliche Villa, eineinhalbgeschossiger historisierender Putzbau, tlw. Zierfachwerk, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77324,49.45071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Vogelgesang 44</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Vogelgesang 44</SimpleData>
+		<SimpleData name="lat">49.45129</SimpleData>
+		<SimpleData name="lng">7.77168</SimpleData>
+		<SimpleData name="beschreibung">herrschaftliche Walmdach-Villa, zweieinhalbgeschossiger Klinkerbau, Neurenaissance und Neubarock, 1888/89, Arch. Ludwig Levy, Karlsruhe, 1909, eingeschossiger Wintergarten-Anbau; Ausstattung; heute Kreiswehrersatzamt</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77168,49.45129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Vogelgesang 1-33 (ungerade Nrn.), Benzinoring 15-51 (ungerade Nrn.), BuchfinkstraÃŸe 1-23, HackstraÃŸe 5-19 (ungerade Nrn.), 12-24 (gerade Nrn.), HaspelstraÃŸe 17-21 (ungerade Nrn.), OttostraÃŸe 13-19 (ungerade Nrn.), 18-26 (gerade Nrn.), VillenstraÃŸe 11-17 (ungerade Nrn.), 16, 18, 21 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Vogelgesang 1-33 (ungerade Nrn.), Benzinoring 15-51 (ungerade Nrn.), BuchfinkstraÃŸe 1-23, HackstraÃŸe 5-19 (ungerade Nrn.), 12-24 (gerade Nrn.), HaspelstraÃŸe 17-21 (ungerade Nrn.), OttostraÃŸe 13-19 (ungerade Nrn.), 18-26 (gerade Nrn.), VillenstraÃŸe 11-17 (ungerade Nrn.), 16, 18, 21 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat"></SimpleData>
+		<SimpleData name="lng"></SimpleData>
+		<SimpleData name="beschreibung">groÃŸbÃ¼rgerliches Wohnviertel an einem steilen SÃ¼dhang, 1893-1929 gemÃ¤ÃŸ dem Stadterweiterungsplan von 1887; ein- bis dreigeschossige, Ã¼berwiegend grÃ¼nderzeitliche, meist zusammenhÃ¤ngende ZeilenwohnhÃ¤user, Backstein-, Putz- und Sandsteinquaderbauten, vereinzelt Jugendstilmotive oder geometrisch geprÃ¤gter Zeitstil um 1910</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AmselstraÃŸe 52</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">AmselstraÃŸe 52</SimpleData>
+		<SimpleData name="lat">49.451934</SimpleData>
+		<SimpleData name="lng">7.776184</SimpleData>
+		<SimpleData name="beschreibung">eingeschossiges Eckwohnhaus mit Mansarddach, Heimatstil, 1914, Arch. Adolf Stieger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.776184,49.451934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auf dem BÃ¤nnjerrÃ¼ck 2-14 (gerade Nrn.) (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Auf dem BÃ¤nnjerrÃ¼ck 2-14 (gerade Nrn.) (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">gleichartig strukturierte Villen, errichtet im Auftrag des Guss- und Armaturenwerkes; ein- bis zweigeschossige kubische Putzbauten mit MansardwalmdÃ¤chern, Heimatstil, 1925/26, Arch. Heinrich Hastenteufel und Philipp Spelger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bahnheim 2a, 2b, 3, 4a, 4b, 4c, 4-27, 28a, 28b, 29- 39, 41-49, 51-54, 56, 60-80 (gerade Nrn.), &quot;Wohnsiedlung Bahnheim&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Bahnheim 2a, 2b, 3, 4a, 4b, 4c, 4-27, 28a, 28b, 29- 39, 41-49, 51-54, 56, 60-80 (gerade Nrn.), &quot;Wohnsiedlung Bahnheim&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">von der Gartenstadtbewegung geprÃ¤gte Eisenbahnersiedlung der Baugenossenschaft Bahnheim; Putzbauten in langen Baublocks bzw. als Einzel- oder DoppelhÃ¤user, Heimatstil, 1919-30, rÃ¼ckwÃ¤rtig anschlieÃŸend Nutzgarten pro Wohneinheit; im Zentrum der Anlage Brunnen, Kunststein, 1930, groÃŸflÃ¤chige GrÃ¼nanlagen zwischen Bahngleisen und Pariser StraÃŸe</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BahnhofstraÃŸe 26</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BahnhofstraÃŸe 26</SimpleData>
+		<SimpleData name="lat">49.43669</SimpleData>
+		<SimpleData name="lng">7.76912</SimpleData>
+		<SimpleData name="beschreibung">ehem. Bahnhofshotel, dreigeschossiger neuklassizistischer Mansardwalmdachbau auf L- fÃ¶rmigem Grundriss, um 1880</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76912,49.43669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BahnhofstraÃŸe 28</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BahnhofstraÃŸe 28</SimpleData>
+		<SimpleData name="lat">49.43669</SimpleData>
+		<SimpleData name="lng">7.76912</SimpleData>
+		<SimpleData name="beschreibung">ehem. Bahnhofshotel, zuletzt Hotel Brenner; anspruchsvolles Eckwohn- und GeschÃ¤ftshaus, viergeschossiger Hausteinquaderbau, Jugendstildekor, 1906</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76912,49.43669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BarbarossastraÃŸe 50</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BarbarossastraÃŸe 50</SimpleData>
+		<SimpleData name="lat">49.439725</SimpleData>
+		<SimpleData name="lng">7.78002</SimpleData>
+		<SimpleData name="beschreibung">Direktorenvilla, zweieinhalbgeschossiger neubarocker KrÃ¼ppelwalmdachbau auf bewegtem Grundriss, 1909</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.78002,49.439725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benzinoring 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Benzinoring 2</SimpleData>
+		<SimpleData name="lat">49.447565</SimpleData>
+		<SimpleData name="lng">7.768149</SimpleData>
+		<SimpleData name="beschreibung">ehem. Kgl. Industrieschule, heute Berufsbildende Schule; viergeschossiger Sandsteinquaderbau auf L-fÃ¶rmigem Grundriss, 1900-02, Entwurf StÃ¤dt. Hochbauaumt, Ltg. Ernst SpieÃŸ; auf dem Schulhof Kriegerdenkmal fÃ¼r die gefallenen OberrealschÃ¼ler 1914/18, Sandsteinrelief, Bildhauer Adolf Bernd, Kaiserslautern</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768149,49.447565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benzinoring 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Benzinoring 4</SimpleData>
+		<SimpleData name="lat">49.4487</SimpleData>
+		<SimpleData name="lng">7.77101</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤thistoristisches villenartiges Eckwohnhaus mit bewegter Dachlandschaft, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77101,49.4487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benzinoring 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Benzinoring 6</SimpleData>
+		<SimpleData name="lat">49.448905</SimpleData>
+		<SimpleData name="lng">7.771393</SimpleData>
+		<SimpleData name="beschreibung">Institut fÃ¼r pfÃ¤lzische Geschichte und Volkskunde, herrschaftliches Eckwohnhaus, sandsteingegliederter Klinkerbau, Neurenaissance, 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.771393,49.448905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benzinoring 25</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Benzinoring 25</SimpleData>
+		<SimpleData name="lat">49.44957</SimpleData>
+		<SimpleData name="lng">7.77332</SimpleData>
+		<SimpleData name="beschreibung">villenartiges spÃ¤tgrÃ¼nderzeitliches Eckwohnhaus, Backsteinbau mit Walmdach, 1898</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77332,49.44957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BismarckstraÃŸe 18 a, 20</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BismarckstraÃŸe 18 a, 20</SimpleData>
+		<SimpleData name="lat">49.443359</SimpleData>
+		<SimpleData name="lng">7.775623</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshÃ¤user, Jugendstilformen, 1902</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.775623,49.443359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BismarckstraÃŸe 26 a/26 b</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BismarckstraÃŸe 26 a/26 b</SimpleData>
+		<SimpleData name="lat">49.443099</SimpleData>
+		<SimpleData name="lng">7.776632</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives Doppelwohnhaus, sandsteingegliederte Mansarddachbauten, expressionistische Motive, um 1920 BismarckstraÃŸe 34 , 36, ScheffelstraÃŸe 2 zweieinhalbgeschossige Walmdachbauten auf L-fÃ¶rmigem Grundriss, expressionistische Motive, 1924/25</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.776632,49.443099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blechhammerweg</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Blechhammerweg</SimpleData>
+		<SimpleData name="lat">49.451411</SimpleData>
+		<SimpleData name="lng">7.747278</SimpleData>
+		<SimpleData name="beschreibung">Hahnbrunnerhof, ehem. KurpfÃ¤lzisches Hofgut, eingeschossige U-fÃ¶rmige Anlage, frÃ¼hes 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.747278,49.451411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BlÃ¼cherstraÃŸe 6-36 (gerade Nrn.), PollichstraÃŸe 3, 5, 6, 8 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BlÃ¼cherstraÃŸe 6-36 (gerade Nrn.), PollichstraÃŸe 3, 5, 6, 8 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">ein- bzw. zweigeschossige spÃ¤tgrÃ¼nderzeitliche ZeilenwohnhÃ¤user, sandsteingegliederte Putz- bzw. Ziegelbauten, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BrahmsstraÃŸe 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BrahmsstraÃŸe 9</SimpleData>
+		<SimpleData name="lat">49.439399</SimpleData>
+		<SimpleData name="lng">7.76634</SimpleData>
+		<SimpleData name="beschreibung">villenartiges eineinhalbgeschossiges Wohnhaus, sandsteingegliederter Backsteinbau, Neurenaissance, vor 1900, Veranda-Anbau 1903, Wintergarten 1915</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76634,49.439399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BremerstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BremerstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.426145</SimpleData>
+		<SimpleData name="lng">7.768903</SimpleData>
+		<SimpleData name="beschreibung">Albrechtsbrunnen, dreigeschossiger neuromanischer Schalenbrunnen, 1890, Brunnenaufsatz, 1911 von Gustav Adolf Bernd</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768903,49.426145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 56</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 56</SimpleData>
+		<SimpleData name="lat">49.43902</SimpleData>
+		<SimpleData name="lng">7.77174</SimpleData>
+		<SimpleData name="beschreibung">ehem. kgl. Hauptzollamt, heute Finanzamt, dreigeschossiger Sandsteinquaderbau mit Walmdach, 1897, Arch. Ludwig Ritter von Stempel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77174,49.43902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 62</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 62</SimpleData>
+		<SimpleData name="lat">49.43847</SimpleData>
+		<SimpleData name="lng">7.77186</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tklassizistisches Zeilenwohn- und GeschÃ¤ftshaus, um 1860</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77186,49.43847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 66</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 66</SimpleData>
+		<SimpleData name="lat">49.43834</SimpleData>
+		<SimpleData name="lng">7.77188</SimpleData>
+		<SimpleData name="beschreibung">anspruchsvolles grÃ¼nderzeitliches Wohnhaus, um 1880, Veranda 1930</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77188,49.43834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 67 a</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 67 a</SimpleData>
+		<SimpleData name="lat">49.43811</SimpleData>
+		<SimpleData name="lng">7.77244</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Zeilenwohn- und GeschÃ¤ftshaus, dreigeschossiger Backsteinbau, vor 1887, Torfahrt 1933</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77244,49.43811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 73</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 73</SimpleData>
+		<SimpleData name="lat">49.43731</SimpleData>
+		<SimpleData name="lng">7.77262</SimpleData>
+		<SimpleData name="beschreibung">ehem. BauverwaltungsgebÃ¤ude (heute BÃ¼ronutzung); reprÃ¤sentativer sandsteingegliederter Putzbau, Neurenaissancemotive, um 1870</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77262,49.43731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EisenbahnstraÃŸe 74</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EisenbahnstraÃŸe 74</SimpleData>
+		<SimpleData name="lat">49.43723</SimpleData>
+		<SimpleData name="lng">7.77224</SimpleData>
+		<SimpleData name="beschreibung">Kiosk, eingeschossiger Walmdachbau mit Unterstand und Toiletten, 1913/14</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77224,49.43723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EselsfÃ¼rth 11</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EselsfÃ¼rth 11</SimpleData>
+		<SimpleData name="lat">49.460125</SimpleData>
+		<SimpleData name="lng">7.822183</SimpleData>
+		<SimpleData name="beschreibung">ehem. Kurhaus (heute Musikclub), sandsteingegliedeter Putzbau, tlw. Zierfachwerk, Landhausstil, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.822183,49.460125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EselsfÃ¼rth 12</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EselsfÃ¼rth 12</SimpleData>
+		<SimpleData name="lat">49.45984</SimpleData>
+		<SimpleData name="lng">7.82296</SimpleData>
+		<SimpleData name="beschreibung">herrschaftliche Villa, neuklassizistischer Walmdachbau, expressionistische Motive, 1921/22, Arch. Adam Roos; stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.82296,49.45984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EselsfÃ¼rth 22</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EselsfÃ¼rth 22</SimpleData>
+		<SimpleData name="lat">49.46056</SimpleData>
+		<SimpleData name="lng">7.82619</SimpleData>
+		<SimpleData name="beschreibung">herrschaftliche Villa, zwei- bzw. dreigeschossiger Flachdachbau, Bauhaus-Stil, 1928, Arch. Hans Herkommer, Stuttgart; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.82619,49.46056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(an) FackelstraÃŸe 13</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(an) FackelstraÃŸe 13</SimpleData>
+		<SimpleData name="lat">49.44373</SimpleData>
+		<SimpleData name="lng">7.76761</SimpleData>
+		<SimpleData name="beschreibung">Sandsteinquader-Fassade mit Jugendstildekor am grÃ¼nderzeitlichen Wohn- und GeschÃ¤ftshaus, 1902/03, Arch. Adam Roos</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76761,49.44373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FackelstraÃŸe 29</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FackelstraÃŸe 29</SimpleData>
+		<SimpleData name="lat">49.444272</SimpleData>
+		<SimpleData name="lng">7.766345</SimpleData>
+		<SimpleData name="beschreibung">BankgebÃ¤ude, achtgeschossiger, mosaik- bzw. kachelverkleideter Stahlbetonskelettbau, Flugdach, 1956/57, Arch. Fritz Seeberger und Walter Bremer; stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766345,49.444272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FischerstraÃŸe 11</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FischerstraÃŸe 11</SimpleData>
+		<SimpleData name="lat">49.44483</SimpleData>
+		<SimpleData name="lng">7.77443</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentativer dreigeschossiger Putzbau auf L- fÃ¶rmigem Grundriss, Gaubenzeile mit expressionistischen Motiven, 1925/26 als pfÃ¤lzische Kreisbauernkammer erbaut, Arch. Hermann Hussong; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77443,49.44483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FischerstraÃŸe 15-37 (ungerade Nrn.), 16-28 (gerade Nrn.), BismarckstraÃŸe 27, 29, 31, 37c, FriedrichstraÃŸe 13, 15, 17, 19, KanalstraÃŸe 34-46 (gerade Nrn.), WilhelmstraÃŸe 2, 4, 6 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FischerstraÃŸe 15-37 (ungerade Nrn.), 16-28 (gerade Nrn.), BismarckstraÃŸe 27, 29, 31, 37c, FriedrichstraÃŸe 13, 15, 17, 19, KanalstraÃŸe 34-46 (gerade Nrn.), WilhelmstraÃŸe 2, 4, 6 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Wohnsiedlung fÃ¼r franzÃ¶sische Offiziere mit um begrÃ¼nte InnenhÃ¶fe gruppierten BaublÃ¶cken, zwei- bis dreigeschossige sandsteingegliederte Walm- bzw. Mansarddachbauten, barockisierende und expressionistische Motive, 1922-24, Arch. Hermann Hussong, ArkadenÃ¶ffnungen der Eckpavillons 1938</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ForellenstraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ForellenstraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.4469</SimpleData>
+		<SimpleData name="lng">7.75439</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges grÃ¼nderzeitliches Wohnhaus, Neurenaissancemotive, um 1880 ForellenstraÃŸe/SchoenstraÃŸe zweigeschossige Fassade der ehem. Kammgarnspinnerei, Sandstein, Ende 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.75439,49.4469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FriedenstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FriedenstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.450443</SimpleData>
+		<SimpleData name="lng">7.789126</SimpleData>
+		<SimpleData name="beschreibung">sog. Franzosenstein, mit Kranz und Helm bekrÃ¶nter Sandsteinpfeiler, 1836, Bildhauer Peter Menges</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.789126,49.450443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FriedenstraÃŸe 42</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FriedenstraÃŸe 42</SimpleData>
+		<SimpleData name="lat">49.44789</SimpleData>
+		<SimpleData name="lng">7.78389</SimpleData>
+		<SimpleData name="beschreibung">ehem. Leichenhaus, spÃ¤ter Kriegerehrenhalle, heute VersammlungsstÃ¤tte der ev. Freikirchlichen Gemeinde; eingeschossiger klassizistischer Sandsteinquaderbau mit Walmdach, 1832-35, Arch. Ferdinand Beyschlag und MÃ¼nchner Baukunstausschuss u. Mitw. v. Leo von Klenze und August von Voit Friedrich-Karl-StraÃŸe 1, MedicusstraÃŸe 19 Altenheim des Kaiserslauterer Diakonissenvereins, schlossartiger DreiflÃ¼gelbau, zwei- bzw. dreigeschossige Putzbauten, barockisierende Motive, 1911, Arch. Hermann Hussong und Alois Loch</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.78389,49.44789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friedrich-Karl-StraÃŸe 27</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Friedrich-Karl-StraÃŸe 27</SimpleData>
+		<SimpleData name="lat">49.438989</SimpleData>
+		<SimpleData name="lng">7.758497</SimpleData>
+		<SimpleData name="beschreibung">Graviusheim&quot;, anspruchsvoller</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.758497,49.438989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FriedrichstraÃŸe 75</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FriedrichstraÃŸe 75</SimpleData>
+		<SimpleData name="lat">49.43984</SimpleData>
+		<SimpleData name="lng">7.77707</SimpleData>
+		<SimpleData name="beschreibung">Barbarossaschule, schlossartiger MehrflÃ¼gelbau, dreigeschossiger Sandsteinquaderbau mit WalmdÃ¤chern, neuromanische Motive, 1899/1900, Arch. Ernst SpieÃŸ; Ausstattung; stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77707,49.43984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FruchthallstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FruchthallstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.445271</SimpleData>
+		<SimpleData name="lng">7.768552</SimpleData>
+		<SimpleData name="beschreibung">Kriegerdenkmal fÃ¼r die Gefallenen des 23. KÃ¶niglich-bayerischen Infanterie-Regiments 1914/18, monumentale Sandsteinquaderstele mit Soldatengruppe, 1930/31, Arch. Hans und Fritz Seeberger, Bildhauer Sepp Mages</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768552,49.445271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FruchthallstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FruchthallstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.445271</SimpleData>
+		<SimpleData name="lng">7.768552</SimpleData>
+		<SimpleData name="beschreibung">Fackelwoogbrunnen, Sandstein- Schalenbrunnen mit Bronze-Wasserspeiern, 1939, Bildhauer Fritz Korter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768552,49.445271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FruchthallstraÃŸe 1, MarktstraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FruchthallstraÃŸe 1, MarktstraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.44547</SimpleData>
+		<SimpleData name="lng">7.77114</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives Eckwohn- und GeschÃ¤ftshaus, viergeschossiger Sandsteinquaderbau mit Mansarddach, Neurenaissance, 1892/93</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77114,49.44547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FruchthallstraÃŸe 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">FruchthallstraÃŸe 10</SimpleData>
+		<SimpleData name="lat">49.445596</SimpleData>
+		<SimpleData name="lng">7.769649</SimpleData>
+		<SimpleData name="beschreibung">Fruchthalle, dreigeschossiger kubischer Walmdachbau im Stil florentinischer PatrizierpalÃ¤ste, romanische Einzelmotive, 1843- 46, Arch. August von Voit, Stadtwappen, 1934, Bildhauer Adolf Bernd; Ausstattung; stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.769649,49.445596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GasstraÃŸe 24</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GasstraÃŸe 24</SimpleData>
+		<SimpleData name="lat">49.442614</SimpleData>
+		<SimpleData name="lng">7.775371</SimpleData>
+		<SimpleData name="beschreibung">Zeileneckwohn- und GeschÃ¤ftshaus, Neurenaissancebau mit Walmdach, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.775371,49.442614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.44603</SimpleData>
+		<SimpleData name="lng">7.77467</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives dreigeschossiges Zeileneckwohn- und GeschÃ¤ftshaus auf L- fÃ¶rmigem Grundriss, jugendstilig variierte neubarocke Motive, um 1905</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77467,49.44603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.44585</SimpleData>
+		<SimpleData name="lng">7.77488</SimpleData>
+		<SimpleData name="beschreibung">ehem. Brauerei (heute Polizeiinspektion); Eckwohnhaus, sandsteingegliederter KrÃ¼ppelwalmdachbau, 2. HÃ¤lfte 19. Jh. (vor 1887); stadtbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77488,49.44585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 5</SimpleData>
+		<SimpleData name="lat">49.44616</SimpleData>
+		<SimpleData name="lng">7.77509</SimpleData>
+		<SimpleData name="beschreibung">Zeilenwohnhaus, um 1880, Umbau und Erweiterung 1909, Arch. Raimund Ostermaier</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77509,49.44616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 9</SimpleData>
+		<SimpleData name="lat">49.44623</SimpleData>
+		<SimpleData name="lng">7.77521</SimpleData>
+		<SimpleData name="beschreibung">grÃ¼nderzeitliches Zeilenwohnhaus mit Mansarddach, Neurenaissance, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77521,49.44623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 15</SimpleData>
+		<SimpleData name="lat">49.44646</SimpleData>
+		<SimpleData name="lng">7.77558</SimpleData>
+		<SimpleData name="beschreibung">grÃ¼nderzeitliches Zeilenwohn- und GeschÃ¤ftshaus, um 1870; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77558,49.44646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 27</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 27</SimpleData>
+		<SimpleData name="lat">49.44696</SimpleData>
+		<SimpleData name="lng">7.77644</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshaus, nachbarocker KrÃ¼ppelwalmdachbau Ã¼ber GewÃ¶lbekellern, 1832, Ladeneinbau Ende 19. Jh., hofseitiger Treppenhausanbau, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77644,49.44696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GaustraÃŸe 37</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GaustraÃŸe 37</SimpleData>
+		<SimpleData name="lat">49.44737</SimpleData>
+		<SimpleData name="lng">7.77713</SimpleData>
+		<SimpleData name="beschreibung">nachbarockes Zeileneckwohn- und GeschÃ¤ftshaus, bez. 1825</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77713,49.44737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gersweilerweg 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Gersweilerweg 2</SimpleData>
+		<SimpleData name="lat">49.4489</SimpleData>
+		<SimpleData name="lng">7.77755</SimpleData>
+		<SimpleData name="beschreibung">prÃ¤chtige spÃ¤tgrÃ¼nderzeitliche Villa, 1898; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77755,49.4489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GlockenstraÃŸe 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GlockenstraÃŸe 4</SimpleData>
+		<SimpleData name="lat">49.441489</SimpleData>
+		<SimpleData name="lng">7.767699</SimpleData>
+		<SimpleData name="beschreibung">herrschaftliches Zeilenwohn- und GeschÃ¤ftshaus, dreigeschossiger Sandsteinquaderbau, neuklassizistische Motive, 1913/14, Arch. Paul Klostermann; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767699,49.441489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GlockenstraÃŸe 43</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GlockenstraÃŸe 43</SimpleData>
+		<SimpleData name="lat">49.43992</SimpleData>
+		<SimpleData name="lng">7.76937</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Eckwohn- und GeschÃ¤ftshaus, zweieinhalbgeschossiger sandsteingegliederter KrÃ¼ppelwalmdachbau, vor 1887, Aufstockung 1924</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76937,49.43992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GlockenstraÃŸe 74</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GlockenstraÃŸe 74</SimpleData>
+		<SimpleData name="lat">49.43762</SimpleData>
+		<SimpleData name="lng">7.76976</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives Eckwohnhaus mit Mansardwalmdach, dreigeschossiger Backsteinbau, Neurenaissance, um 1888 GlockenstraÃŸe 54, 56, 58, 63 (Denkmalzone) anspruchsvolle grÃ¼nderzeitliche ZeilenwohnhÃ¤user, 4. Viertel 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76976,49.43762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GoethestraÃŸe 35</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">GoethestraÃŸe 35</SimpleData>
+		<SimpleData name="lat">49.44083</SimpleData>
+		<SimpleData name="lng">7.75433</SimpleData>
+		<SimpleData name="beschreibung">Goetheschule; ehem. Rupprechtschule, monumentaler fÃ¼nfgeschossiger Sandsteinquaderbau mit KrÃ¼ppelwalmdach, Jugendstil, 1906-08, Arch. Ernst SpieÃŸ, Erweiterungen 1910/11 und 1913/14; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.75433,49.44083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HackstraÃŸe 14</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">HackstraÃŸe 14</SimpleData>
+		<SimpleData name="lat">49.44974</SimpleData>
+		<SimpleData name="lng">7.77329</SimpleData>
+		<SimpleData name="beschreibung">Eckwohnhaus, sandsteingegliederter Backsteinbau, Neurenaissance, 1898</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77329,49.44974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hellmut-Hartert-SraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Hellmut-Hartert-SraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.44161</SimpleData>
+		<SimpleData name="lng">7.75688</SimpleData>
+		<SimpleData name="beschreibung">ehem. VerwaltungsgebÃ¤ude des Distriktkrankenhauses, heute HNO-Klinik; DreiflÃ¼gelanlage, zweieinhalbgeschossiger Sandsteinquaderbau mit Walmdach, Neurenaissance, eingeschossige Anbauten, 1891/92, Arch. E. Plage, Frankfurt, und Karl</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.75688,49.44161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herzog-von-Weimar-StraÃŸe 30-148 (gerade Nrn.), &quot;Herzog von Weimar StraÃŸe&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Herzog-von-Weimar-StraÃŸe 30-148 (gerade Nrn.), &quot;Herzog von Weimar StraÃŸe&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">von der Gartenstadtbewegung geprÃ¤gte Arbeiterwohnsiedlung mit ein- bis zweigeschossigen ReihenhÃ¤usern, expressionistische Motive, 1921/22, Arch. Hermann Hussong und Alois Loch</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HummelstraÃŸe 1 , 3, 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">HummelstraÃŸe 1 , 3, 5</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">neugotische Wohnhausgruppe, sandsteingegliederte Backsteinbauten, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HummelstraÃŸe 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">HummelstraÃŸe 6</SimpleData>
+		<SimpleData name="lat">49.44157</SimpleData>
+		<SimpleData name="lng">7.77754</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Zeilenwohnhaus, Risalit mit Stufengiebel, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77754,49.44157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Im Einsiedlerhof 18 , 20, 22, 24</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Im Einsiedlerhof 18 , 20, 22, 24</SimpleData>
+		<SimpleData name="lat">49.42988</SimpleData>
+		<SimpleData name="lng">7.66107</SimpleData>
+		<SimpleData name="beschreibung">ehem. Deutschordenskomturei, Rest der Einfriedungsmauer, Bruchstein, 1580-84, Zinnenkranz 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.66107,49.42988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JÃ¤gerstraÃŸe 10 , 12</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">JÃ¤gerstraÃŸe 10 , 12</SimpleData>
+		<SimpleData name="lat">49.441693</SimpleData>
+		<SimpleData name="lng">7.764147</SimpleData>
+		<SimpleData name="beschreibung">viergeschossiges Eckwohn- und GeschÃ¤ftshaus, mosaikverblendete Stahlbetonkonstruktion, Attikageschoss, Flachdach, 1957, Arch. Walter Bremer</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.764147,49.441693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JÃ¤gerstraÃŸe 14</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">JÃ¤gerstraÃŸe 14</SimpleData>
+		<SimpleData name="lat">49.44162</SimpleData>
+		<SimpleData name="lng">7.763734</SimpleData>
+		<SimpleData name="beschreibung">neubarockes Eckwohn- und GeschÃ¤ftshaus mit Mansarddach, sandsteingegliederter Backsteinbau, 1901, Arch. K. Schwerth</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763734,49.44162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KammgarnstraÃŸe 17</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KammgarnstraÃŸe 17</SimpleData>
+		<SimpleData name="lat">49.444887</SimpleData>
+		<SimpleData name="lng">7.755607</SimpleData>
+		<SimpleData name="beschreibung">Kottenschule; imposanter dreigeschossiger Sandsteinquaderbau mit Walmdach, klassizistische Motive, 1891-93, Arch. Ludwig Ritter von Stempel; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.755607,49.444887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KanalstraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KanalstraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.44558</SimpleData>
+		<SimpleData name="lng">7.77374</SimpleData>
+		<SimpleData name="beschreibung">anspruchsvolle neubarocke Mansardwalmdach- Villa, 1908, Arch. Peter Geigers, Ausstattung; Anbauten 2. HÃ¤lfte 20. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77374,49.44558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KanalstraÃŸe 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KanalstraÃŸe 4</SimpleData>
+		<SimpleData name="lat">49.44519</SimpleData>
+		<SimpleData name="lng">7.77361</SimpleData>
+		<SimpleData name="beschreibung">BankgebÃ¤ude fÃ¼r den Vorschussverein Kaiserslautern, heute Volksbank, reprÃ¤sentativer zweieinhalbgeschossiger Sandsteinquaderbau auf Granitsockel, Mansardwalmdach, jugendstilig variierte neubarocke Motive, 1901/02, Arch. Adam Roos, Skulpturenschmuck von Adolf Bernd, Erweiterung 1921/22</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77361,49.44519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KarcherstraÃŸe 16 , 18</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KarcherstraÃŸe 16 , 18</SimpleData>
+		<SimpleData name="lat">49.436412</SimpleData>
+		<SimpleData name="lng">7.76031</SimpleData>
+		<SimpleData name="beschreibung">gleichartig strukturierte Jugendstil- ZeilenwohnhÃ¤user, Nr. 16 1908/09, Nr. 18 1907</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76031,49.436412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karl-Marx-StraÃŸe 1 /3</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Karl-Marx-StraÃŸe 1 /3</SimpleData>
+		<SimpleData name="lat">49.44378</SimpleData>
+		<SimpleData name="lng">7.77283</SimpleData>
+		<SimpleData name="beschreibung">Ehem. KÃ¶nigl. Bayerische Staatsbank, heute Hypo-Vereinsbank; anspruchsvolles EckgeschÃ¤ftshaus, dreigeschossiger neubarocker Mansardwalmdachbau, 1910, Arch. Eugen Drollinger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77283,49.44378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KerststraÃŸe 24</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KerststraÃŸe 24</SimpleData>
+		<SimpleData name="lat">49.44228</SimpleData>
+		<SimpleData name="lng">7.76774</SimpleData>
+		<SimpleData name="beschreibung">Union-Theater; dreigeschossiger historisierender Walmdachbau auf L-fÃ¶rmigem Grundriss, expressionistische Motive, 1911, Arch. Christian Hocke; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76774,49.44228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KlosterstraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KlosterstraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.44599</SimpleData>
+		<SimpleData name="lng">7.77227</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tklassizistisches Zeilenwohn- und GeschÃ¤ftshaus mit Kniestock, Mitte 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77227,49.44599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KlosterstraÃŸe 3 , 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KlosterstraÃŸe 3 , 5</SimpleData>
+		<SimpleData name="lat">49.4461</SimpleData>
+		<SimpleData name="lng">7.7725</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tklassizistisches Zeilenwohn- und GeschÃ¤ftshaus mit Kniestock, Mitte 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7725,49.4461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KlosterstraÃŸe 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KlosterstraÃŸe 6</SimpleData>
+		<SimpleData name="lat">49.4461</SimpleData>
+		<SimpleData name="lng">7.773141</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives spÃ¤tbarockes Eckwohnhaus, dreigeschossiger KrÃ¼ppelwalmdachbau, Ende 18. Jh., im Kern 16. Jh. (bez. 1542), Umbau zum Schulhaus 1819; gotische tonnengewÃ¶lbte Keller</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.773141,49.4461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(an) KlosterstraÃŸe 13</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(an) KlosterstraÃŸe 13</SimpleData>
+		<SimpleData name="lat">49.44621</SimpleData>
+		<SimpleData name="lng">7.77339</SimpleData>
+		<SimpleData name="beschreibung">Sandsteinportal, bez. 1611</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77339,49.44621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KÃ¶nigstraÃŸe 54-82 (gerade Nrn.), 71-85 (ungerade Nrn.), Albert-Schweitzer-StraÃŸe 39, 41, 43, 45, Friedrich-Engels-StraÃŸe 1, Friedrich-Karl-StraÃŸe 2, HartmannstraÃŸe 1, 3, 5, 19, 22, 24, OrffstraÃŸe 1, 2, 3, 4, 5, 6, 8, St. Marien-Platz 13, WerderstraÃŸe 1-4, &quot;Westliche KÃ¶nigstraÃŸe&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KÃ¶nigstraÃŸe 54-82 (gerade Nrn.), 71-85 (ungerade Nrn.), Albert-Schweitzer-StraÃŸe 39, 41, 43, 45, Friedrich-Engels-StraÃŸe 1, Friedrich-Karl-StraÃŸe 2, HartmannstraÃŸe 1, 3, 5, 19, 22, 24, OrffstraÃŸe 1, 2, 3, 4, 5, 6, 8, St. Marien-Platz 13, WerderstraÃŸe 1-4, &quot;Westliche KÃ¶nigstraÃŸe&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat"></SimpleData>
+		<SimpleData name="lng"></SimpleData>
+		<SimpleData name="beschreibung">Wohnsiedlung der GemeinnÃ¼tzigen Baugenossenschaft bzw. -gesellschaft Kaiserslautern; zwei- bis dreigeschossige Zeilenbauten mit Sattel- bzw. WalmdÃ¤chern, traditionelle und expressionistische Motive, 1919-25, Arch. Eduard Brill, Hermann Hussong, Alois Loch, Michael Miller, Philipp Spelger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KÃ¶nigstraÃŸe 84-96 (gerade Nrn.), 97-109 (ungerade Nrn.), Albert-Schweitzer-StraÃŸe 47-63 (ungerade Nrn.), GoebenstraÃŸe 1, 3, 5, 7, PfaffstraÃŸe 24, 26, 28, 30, RoonstraÃŸe 15, 17, Rundbau&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">KÃ¶nigstraÃŸe 84-96 (gerade Nrn.), 97-109 (ungerade Nrn.), Albert-Schweitzer-StraÃŸe 47-63 (ungerade Nrn.), GoebenstraÃŸe 1, 3, 5, 7, PfaffstraÃŸe 24, 26, 28, 30, RoonstraÃŸe 15, 17, Rundbau&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat"></SimpleData>
+		<SimpleData name="lng"></SimpleData>
+		<SimpleData name="beschreibung">Wohnsiedlung der GemeinnÃ¼tzigen Baugesellschaft Kaiserslautern im Stil der Neuen Sachlichkeit; langgestreckte zwei- bis viergeschossige kubische Putzbauten mit Flach- bzw. PultdÃ¤chern, an der KÃ¶nigstraÃŸe sog. Rundbau, 1926-28, Arch. Hermann Hussong; im Zentrum begrÃ¼nter Innenhof mit Teich und Brunnenskulptur, Kunststein, Bildhauer Fritz Korter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(bei) KreuzhofstraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(bei) KreuzhofstraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.46939</SimpleData>
+		<SimpleData name="lng">7.73818</SimpleData>
+		<SimpleData name="beschreibung">Wegekreuz, Sandsteinkreuz mit Metallkorpus, bez. 1841 und 1908 (Versetzung)</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.73818,49.46939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mainzer Tor 3 , 4, SteinstraÃŸe 67</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mainzer Tor 3 , 4, SteinstraÃŸe 67</SimpleData>
+		<SimpleData name="lat">49.44802</SimpleData>
+		<SimpleData name="lng">7.77608</SimpleData>
+		<SimpleData name="beschreibung">groÃŸvolumige, zwei- bis viergeschossige Zeilenwohn- und GeschÃ¤ftshÃ¤user auf L- fÃ¶rmigem Grundriss, Heimatstil, 1911/12, Arch. Fritz Leidner; Ausstattung; Gesamtanlage</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77608,49.44802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe 25</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe 25</SimpleData>
+		<SimpleData name="lat">49.44696</SimpleData>
+		<SimpleData name="lng">7.77919</SimpleData>
+		<SimpleData name="beschreibung">Eckwohn- und GeschÃ¤ftshaus, dreigeschossiger historisierender Walmdachbau, 1909/10, Arch. Ph. Motz</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77919,49.44696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe 33</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe 33</SimpleData>
+		<SimpleData name="lat">49.44636</SimpleData>
+		<SimpleData name="lng">7.78012</SimpleData>
+		<SimpleData name="beschreibung">neuklassizistisches Wohnhaus, zweieinhalbgeschossiger Walmdachbau, um 1870</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.78012,49.44636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe 105</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe 105</SimpleData>
+		<SimpleData name="lat">49.44564</SimpleData>
+		<SimpleData name="lng">7.78625</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤thistoristisches Eckwohnhaus mit GaststÃ¤tte, JugendstileinflÃ¼sse, 1903, Arch. Fritz Leidner</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.78625,49.44564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe 17, 19-21 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe 17, 19-21 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">barockisierende ZeilenwohnhÃ¤user, um 1860, beispielhaft fÃ¼r die bis in die 2. HÃ¤lfte des 19. Jh. in Kaiserslautern gebrÃ¤uchliche bescheidene Wohnbebauung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe 205, 210, 212, 214, StiftswaldstraÃŸe 60, 23er-Kaserne (Kleberkaserne) (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe 205, 210, 212, 214, StiftswaldstraÃŸe 60, 23er-Kaserne (Kleberkaserne) (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">anspruchsvolle Kasernenanlage, 1913/14, Arch. Rudolf von Perignon, 1937/38 erweitert; HauptgebÃ¤ude (Mannheimer Str. 205): schlossartiger DreiflÃ¼gelbau mit hohem Uhrturm mit Kuppeldach; ehem. Offizierskasino (Stiftswaldstr. 60): eineinhalbgeschossiger palastartiger Mansardwalmdachbau, Ausstattung; entlang der Mannheimer- bzw. StiftswaldstraÃŸe neubarocke Mansardwalmdachbauten; ehem. Garnisonslazarett (Mannheimer Str. 214): schlossartiger Mansardwalmdachbau mit Dachturm mit Kuppeldach</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mannheimer StraÃŸe, DonnersbergstraÃŸe, Alter Hauptfriedhof (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Mannheimer StraÃŸe, DonnersbergstraÃŸe, Alter Hauptfriedhof (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">1873 angelegt, bis 1918 mehrfach erweitert; durch orthogonales Wegenetz in lÃ¤ngsrechteckige Distrikte gegliedert und von Sandsteinmauer umschlossen; Friedhofskapelle (DonnersbergstraÃŸe 76) anspruchsvoller historistischer Sandsteinquaderbau, 1903-05, Stadtbaumeister Ernst SpieÃŸ, 1981-84 umgebaut und erweitert: in der Eingangsachse Friedhofskreuz, 1874; Kriegerdenkmal 1870/71, Germania auf Sandsteinstele, 1876 von Jakob Menges; nÃ¶rdl. des jÃ¼dischen Friedhofs Ehrenfeld 1870/71, guÃŸeiserne Kreuze auf Sandsteinsockeln; in der Eingangsachse an der Mannheimer StraÃŸe LÃ¶wenbrunnen, Gussstein, 1917/18, Karl Dick; an der sÃ¼dlichen Umfassungsmauer beim Haupteingang Unterstand in Form dorischer SÃ¤ulenhalle, 1912, Hermann Hussong; am Haupteingang an der Mannheimer StraÃŸe Sandsteinreliefs mit Evangelistensymbolen, um 1918, Karl Gern; an der nÃ¶rdl. Umfassungsmauer GrabmÃ¤ler K. Michel (1896), Ã„dikula; W. Opfermann (um 1909), Stele mit Bronzetondo; Jausel-Hoffmann (um 1900) SÃ¤ulenÃ¤dikula mit Relief; F. Karcher (1886), Ã„dikula mit seitl. Putti; Ph. Karcher (1894), Ã„dikula mit Figur Trauernder; E. Braun (um 1900), Trauernde; N. MÃ¼ller (1892), Ã„dikula mit Engelfigur; H. Jaenisch, Ã„dikula mit Trauernder von 1903; H. MÃ¼ller (1904), Trauernde vor Obelisk; E. Jacob (1903), Ã„dikula mit Bronzetondo; Fam. Euler, Spatz, Uge (um 1907), Portalarchitektur mit setl. Engeln. F. 4: C. Kafitz (1882), Ã„dikula mit Trauernder; F. 5: J.W. Jacob (1888), Ã„dikula mit Genius; Ph. Rohr (1892), Ã„dikula mit Marmorrelief;J. Subic (1898), Obelisk mit Relieftondo; J. Menges (1881), Ã„dikula mit PortrÃ¤treliefs und Urne; F. 6: K. Kroeckel (1894), Ã„dikula mit Gewandfigur; M. Jansohn (1889), klassizistische Stele; A. MÃ¼ller (1881), Ã„dikula mit Genius; Grewening/Winterhauer, SÃ¤ule mit Vasenaufsatz; anonym, Engel vor urnenbekrÃ¶nter SÃ¤ule; K. Larouette (1880), Ã„dikula; anonym, Trauernde; F. 7: K. Goerg (1826), versetzter stelenartiger Grabstein; E. Kayer (1903), Ã„dikula; A.v. Gienanth (1829), versetzter Eisensarkophag; F. 10: F.W. Bruenings (1909), Ã„dikula; F. 12: A. Roos (1929), Grabanlage mit Galvano- Engel; J. und K. Gleich (1899), Ã„dikula; F. 13: Fam. Ritter (um 1910), Grabanlage; W. Raab ((1883), Trauernde; C. Goerg (1905), Ã„dikula; W. Ihrig (1903), Stele mit Relief einer Trauernden; J.D.Gravius (1872), klassizistische Stele; C. Schuck (1890), weibl. Gewandfigut; F. 14: K. MÃ¼nch (1895), Engelfigur. Fam. Immetsberger (um 1900), Jugendstil- Grabanlage; F. 18: K. Compter (1907): Ã„dikula mit Trauernder; F. 20: A. und O. Sommerrock (um 1920), Galvano einer Trauernden; F. 21: M. Hocke (1907), Grabanlage mit Relief eines Engels; F. 22: E. Sander (um 1915), Ã„dikula; G. Sicius 8Kaiserslautern 29.11.11 (1909), Todesengel; C. GrÃ¼newald (1862), Ã„dikula mit Relief und MarmorbÃ¼ste; F. 23: L. Kreuz (1921): Ã„dikula mit Relief; F. 35: W. Graf (um 1920), Portalarchitektur mit Relief. Mannheimer StraÃŸe, DonnersbergstraÃŸe, Hauptfriedhof ab 1912 Anlage des Waldfriedhofs nach PlÃ¤nen von H. Hussong; nordÃ¶stlich an den Alten Hauptfriedhof anschlieÃŸend in leicht ansteigendem GelÃ¤nde; Ehrenfriedhof fÃ¼r Gefallenen beider Weltkriege, 1953, gestufte Anlage; Denkmal mit Pieta-Relief von Menges; anschl. Ehrenfeld fÃ¼r die russischen Opfer des Faschismus, 1950, wÃ¼rfelfÃ¶rmiges Denkmal mit kyrillischer Inschrift; Pavillon, 1912, Arch. H. Hussong, kleiner Zentralbau auf Hochterrasse; F. I 36: A. Zepp (1929), Relief eines trauernden Engels; F. Leonhard (1918), Arkade mit Urnen; F. II 15: F.W.Fuchs (1912), gestufter Aufbau mit Reliefs; F. III 23: G.M.Pfaff (um 1920), kubischer Stein mit Bronzetondi; F. IV 66a: J. Bernd (1887), PortrÃ¤tbÃ¼ste; F. V 1: v. Fleischbein /um 1870), versetztes Grabkreuz; F. V 2: K. JÃ¶rns (1932), Grabanlage mit Urnenaufsatz; F. VI 4: I. Blauth (1939), Flachrelief einer Spinnerin; F. A 11: Grabkapelle K. Huber, um 1925, Arch. H. Hussong F. 50a: Trauernde (um 1930) von G.A. Bernd; Mannheimer StraÃŸe, DonnersbergstraÃŸe, JÃ¼discher Friedhof (Denkmalzone) auf dem GelÃ¤nde des spÃ¤teren Hauptfriedhofs 1858 angelegt mit zahlreichen GrabstÃ¤tten des 19. und frÃ¼hen 20. Jh.; GrabmÃ¤ler: Fam. Joseph Kehr (1885), tempelartige Sandsteinarchitektur; Franz Kehr (1891), spÃ¤tgrÃ¼nderzeitliche Sandstein-Ã„dikula; Leo Kahn (1902), Sandstein; Simon Rheinstrom (1902), Sandstein- Eichenstamm</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.443395</SimpleData>
+		<SimpleData name="lng">7.769463</SimpleData>
+		<SimpleData name="beschreibung">Marktbrunnen; Brunnentrog von 1938, Brunnenstock 1991 von Richard Menges rekonstruiert (Original im Casimirsaal), ursprÃ¼nglich um 1720 vor der Stiftskirche aufgestellt</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.769463,49.443395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 1, SpittelstraÃŸe 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 1, SpittelstraÃŸe 7</SimpleData>
+		<SimpleData name="lat">49.44531</SimpleData>
+		<SimpleData name="lng">7.77162</SimpleData>
+		<SimpleData name="beschreibung">viergeschossiges Eckwohn- und GeschÃ¤ftshaus mit Mansard- bzw. KrÃ¼ppelwalmdach, Heimatstil, 1910, Arch. Fritz Seeberger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77162,49.44531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 8</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 8</SimpleData>
+		<SimpleData name="lat">49.44519</SimpleData>
+		<SimpleData name="lng">7.77109</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges gotisches Wohnhaus, tlw. Fachwerk, schieferverkleidet, um 1491; barocke Holztreppe</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77109,49.44519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 11</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 11</SimpleData>
+		<SimpleData name="lat">49.44467</SimpleData>
+		<SimpleData name="lng">7.77125</SimpleData>
+		<SimpleData name="beschreibung">Adlerapotheke, klassizistisches Wohn- und GeschÃ¤ftshaus, 1809/10, mit Giebel der spÃ¤tmittelalterlichen Richardiskapelle; tonnengewÃ¶lbter Keller</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77125,49.44467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 12 /14</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 12 /14</SimpleData>
+		<SimpleData name="lat">49.44503</SimpleData>
+		<SimpleData name="lng">7.77125</SimpleData>
+		<SimpleData name="beschreibung">Zeilenwohn- und GeschÃ¤ftshaus, viergeschossiger Sandsteinquaderbau mit Walmdach, Jugendstilmotive, 1911, Arch. Geiger und Klostermann</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77125,49.44503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 15 /17</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 15 /17</SimpleData>
+		<SimpleData name="lat">49.44424</SimpleData>
+		<SimpleData name="lng">7.77056</SimpleData>
+		<SimpleData name="beschreibung">viergeschossiges Zeileneckwohn- und GeschÃ¤ftshaus, Mansardwalmdach mit turmartiger BekrÃ¶nung, 1911/12, Arch. Karl und Friedrich Scheu</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77056,49.44424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 18</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 18</SimpleData>
+		<SimpleData name="lat">49.44477</SimpleData>
+		<SimpleData name="lng">7.77066</SimpleData>
+		<SimpleData name="beschreibung">viergeschossiges grÃ¼nderzeitliches Eckwohn- und GeschÃ¤ftshaus, Mansarddachbau mit aufwÃ¤ndiger Sandsteingliederung, um 1880; straÃŸenbildprÃ¤gend; Ausstattung; kreuzgratgewÃ¶lbte Keller Ã¤lter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77066,49.44477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 20 /22</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 20 /22</SimpleData>
+		<SimpleData name="lat">49.44477</SimpleData>
+		<SimpleData name="lng">7.77056</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tbarocker Fachwerkbau, zwei- bzw. dreigeschossiger Walmdachbau, 18. Jh. mit Ã¤lteren Teilen; tonnengewÃ¶lbter Keller</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77056,49.44477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 26</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 26</SimpleData>
+		<SimpleData name="lat">49.44445</SimpleData>
+		<SimpleData name="lng">7.77047</SimpleData>
+		<SimpleData name="beschreibung">viergeschossiges Zeilenwohn- und GeschÃ¤ftshaus mit Mansarddach, Neurenaissance, kurz vor 1887, Arch. F. Habich; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77047,49.44445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MarktstraÃŸe 38</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MarktstraÃŸe 38</SimpleData>
+		<SimpleData name="lat">49.44416</SimpleData>
+		<SimpleData name="lng">7.76996</SimpleData>
+		<SimpleData name="beschreibung">Neurenaissancefassade des dreigeschossigen hausteingegliederten Backsteinbaus mit Mansarddach, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76996,49.44416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin-Luther-StraÃŸe 20</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Martin-Luther-StraÃŸe 20</SimpleData>
+		<SimpleData name="lat">49.44806</SimpleData>
+		<SimpleData name="lng">7.77005</SimpleData>
+		<SimpleData name="beschreibung">Berufsbildende Schule II, L-fÃ¶rmiger, kubisch gestaffelter Stahlbetonskelettbau mit fÃ¼nfgeschossigem Haupttrakt, dreigeschossigem Verbindungsteil und viergeschossigem SeitenflÃ¼gel, FlachdÃ¤cher, 1954-56, Arch. Heusser, Heyl und Kallmeyer; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77005,49.44806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MatzenstraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MatzenstraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.44617</SimpleData>
+		<SimpleData name="lng">7.77444</SimpleData>
+		<SimpleData name="beschreibung">grÃ¼nderzeitliches Eckwohn- und GeschÃ¤ftshaus, Backsteinbau mit Mansarddach, Ende 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77444,49.44617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MaxstraÃŸe 17</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MaxstraÃŸe 17</SimpleData>
+		<SimpleData name="lat">49.44665</SimpleData>
+		<SimpleData name="lng">7.76656</SimpleData>
+		<SimpleData name="beschreibung">Maxschule II; ehem. Ackerbauschule, dreigeschossiger neuklassizistischer Walmdachbau, 1871/72</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76656,49.44665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MaxstraÃŸe 19</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MaxstraÃŸe 19</SimpleData>
+		<SimpleData name="lat">49.44686</SimpleData>
+		<SimpleData name="lng">7.76659</SimpleData>
+		<SimpleData name="beschreibung">Maxschule; dreigeschossiger Walmdachbau, 1852, Arch. Wilhelm Neu, Aufstockung 1881 MedicusstraÃŸe 1, Pirmasenser StraÃŸe 72 dreigeschossiges historisierendes Eckwohnhaus, nach 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76659,49.44686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MedicusstraÃŸe 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MedicusstraÃŸe 15</SimpleData>
+		<SimpleData name="lat">49.439139</SimpleData>
+		<SimpleData name="lng">7.761153</SimpleData>
+		<SimpleData name="beschreibung">Eckwohn- und GeschÃ¤ftshaus, dreigeschossiger Walmdachbau, Jugendstil- und Heimatstilmotive, 1909/10, Arch. Theisinger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761153,49.439139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MedicusstraÃŸe 36, 38, 40, 42, 44, St.-Marien-Platz 12 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MedicusstraÃŸe 36, 38, 40, 42, 44, St.-Marien-Platz 12 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">U-fÃ¶rmige Baugruppe mit Wohn- und GeschÃ¤ftshÃ¤usern, zwei- bzw. dreigeschossige sandsteingegliederte Putzbauten, malerische Gesamtwirkung, um 1900/10</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MoltkestraÃŸe 25</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MoltkestraÃŸe 25</SimpleData>
+		<SimpleData name="lat">49.441545</SimpleData>
+		<SimpleData name="lng">7.763442</SimpleData>
+		<SimpleData name="beschreibung">imposantes Eckwohnhaus mit Mansarddach, Neurenaissancemotive, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763442,49.441545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MoltkestraÃŸe 27</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MoltkestraÃŸe 27</SimpleData>
+		<SimpleData name="lat">49.441418</SimpleData>
+		<SimpleData name="lng">7.763544</SimpleData>
+		<SimpleData name="beschreibung">RÃ¶hmschule; monumentaler ReprÃ¤sentationsbau, dreigeschossiger neuklassizistischer Walmdachbau, 1885/86</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763544,49.441418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(zu) Morlauterer StraÃŸe 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(zu) Morlauterer StraÃŸe 7</SimpleData>
+		<SimpleData name="lat">49.44873</SimpleData>
+		<SimpleData name="lng">7.76468</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Gartenpavillon, tempelartiger Pavillon mit Glockendach und Einfriedung, um 1900; straÃŸenbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76468,49.44873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morlauterer StraÃŸe 31</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Morlauterer StraÃŸe 31</SimpleData>
+		<SimpleData name="lat">49.451763</SimpleData>
+		<SimpleData name="lng">7.764054</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Staatliche Ingenieurschule fÃ¼r Maschinenwesen, heute Fachhochschule, dreiflÃ¼geliger Stahlbetonskelettbau mit dreigeschossigem Haupttrakt, zweigeschossigem konvexem Verbindungsteil und zweigeschossigem Saalbau, 1956/57, Entwurf Staatl. Hochbauamt</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.764054,49.451763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MÃ¼nchstraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MÃ¼nchstraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.44406</SimpleData>
+		<SimpleData name="lng">7.77081</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshaus, dreigeschossiger Mansarddachbau, jugendstilig variierte barocke Motive, 1904, Arch. J. Seeberger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77081,49.44406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MÃ¼nchstraÃŸe 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MÃ¼nchstraÃŸe 6</SimpleData>
+		<SimpleData name="lat">49.44384</SimpleData>
+		<SimpleData name="lng">7.77094</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tbarockes Wohnhaus, tlw. Fachwerk (verputzt), wohl 18. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77094,49.44384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MÃ¼nchstraÃŸe 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">MÃ¼nchstraÃŸe 10</SimpleData>
+		<SimpleData name="lat">49.44366</SimpleData>
+		<SimpleData name="lng">7.77129</SimpleData>
+		<SimpleData name="beschreibung">Eck-GeschÃ¤ftshaus, dreigeschossiger Mansarddachbau, bez. 1827; heute Gasthaus</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77129,49.44366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museumsplatz 1, Am Turnerheim 1, Von-Braun- StraÃŸe 16</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Museumsplatz 1, Am Turnerheim 1, Von-Braun- StraÃŸe 16</SimpleData>
+		<SimpleData name="lat">49.450234</SimpleData>
+		<SimpleData name="lng">7.770537</SimpleData>
+		<SimpleData name="beschreibung">ehem. PfÃ¤lzisches Gewerbemuseum, heute Pfalzgalerie; monumentaler, tlw. marmorverblendeter Neurenaissancebau, 1875- 80, Arch. Carl Spatz; im Foyer Marmorrelief von Emil Krieger, Fresko von Edvard Frank; dreigeschossiger Erweiterungsbau, 1915/16, Arch. Eduard Brill; Ã¶stliche FlÃ¼gel, Neue Sachlichkeit, 1927/28, Arch. Hermann Graf; Meisterschule: vier Sandsteinquaderbauten mit WalmdÃ¤chern, 1894/95 , Arch. Carl Spatz, 1953 in Skelettbauweise erweitert</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.770537,49.450234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OsterstraÃŸe 2, MÃ¼nchstraÃŸe 8</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">OsterstraÃŸe 2, MÃ¼nchstraÃŸe 8</SimpleData>
+		<SimpleData name="lat">49.44374</SimpleData>
+		<SimpleData name="lng">7.77118</SimpleData>
+		<SimpleData name="beschreibung">Central-Kino, gestaffelter Baukomplex, barockisierende Motive, 1913/14, Arch. Alois Loch, Erweiterung 1925/26</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77118,49.44374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OsterstraÃŸe 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">OsterstraÃŸe 7</SimpleData>
+		<SimpleData name="lat">49.44353</SimpleData>
+		<SimpleData name="lng">7.77074</SimpleData>
+		<SimpleData name="beschreibung">Zeilenwohn- und GeschÃ¤ftshaus mit Mansarddach, jugendstilig variierte historisierende Motive, 1902/03, Arch. J. Seeberger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77074,49.44353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pariser StraÃŸe 300</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pariser StraÃŸe 300</SimpleData>
+		<SimpleData name="lat">49.43884</SimpleData>
+		<SimpleData name="lng">7.7723</SimpleData>
+		<SimpleData name="beschreibung">zwei LuftschutztÃ¼rme, zylinderfÃ¶rmige Spitzbunker auf kreisrundem Grundriss mit kegelfÃ¶rmigem Abschluss, Eisenbetonkonstruktionen mit Stahlbewehrung und -drucktÃ¼ren, Anfang 1940er Jahre</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7723,49.43884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 11</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 11</SimpleData>
+		<SimpleData name="lat">49.43848</SimpleData>
+		<SimpleData name="lng">7.77035</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Eckwohn- und GeschÃ¤ftshaus, 1889; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77035,49.43848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 46</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 46</SimpleData>
+		<SimpleData name="lat">49.438155</SimpleData>
+		<SimpleData name="lng">7.766216</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges Eckwohnhaus, 1908/09, Arch. Johann Hammel, Ladeneinbauten jÃ¼nger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766216,49.438155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 47</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 47</SimpleData>
+		<SimpleData name="lat">49.4375</SimpleData>
+		<SimpleData name="lng">7.763343</SimpleData>
+		<SimpleData name="beschreibung">villenartiges Wohnhaus, eineinhalbgeschossiger GrÃ¼nderzeitbau, 1890, rÃ¼ckwÃ¤rtige Aufstockung 1914</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763343,49.4375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 49 /51</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 49 /51</SimpleData>
+		<SimpleData name="lat">49.437512</SimpleData>
+		<SimpleData name="lng">7.763133</SimpleData>
+		<SimpleData name="beschreibung">hochgesockelte eineinhalbgeschossige Neurenaissancebauten mit bewegter Dachlandschaft, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763133,49.437512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 55</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 55</SimpleData>
+		<SimpleData name="lat">49.437275</SimpleData>
+		<SimpleData name="lng">7.762486</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Zeilenwohnhaus, eingeschossiger Sandsteinquaderbau mit Mansarddach, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.762486,49.437275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 56</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 56</SimpleData>
+		<SimpleData name="lat">49.437997</SimpleData>
+		<SimpleData name="lng">7.765019</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges Jugendstil-Zeilenwohnhaus, 1905/06, Arch. Adam Roos</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.765019,49.437997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 59 /61</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 59 /61</SimpleData>
+		<SimpleData name="lat">49.43722</SimpleData>
+		<SimpleData name="lng">7.762278</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives spÃ¤tgrÃ¼nderzeitliches Eckwohnhaus, sandsteingegliederte Klinkerbauten, um 1892</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.762278,49.43722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 63</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 63</SimpleData>
+		<SimpleData name="lat">49.437089</SimpleData>
+		<SimpleData name="lng">7.761869</SimpleData>
+		<SimpleData name="beschreibung">villenartiges eineinhalbgeschossiges Eckwohnhaus mit Fachwerkgiebeln, 1901; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761869,49.437089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 71</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 71</SimpleData>
+		<SimpleData name="lat">49.436758</SimpleData>
+		<SimpleData name="lng">7.761161</SimpleData>
+		<SimpleData name="beschreibung">Wohnhaus mit Mansarddach, Heimatstil und jugendstilig variierte historisierende Motive, bez. 1908, im Kern Ã¤lter, Arch. Raimund Ostermaier; Ausstattung; Parkanlage mit Pavillon</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761161,49.436758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ParkstraÃŸe 75</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ParkstraÃŸe 75</SimpleData>
+		<SimpleData name="lat">49.436725</SimpleData>
+		<SimpleData name="lng">7.760759</SimpleData>
+		<SimpleData name="beschreibung">eingeschossiges Wohnhaus mit malerisch dekorierter Fassade, bez. 1888</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.760759,49.436725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PfaffenbergstraÃŸe 108</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">PfaffenbergstraÃŸe 108</SimpleData>
+		<SimpleData name="lat">49.42576</SimpleData>
+		<SimpleData name="lng">7.75831</SimpleData>
+		<SimpleData name="beschreibung">Pestalozzischule, weitlÃ¤ufiger Komplex, mehrflÃ¼gelige, ein- bzw. zweigeschossige verputzte bzw. verklinkerte Stahlbeton- Skelettbauten, 1956/57, Entwurf Stadtbauamt; Mosaik-Wandbild; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.75831,49.42576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.441974</SimpleData>
+		<SimpleData name="lng">7.768105</SimpleData>
+		<SimpleData name="beschreibung">Eckwohn- und GeschÃ¤ftshaus, dreigeschossiger sandsteingegliederter Backsteinbau mit Mansarddach, Neurenaissance, 1896</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768105,49.441974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 2 ,4,6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 2 ,4,6</SimpleData>
+		<SimpleData name="lat">49.442033</SimpleData>
+		<SimpleData name="lng">7.767812</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliche Zeilenwohn- und GeschÃ¤ftshÃ¤user, zwei- bzw. dreigeschossige historisierende Putz- bzw. Klinkerbauten, Ende 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767812,49.442033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 27</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 27</SimpleData>
+		<SimpleData name="lat">49.440645</SimpleData>
+		<SimpleData name="lng">7.766221</SimpleData>
+		<SimpleData name="beschreibung">Eckwohnhaus mit GaststÃ¤tte, Neurenaissance, vor 1887</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766221,49.440645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 32 /34</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 32 /34</SimpleData>
+		<SimpleData name="lat">49.440705</SimpleData>
+		<SimpleData name="lng">7.766091</SimpleData>
+		<SimpleData name="beschreibung">Dreiseithof; spÃ¤tklassizistisches Wohnhaus, Mitte 19. Jh., Toranlage und eingeschossiger Anbau, 1923, grÃ¶ÃŸtenteils gleichzeitige NebengebÃ¤ude</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766091,49.440705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 44 a</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 44 a</SimpleData>
+		<SimpleData name="lat">49.439935</SimpleData>
+		<SimpleData name="lng">7.765226</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges Jugendstil-Zeilenwohn- und GeschÃ¤ftshaus mit Mansarddach, 1907/08, Arch. Raimund Ostermaier; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.765226,49.439935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 59</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 59</SimpleData>
+		<SimpleData name="lat">49.43897</SimpleData>
+		<SimpleData name="lng">7.76369</SimpleData>
+		<SimpleData name="beschreibung">Villa KrÃ¶ckel; eineinhalbgeschossige herrschaftliche Villa, schlossartiger Neurenaissancebau, 1886, Arch. Carl Spatz; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76369,49.43897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 74</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 74</SimpleData>
+		<SimpleData name="lat">49.438239</SimpleData>
+		<SimpleData name="lng">7.760997</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges grÃ¼nderzeitliches Eckwohnhaus mit Walmdach, vor 1887, Aufstockung 1905, Arch. Fritz Leidner</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.760997,49.438239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirmasenser StraÃŸe 58, 59, 60, 60a, 60b, 62-74, Trippstadter StraÃŸe 2a, 5, ParkstraÃŸe 47-77 (ungerade Nrn.), KarcherstraÃŸe 2, 4, 6, 8, 16, 18, 20, MedicusstraÃŸe 1, BeethovenstraÃŸe 56,</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Pirmasenser StraÃŸe 58, 59, 60, 60a, 60b, 62-74, Trippstadter StraÃŸe 2a, 5, ParkstraÃŸe 47-77 (ungerade Nrn.), KarcherstraÃŸe 2, 4, 6, 8, 16, 18, 20, MedicusstraÃŸe 1, BeethovenstraÃŸe 56,</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">1876 vom VerschÃ¶nerungsausschuss unter Karl Sturm angelegt, die umschlieÃŸende Bebauung auf Grundlage des Stadterweiterungsplans von 1887 errichtet: groÃŸbÃ¼rgerliche WohnhÃ¤user; dreigeschossige ZeilenwohnhÃ¤user sowie ein- bzw. zweigeschossige villenartige WohnhÃ¤user, Putz-, Ziegel- bzw. Sandsteinquaderbauten, um 1886-1926; zeigt die Entwicklung der groÃŸbÃ¼rgerlichen Wohnhausarchitektur</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ReichswaldstraÃŸe 79, 81, 83 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ReichswaldstraÃŸe 79, 81, 83 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440536</SimpleData>
+		<SimpleData name="lng">7.766389</SimpleData>
+		<SimpleData name="beschreibung">Walmdachbauten, expressionistisch geprÃ¤gter Heimatstil, 1925/26</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766389,49.440536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 52</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 52</SimpleData>
+		<SimpleData name="lat">49.440187</SimpleData>
+		<SimpleData name="lng">7.76657</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Posthalterei, grÃ¼nderzeitliches Wohn- und GeschÃ¤ftshaus mit NebengebÃ¤uden, vor 1887</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76657,49.440187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 54 , 56</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 54 , 56</SimpleData>
+		<SimpleData name="lat">49.439235</SimpleData>
+		<SimpleData name="lng">7.767454</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshÃ¤user, sandsteingegliederte Backsteinbauten mit MansarddÃ¤chern, Neurenaissance, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767454,49.439235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 63</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 63</SimpleData>
+		<SimpleData name="lat">49.43938</SimpleData>
+		<SimpleData name="lng">7.76675</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliches Eckwohnhaus, sandsteingegliederter Backsteinbau mit Mansarddach, 1892</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76675,49.43938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 64 , 66, 68</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 64 , 66, 68</SimpleData>
+		<SimpleData name="lat">49.438987</SimpleData>
+		<SimpleData name="lng">7.767192</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tgrÃ¼nderzeitliche Wohn- und GeschÃ¤ftshÃ¤user, Putzbau bzw. Backsteinbauten (Nr. 64, 66) mit MansarddÃ¤chern, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767192,49.438987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 70 /72</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 70 /72</SimpleData>
+		<SimpleData name="lat">49.438742</SimpleData>
+		<SimpleData name="lng">7.767654</SimpleData>
+		<SimpleData name="beschreibung">anspruchsvolles Eck-Doppelwohnhaus, Neurenaissance bzw. Neubarock, um 1887; Nr. 72 mit Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767654,49.438742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 71</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 71</SimpleData>
+		<SimpleData name="lat">49.438425</SimpleData>
+		<SimpleData name="lng">7.767464</SimpleData>
+		<SimpleData name="beschreibung">Zeileneckwohn- und GeschÃ¤ftshaus mit Mansardwalmdach, Neurenaissance, 1890</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767464,49.438425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 80</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 80</SimpleData>
+		<SimpleData name="lat">49.438159</SimpleData>
+		<SimpleData name="lng">7.767983</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Bayerische Brandversicherung, reprÃ¤sentativer villenartiger Neurenaissancebau mit Mansardwalmdach, um 1890</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767983,49.438159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 81</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 81</SimpleData>
+		<SimpleData name="lat">49.437697</SimpleData>
+		<SimpleData name="lng">7.768164</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges spÃ¤thistoristisches Eckwohnhaus mit Mansarddach und NebengebÃ¤ude, um 1890</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.768164,49.437697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 91</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 91</SimpleData>
+		<SimpleData name="lat">49.43732</SimpleData>
+		<SimpleData name="lng">7.76832</SimpleData>
+		<SimpleData name="beschreibung">grÃ¼nderzeitliches Zeilenwohnhaus, dreigeschossiger Backsteinbau, nach 1887</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76832,49.43732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 95 , 97, 99</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 95 , 97, 99</SimpleData>
+		<SimpleData name="lat">49.43673</SimpleData>
+		<SimpleData name="lng">7.76867</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossige spÃ¤tgrÃ¼nderzeitliche ZeilenwohnhÃ¤user, sandsteingegliederte Backsteinbauten, Nr. 95 mit Walmdach, Nr. 97 bez. 1899, Nr. 99 bez. 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76867,49.43673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 107</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 107</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshaus, dreigeschossiger Backsteinbau, jugendstilig variierte neubarocke Motive, 1903</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richard-Wagner-StraÃŸe 37-51, 52-87, 89, 91-107 (ungerade Nrn.) (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Richard-Wagner-StraÃŸe 37-51, 52-87, 89, 91-107 (ungerade Nrn.) (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.447009</SimpleData>
+		<SimpleData name="lng">7.770708</SimpleData>
+		<SimpleData name="beschreibung">Zeile grÃ¼nderzeitlicher Wohn- und GeschÃ¤ftshÃ¤user, zwei- bzw. dreigeschossige hausteingegliederte Ziegel-, Putz- bzw. Sandsteinbauten, 1880-1910a</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.770708,49.447009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rittersberg 14</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Rittersberg 14</SimpleData>
+		<SimpleData name="lat">49.437678</SimpleData>
+		<SimpleData name="lng">7.766614</SimpleData>
+		<SimpleData name="beschreibung">hakenfÃ¶rmiges Wohnhaus, tlw. Fachwerk (verputzt), Mansarddach um 1620, barocker Umbau bez. 1770, gegen 1820 (unter Einbeziehung eines Ã¤lteren Baus) und 1845/46 erweitert; im Keller gotischer Torbogen Rudolf-Breitscheid-StraÃŸe 2 /4 Doppelwohnhaus, neugotischer Bruchsandsteinbau, 1899</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.766614,49.437678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rudolf-Breitscheid-StraÃŸe 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Rudolf-Breitscheid-StraÃŸe 6</SimpleData>
+		<SimpleData name="lat">49.44103</SimpleData>
+		<SimpleData name="lng">7.76227</SimpleData>
+		<SimpleData name="beschreibung">Zeilenwohnhaus mit GaststÃ¤tte, spÃ¤tgrÃ¼nderzeitlicher Sandsteinquaderbau, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76227,49.44103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rudolf-Breitscheid-StraÃŸe 58</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Rudolf-Breitscheid-StraÃŸe 58</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentative dreigeschossige Wohn- und GeschÃ¤ftshÃ¤user, neugotische Motive, 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rudolf-Breitscheid-StraÃŸe 27, 29, 31 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Rudolf-Breitscheid-StraÃŸe 27, 29, 31 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.44318</SimpleData>
+		<SimpleData name="lng">7.77139</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossige einheitlich konzipierte grÃ¼nderzeitliche Zeilenwohn- und GeschÃ¤ftshÃ¤user, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77139,49.44318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RummelstraÃŸe 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">RummelstraÃŸe 9</SimpleData>
+		<SimpleData name="lat">49.446334</SimpleData>
+		<SimpleData name="lng">7.774254</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Post, anspruchsvoller spÃ¤tgrÃ¼nderzeitlicher Eckbau, zweiflÃ¼geliger Sandsteinquaderbau, 1890, Arch. Ludwig Ritter von Stempel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.774254,49.446334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ScheidstraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">ScheidstraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.4451</SimpleData>
+		<SimpleData name="lng">7.76948</SimpleData>
+		<SimpleData name="beschreibung">klassizistisches Wohnhaus mit abgewalmtem Mansarddach Ã¼ber hohem tonnengewÃ¶lbten Keller, 1806</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76948,49.4451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schillerplatz 3</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Schillerplatz 3</SimpleData>
+		<SimpleData name="lat">49.44516</SimpleData>
+		<SimpleData name="lng">7.77029</SimpleData>
+		<SimpleData name="beschreibung">Wohnhaus mit Torfahrt, um 1820; platzbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77029,49.44516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schillerplatz 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Schillerplatz 4</SimpleData>
+		<SimpleData name="lat">49.4451</SimpleData>
+		<SimpleData name="lng">7.76939</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives dreigeschossiges spÃ¤tklassizistisches Wohn- und GeschÃ¤ftshaus, um 1860</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76939,49.4451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schillerplatz 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Schillerplatz 5</SimpleData>
+		<SimpleData name="lat">49.445262</SimpleData>
+		<SimpleData name="lng">7.769007</SimpleData>
+		<SimpleData name="beschreibung">Wohnhaus mit Torfahrt Ã¼ber GewÃ¶lbekeller, 1823/24, Ladeneinbau spÃ¤tes 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.769007,49.445262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schillerplatz 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Schillerplatz 7</SimpleData>
+		<SimpleData name="lat">49.44494</SimpleData>
+		<SimpleData name="lng">7.77038</SimpleData>
+		<SimpleData name="beschreibung">Eckwohn- und GeschÃ¤ftshaus, fÃ¼nfgeschossiger kubischer Flachdachbau, Stahlbetonskelettbauweise, Bauhaus-Stil, 1928, Arch. Schwilling</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77038,49.44494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SchillerstraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SchillerstraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.447152</SimpleData>
+		<SimpleData name="lng">7.756456</SimpleData>
+		<SimpleData name="beschreibung">Gasthaus &quot;Zum SpinnrÃ¤dl&quot;, barocker KrÃ¼ppelwalmdachbau, tlw. Fachwerk, 1. HÃ¤lfte 18. Jh., eingeschossiger Anbau Mitte 18. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.756456,49.447152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SchoenstraÃŸe 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SchoenstraÃŸe 10</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Kraftwerk der ehem. Kammgarnspinnerei; eineinhalbgeschossiger aufwÃ¤ndig gegliederter Neurenaissance-Sandsteinquaderbau mit Flachdach, um 1860</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SchoenstraÃŸe, LauterstraÃŸe, MÃ¼hlstraÃŸe, ForellenstraÃŸe, &quot;Ehem. Kammgarnspinnerei&quot; (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SchoenstraÃŸe, LauterstraÃŸe, MÃ¼hlstraÃŸe, ForellenstraÃŸe, &quot;Ehem. Kammgarnspinnerei&quot; (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.438725</SimpleData>
+		<SimpleData name="lng">7.7645</SimpleData>
+		<SimpleData name="beschreibung">(heute StÃ¤dtisches Kulturzentrum und Teil der Fachhochschule Rheinland-Pfalz), ehem. Kraftwerk, Neurenaissancebau, um 1860; altes Kesselhaus mit Treppengiebel, um 1860; neues Kesselhaus, Backsteinbau, L-fÃ¶rmiger Verwaltungstrakt, Blankziegelbau, sowie ehem. Produktionshallen, Neue Sachlichkeit, 1936/37, Arch. Philipp J. Manz, Stuttgart, Ausstattung; ehem. Elektrowerkstatt, Nadelsetzerei und Sattlerei, Backstein-Fachwerkbau mit Pultdach; Kraftfahrzeughalle, Klinkerbau, wohl 1920er Jahre; Westbahnhof, Rotsandsteinquaderbau, um 1883, gusseiserne BahnsteigÃ¼berdachung; eingeschossiges PfÃ¶rtnerhaus, Neue Sachlichkeit</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7645,49.438725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SchumannstraÃŸe 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SchumannstraÃŸe 10</SimpleData>
+		<SimpleData name="lat">49.445339</SimpleData>
+		<SimpleData name="lng">7.772224</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshaus, haubendachbekrÃ¶nte, bunt verglaste Erker, Jugendstilmotive, nach 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.772224,49.445339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SpittelstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SpittelstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.442103</SimpleData>
+		<SimpleData name="lng">7.761318</SimpleData>
+		<SimpleData name="beschreibung">Spittelbrunnen; Sandsteinschale mit aufgesockeltem Standbild, 1912, Arch. Hermann Hussong, Bildhauer Adolf Bernd</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761318,49.442103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Marien-Platz 20</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Marien-Platz 20</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Kath. Pfarrhaus, neugotischer Sandsteinquaderbau, um 1890</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Marien-Platz 18, 19, Rudolf-Breitscheid-StraÃŸe 62 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Marien-Platz 18, 19, Rudolf-Breitscheid-StraÃŸe 62 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Wohn- und GeschÃ¤ftshÃ¤user gegenÃ¼ber der Marienkirche, auf L-fÃ¶rmigem Grundriss, dreigeschossige sandsteingegliederte Putzbauten, Heimatstil, 1911/12, Arch. Seeberger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Marien-Platz 23, 24, 25, 26, KindergartenstraÃŸe 19 (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Marien-Platz 23, 24, 25, 26, KindergartenstraÃŸe 19 (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.44597</SimpleData>
+		<SimpleData name="lng">7.77195</SimpleData>
+		<SimpleData name="beschreibung">HÃ¤userzeile gegenÃ¼ber der Marienkirche, zwei- bzw. dreigeschossige sandsteingegliederte Backstein- bzw. Putzbauten mit MansarddÃ¤chern, Nr. 23 und 24 1910, Nr. 25 und 26 1906, Nr. 19 1907/08</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77195,49.44597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz</SimpleData>
+		<SimpleData name="lat">49.44597</SimpleData>
+		<SimpleData name="lng">7.77195</SimpleData>
+		<SimpleData name="beschreibung">durch einheitlich geschlossene Umbauung des 18. und frÃ¼hen 19. Jh. gekennzeichneter Platz, spÃ¤testens im 17. Jh. angelegt</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77195,49.44597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz</SimpleData>
+		<SimpleData name="lat">49.445598</SimpleData>
+		<SimpleData name="lng">7.770982</SimpleData>
+		<SimpleData name="beschreibung">Fontainebrunnen, antikisierender Schalenbrunnen, Sandstein mit gusseiserner BrunnensÃ¤ule, 1890/91 von Eduard KÃ¶lwel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.770982,49.445598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz 1</SimpleData>
+		<SimpleData name="lat">49.44604</SimpleData>
+		<SimpleData name="lng">7.77167</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Gasthaus &quot;Zu den drei KÃ¶nigen&quot;, dreigeschossiger Walmdachbau (Fachwerk), um 1740, klassizistische Steinfassade 1820/30; rÃ¼ckwÃ¤rtig Konzertsaal, sandsteingegliederter historistischer Klinkerbau, Jugendstil- Ausstattung, um 1900, Arch. Adam Roos</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77167,49.44604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz 2</SimpleData>
+		<SimpleData name="lat">49.4461</SimpleData>
+		<SimpleData name="lng">7.7718</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges spÃ¤tbarockes Wohnhaus, um 1766, spÃ¤tklassizistische Erdgeschossfenster Mitte 19. Jh., Aufstockung 1912</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7718,49.4461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz 3</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz 3</SimpleData>
+		<SimpleData name="lat">49.445977</SimpleData>
+		<SimpleData name="lng">7.772148</SimpleData>
+		<SimpleData name="beschreibung">ehem. Rathaus (heute Musikschule), stattlicher dreigeschossiger Putzbau, um 1750, Aufstockung und Umbau der Torfahrt Ende 19. Jh.; platzbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.772148,49.445977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz 4</SimpleData>
+		<SimpleData name="lat">49.44573</SimpleData>
+		<SimpleData name="lng">7.77201</SimpleData>
+		<SimpleData name="beschreibung">zweigeschossiges Wohn- und GeschÃ¤ftshaus, sandsteingegliederter KrÃ¼ppelwalmdachbau, frÃ¼hes 19. Jh., zur SteinstraÃŸe vorkragendes Fachwerkobergeschoss, 17. Jh., tlw. klassizistischer Umbau Mitte 19. Jh.; tonnengewÃ¶lbter Keller Ã¤lter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77201,49.44573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St.-Martins-Platz 6</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">St.-Martins-Platz 6</SimpleData>
+		<SimpleData name="lat">49.4462</SimpleData>
+		<SimpleData name="lng">7.77223</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Gasthaus &quot;Zum goldenen Schaf&quot;, stattliches dreigeschossiges Wohn- und GeschÃ¤ftshaus, anspruchsvoller sandsteingegliederter KrÃ¼ppelwalmdachbau, 1816; platzbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77223,49.4462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 10</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 10</SimpleData>
+		<SimpleData name="lat">49.44634</SimpleData>
+		<SimpleData name="lng">7.77216</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges neuklassizistisches Wohn- und GeschÃ¤ftshaus, vor 1887</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77216,49.44634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 15</SimpleData>
+		<SimpleData name="lat">49.4466</SimpleData>
+		<SimpleData name="lng">7.7728</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges Wohn- und GeschÃ¤ftshaus, jugendstilig variierte historisierende Motive, 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7728,49.4466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 23</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 23</SimpleData>
+		<SimpleData name="lat">49.44708</SimpleData>
+		<SimpleData name="lng">7.77394</SimpleData>
+		<SimpleData name="beschreibung">dreigeschossiges spÃ¤tklassizistisches Wohn- und GeschÃ¤ftshaus, 1836</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77394,49.44708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 39</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 39</SimpleData>
+		<SimpleData name="lat">49.44742</SimpleData>
+		<SimpleData name="lng">7.77447</SimpleData>
+		<SimpleData name="beschreibung">ehem. Wirtschaftshof des Zisterzienserklosters Werschweiler, spÃ¤ter Herrschaftssitz des Hans Bechtolf von Flersheim; Eckwohnhaus, im Kern 1585, Umbauten 18.-20. Jh.; mittelalterlicher GewÃ¶lbekeller</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77447,49.44742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 47</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 47</SimpleData>
+		<SimpleData name="lat">49.44739</SimpleData>
+		<SimpleData name="lng">7.7755</SimpleData>
+		<SimpleData name="beschreibung">U-fÃ¶rmige Hofanlage, 1817; klassizistisches Wohn- und GeschÃ¤ftshaus, Mitte 19. Jh., schlichte SeitenflÃ¼gel, im Westen mit Fachwerk- Laubengang; tonnengewÃ¶lbter Keller Ã¤lter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7755,49.44739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 48</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 48</SimpleData>
+		<SimpleData name="lat">49.44752</SimpleData>
+		<SimpleData name="lng">7.7749</SimpleData>
+		<SimpleData name="beschreibung">ehem. Fuhrmannsgasthof &quot;Zum Rheinkreis&quot; (jetztTheodor-Zink-Museum), Vierseithof, 1817; KrÃ¼ppelwalmdachbau Ã¼ber tonnengewÃ¶lbtem Keller, Fachwerk-Stallungen, Scheune</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7749,49.44752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 49</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 49</SimpleData>
+		<SimpleData name="lat">49.44796</SimpleData>
+		<SimpleData name="lng">7.77543</SimpleData>
+		<SimpleData name="beschreibung">villenartiges Wohnhaus, herrschaftlicher Neurenaissancebau mit Walmdach, 1853/54</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77543,49.44796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SteinstraÃŸe 55</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SteinstraÃŸe 55</SimpleData>
+		<SimpleData name="lat">49.44451</SimpleData>
+		<SimpleData name="lng">7.77306</SimpleData>
+		<SimpleData name="beschreibung">ehem. Wirtschaftshof der PrÃ¤monstratenserabtei Wadgassen, KrÃ¼ppelwalmdachbau mehrerer Bauphasen; Kapelle Ã¼ber zwei tonnengewÃ¶lbten Kellern, wohl 13. Jh., Wandmalereireste 15. Jh., Fachwerk-Aufstockung Ende 16. Jh., Erweiterung um 1733 und Anfang 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77306,49.44451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stiftsplatz 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Stiftsplatz 9</SimpleData>
+		<SimpleData name="lat">49.43827</SimpleData>
+		<SimpleData name="lng">7.76391</SimpleData>
+		<SimpleData name="beschreibung">ehem. Filiale der PfÃ¤lzischen Bank, danach Stadtsparkasse; reprÃ¤sentativer dreigeschossiger Sandsteinquaderbau mit Mansarddach, jugendstilig variierte neubarocke Motive, 1907/08, Arch. Victor Lindner, Mannheim Trippstadter StraÃŸe 2 a spÃ¤tgrÃ¼nderzeitliches Eckwohnhaus mit Walmdach, kurz vor 1887</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76391,49.43827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trippstadter StraÃŸe 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Trippstadter StraÃŸe 5</SimpleData>
+		<SimpleData name="lat">49.448631</SimpleData>
+		<SimpleData name="lng">7.767583</SimpleData>
+		<SimpleData name="beschreibung">heute prot. Kindergarten, prÃ¤chtige Neurenaissance-Villa, sandsteingegliederter Klinkerbau mit Walmdach, 1900/01; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.767583,49.448631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VillenstraÃŸe 6 /8</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">VillenstraÃŸe 6 /8</SimpleData>
+		<SimpleData name="lat">49.4495</SimpleData>
+		<SimpleData name="lng">7.77188</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentative Villa, zweieinhalb- bzw. dreigeschossiger neuklassizistischer Walmdachbau, 1913, Arch. Eduard Brill; Ausstattung; straÃŸenseitige Einfriedung, offener Pavillon und Bedienstetenhaus mit Walmdach (VillenstraÃŸe 8) bauzeitlich; unter Nr. 8 Bierkeller mit unterirdischem Gangsystem</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77188,49.4495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VillenstraÃŸe 21</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">VillenstraÃŸe 21</SimpleData>
+		<SimpleData name="lat">49.4495</SimpleData>
+		<SimpleData name="lng">7.77188</SimpleData>
+		<SimpleData name="beschreibung">villenartiges Eckwohnhaus, zweieinhalbgeschossiger Sandsteinquaderbau mit Walmdach, neugotische Motive, 1896</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77188,49.4495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(vor) VillenstraÃŸe 21</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(vor) VillenstraÃŸe 21</SimpleData>
+		<SimpleData name="lat">49.44131</SimpleData>
+		<SimpleData name="lng">7.77663</SimpleData>
+		<SimpleData name="beschreibung">BÃ¤renbrunnen; 1914 vom Bildhauer Adolf Bernd nach Entwurf von Herrmann Hussong geschaffen, Bronzefigur 1987 originalgetreu nachgebildet (da im 2. Weltkrieg eingeschmolzen)</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.77663,49.44131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WilhelmstraÃŸe 29</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">WilhelmstraÃŸe 29</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">zweieinhalbgeschossiges spÃ¤tgrÃ¼nderzeitliches Eckwohnhaus mit GaststÃ¤tte, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WilhelmstraÃŸe 1, 3, 5, BismarckstraÃŸe 37 f, g, h (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">WilhelmstraÃŸe 1, 3, 5, BismarckstraÃŸe 37 f, g, h (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Wohnkomplex fÃ¼r die Deutsche Bau- und Bodenbank; anspruchsvolle, zwei- bzw. dreieinhalbgeschossige Walmdachbauten auf L-fÃ¶rmigem Grundriss, an platzartiger StraÃŸenerweiterung mit Bezug auf die gegenÃ¼berliegende Wohnanlage in der FischerstraÃŸe, um 1920; Ausstattung</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WilhelmstraÃŸe 11-29 (ungerade Nrn.) (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">WilhelmstraÃŸe 11-29 (ungerade Nrn.) (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.44601</SimpleData>
+		<SimpleData name="lng">7.7702</SimpleData>
+		<SimpleData name="beschreibung">Zeile spÃ¤tgrÃ¼nderzeitlicher Wohn- und GeschÃ¤ftshÃ¤user; zwei- bzw. dreigeschossige sandsteingegliederte Backsteinbauten, um 1900</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7702,49.44601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Willy-Brandt-Platz 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Willy-Brandt-Platz 5</SimpleData>
+		<SimpleData name="lat">49.437042</SimpleData>
+		<SimpleData name="lng">7.816635</SimpleData>
+		<SimpleData name="beschreibung">Villa Munzinger; herrschaftliche Villa, sandsteingegliederter Backsteinbau mit Mansardwalmdach, 1892/93, Arch. wohl Ludwig Ritter von Stempel; Ausstattung Humbergturm, am sÃ¼dlichen Stadtrand auf einer 425 m hohen AnhÃ¶he monumentaler Sandsteinquaderbau, neuromanische Motive, hÃ¶lzerner Dachaufbau, 1899/1900, Arch. Ludwig Ritter von Stempel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.816635,49.437042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burgruine Beilstein, Ã¶stlich der Stadt auf einer Bergkuppe ('Beilsteiner Kopf')</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Burgruine Beilstein, Ã¶stlich der Stadt auf einer Bergkuppe ('Beilsteiner Kopf')</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">wohl um 1120 errichtet, nach ZerstÃ¶rung 1234 auf Grundmauern des VorgÃ¤ngers neu aufgebaut, wohl 1455 zerstÃ¶rt; im Bereich der Vorburg im Osten vor allem Mauerreste der spÃ¤tsalischen Anlage, an der Hauptburg mit ovalem Mauerring, Palas und Bergfried, hier BalkenlÃ¶cher und Mauerreste der spÃ¤tstaufischen Burg erhalten</SimpleData>
+		<SimpleData name="typ">burg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Entersweilerhof, am Ã¶stlichen Ende der VelmannstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Entersweilerhof, am Ã¶stlichen Ende der VelmannstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.437042</SimpleData>
+		<SimpleData name="lng">7.816635</SimpleData>
+		<SimpleData name="beschreibung">ummauerte Hofanlage; stattlicher verputzter Fachwerkbau, tlw. massiv (wohl 19. Jh.), mit Mansardwalmdach, bez. 1705, Scheune mit Stallungen</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.816635,49.437042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Humbergturm, am sÃ¼dlichen Stadtrand auf einer 425 m hohen AnhÃ¶he</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Humbergturm, am sÃ¼dlichen Stadtrand auf einer 425 m hohen AnhÃ¶he</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">monumentaler Sandsteinquaderbau, neuromanische Motive, hÃ¶lzerner Dachaufbau, 1899/1900, Arch. Ludwig Ritter von Stempel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stiftswalder Forsthaus, nÃ¶rdlich der VelmannstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Stiftswalder Forsthaus, nÃ¶rdlich der VelmannstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Hofanlage; Wohnhaus bez. 1848, mit eingeschossigem Anbau, ehem. Scheune mit Pferdestall, eingeschossiger Bruchsandsteinbau; Ziehbrunnen; bauzeitliche Toranlage</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WaschmÃ¼hltalbrÃ¼cke, nÃ¶rdlich der Stadt Ã¼ber dem steil eingeschnittenen WaschmÃ¼hltal</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">WaschmÃ¼hltalbrÃ¼cke, nÃ¶rdlich der Stadt Ã¼ber dem steil eingeschnittenen WaschmÃ¼hltal</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">monumentale zehnbogige sandsteinverkleidete Eisenbetonkonstruktion , parallel laufende ArkadenbÃ¶gen, 1935-37 fÃ¼r die Reichsautobahn, Arch. Fritz Todt und Paul Bonatz, Stuttgart</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pfarrkirche, Dansenberger StraÃŸe 63</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pfarrkirche, Dansenberger StraÃŸe 63</SimpleData>
+		<SimpleData name="lat">49.404724</SimpleData>
+		<SimpleData name="lng">7.728841</SimpleData>
+		<SimpleData name="beschreibung">neuromanischer Sandsteinquaderbau, bez. 1894, Dachreiter mit Welscher Haube, Arch. Fritz Leidner, Umbau und Erweiterung 1958/59; ortsbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.728841,49.404724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pfarrkirche, Brunnenring 43</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pfarrkirche, Brunnenring 43</SimpleData>
+		<SimpleData name="lat">49.47989</SimpleData>
+		<SimpleData name="lng">7.71349</SimpleData>
+		<SimpleData name="beschreibung">Saalbau, bez. 1737, Umbau 1867, Erweiterung und Glockenturm 1952-54</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.71349,49.47989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. MariÃ¤-EmpfÃ¤ngnis-Kirche, Kapellenhof 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. MariÃ¤-EmpfÃ¤ngnis-Kirche, Kapellenhof 15</SimpleData>
+		<SimpleData name="lat">49.47746</SimpleData>
+		<SimpleData name="lng">7.7113</SimpleData>
+		<SimpleData name="beschreibung">neubarocker Saalbau, 1926-28, Arch. Leidemer, Kusel</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7113,49.47746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brunnenring 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Brunnenring 1</SimpleData>
+		<SimpleData name="lat">49.404458</SimpleData>
+		<SimpleData name="lng">7.730673</SimpleData>
+		<SimpleData name="beschreibung">eingeschossiges Quereinhaus mit Kniestock, 2. HÃ¤lfte 19. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.730673,49.404458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lampertshof 11</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Lampertshof 11</SimpleData>
+		<SimpleData name="lat">49.48135</SimpleData>
+		<SimpleData name="lng">7.72857</SimpleData>
+		<SimpleData name="beschreibung">Ehem. LampertsmÃ¼hler Hof; nachbarockes Quereinhaus mit KrÃ¼ppelwalmdach, um 1830, tonnengewÃ¶lbte Keller Ã¤lter</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.72857,49.48135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lampertshof 12</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Lampertshof 12</SimpleData>
+		<SimpleData name="lat">49.48096</SimpleData>
+		<SimpleData name="lng">7.72725</SimpleData>
+		<SimpleData name="beschreibung">Direktorenvilla mit Mansardwalmdach, 1909/10, bauzeitliche Einfriedung, Jugendstil</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.72725,49.48096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RotenbergstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">RotenbergstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.485781</SimpleData>
+		<SimpleData name="lng">7.710043</SimpleData>
+		<SimpleData name="beschreibung">Kriegerdenkmal 1914/18; stelenartige Sandsteinpfeiler mit Skulpturenschmuck, 1925 von Adolf Bernd</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.710043,49.485781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RotenbergstraÃŸe, Friedhof</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">RotenbergstraÃŸe, Friedhof</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Friedhofskreuz, Sandstein, bez. 1872</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Siegelbacher StraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Siegelbacher StraÃŸe</SimpleData>
+		<SimpleData name="lat">49.481017</SimpleData>
+		<SimpleData name="lng">7.712085</SimpleData>
+		<SimpleData name="beschreibung">Kriegerdenkmal 1870/71; Sandsteinskulptur, 1907, Bildhauer Gebr. Menges</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.712085,49.481017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Siegelbacher StraÃŸe 95</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Siegelbacher StraÃŸe 95</SimpleData>
+		<SimpleData name="lat">49.48128</SimpleData>
+		<SimpleData name="lng">7.71258</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Rathaus mit Volksbad, heute AuÃŸenstelle der StadtbÃ¼cherei, reprÃ¤sentativer Walmdachbau, Uhrturm mit Schweifhaube, eingeschossiger Anbau, neubarocke Motive, 1926/27, Arch. Hans Seeberger</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.71258,49.48128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stockborn 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Stockborn 7</SimpleData>
+		<SimpleData name="lat">49.490709</SimpleData>
+		<SimpleData name="lng">7.704542</SimpleData>
+		<SimpleData name="beschreibung">Ehem. Schule mit Lehrerwohnung, heute Wohnhaus, eingeschossiger sandsteingegliederter Putzbau, bez. 1862/63</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.704542,49.490709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burgruine Hohenecken,, nordÃ¶stlich des Ortes auf einem AuslÃ¤ufer des Schlossbergs (Denkmalzone)</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Burgruine Hohenecken,, nordÃ¶stlich des Ortes auf einem AuslÃ¤ufer des Schlossbergs (Denkmalzone)</SimpleData>
+		<SimpleData name="lat">49.440066</SimpleData>
+		<SimpleData name="lng">7.749126</SimpleData>
+		<SimpleData name="beschreibung">Burg wohl nach der Mitte des 12. Jh. errichtet, Hauptbauzeit um 1200, 1277 erstmals genannt, 1525 verwÃ¼stet, bald darauf wiederhergestellt und 1560 umgebaut und erweitert, 1689 zerstÃ¶rt; Oberburg: Bergfried und Schildmauerreste der staufischen Kernanlage, dreigeschossige Umfassungsmauern der ehem. WohngebÃ¤ude, Reste einer Wendeltreppe, 16. Jh., Brunnenschacht; Unterburg: Toranlage, bez. 1560, Reste eines Gesindehauses, 16. Jh.; Ringmauerreste</SimpleData>
+		<SimpleData name="typ">burg</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.749126,49.440066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pfarrkirche, Im Nauwald 9</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pfarrkirche, Im Nauwald 9</SimpleData>
+		<SimpleData name="lat">49.478954</SimpleData>
+		<SimpleData name="lng">7.769252</SimpleData>
+		<SimpleData name="beschreibung">neugotischer Sandsteinquaderbau, 1900, Arch. Franz SchÃ¶berl, Speyer; Ausstattung; ortsbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.769252,49.478954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Pfarrkirche St. Rochus, Rochusweg 3 </name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Pfarrkirche St. Rochus, Rochusweg 3 </SimpleData>
+		<SimpleData name="lat">49.413037</SimpleData>
+		<SimpleData name="lng">7.699665</SimpleData>
+		<SimpleData name="beschreibung">neugotische Hallenkirche, Sandsteinbau, 1896/97, Arch. Ludwig Becker; Ausstattung; im Kirchgarten Kriegerdenkmal 1914/18, Sandstein, 1935 von J. Jausel</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.699665,49.413037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Rochuskapelle, Rochusweg 2 a</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Rochuskapelle, Rochusweg 2 a</SimpleData>
+		<SimpleData name="lat">49.41294</SimpleData>
+		<SimpleData name="lng">7.69987</SimpleData>
+		<SimpleData name="beschreibung">spÃ¤tbarocker Saalbau mit Dachreiter, 1747/48; Ausstattung; im umfriedeten Kirchgarten Grabsteine; Sandsteinkreuz, wohl Mitte 18. Jh., Metallkorpus jÃ¼nger</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.69987,49.41294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BurgherrenstraÃŸe 120</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">BurgherrenstraÃŸe 120</SimpleData>
+		<SimpleData name="lat">49.411479</SimpleData>
+		<SimpleData name="lng">7.697655</SimpleData>
+		<SimpleData name="beschreibung">ehem. Schlehhof, spÃ¤tbarocker Dreiseithof, stattlicher Mansardwalmdachbau, Ausstattung; Scheune mit abgewalmtem Mansarddach, bez. 1780, ehem. WaschkÃ¼che, Garten mit bauzeitlicher Einfriedung; ortsbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.697655,49.411479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SchloÃŸstraÃŸe 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">SchloÃŸstraÃŸe 5</SimpleData>
+		<SimpleData name="lat">49.412428</SimpleData>
+		<SimpleData name="lng">7.699563</SimpleData>
+		<SimpleData name="beschreibung">ehem. Schule, spÃ¤ter kath. Pfarrhaus, danach Schwesternhaus, heute Hotel; hochgesockelter Walmdachbau, 1843/44, Umbau und Aufstockung 1876; ortsbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.699563,49.412428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Filialkirche, Johanniskreuzer StraÃŸe 57</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Filialkirche, Johanniskreuzer StraÃŸe 57</SimpleData>
+		<SimpleData name="lat">49.38178</SimpleData>
+		<SimpleData name="lng">7.81488</SimpleData>
+		<SimpleData name="beschreibung">Saalbau, gotisierende Motive, 1928/29, Arch. Stoll, Neustadt; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.81488,49.38178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Filialkirche St. Blasius, StÃ¼terhofstraÃŸe 12</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Filialkirche St. Blasius, StÃ¼terhofstraÃŸe 12</SimpleData>
+		<SimpleData name="lat">49.37912</SimpleData>
+		<SimpleData name="lng">7.82204</SimpleData>
+		<SimpleData name="beschreibung">neubarocker Saalbau mit Dachreiter, 1930/31, Arch. Gebr. Leidner; Ausstattung; ortsbildprÃ¤gend</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.82204,49.37912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neuapostolische Kirche, DouzystraÃŸe 24</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Neuapostolische Kirche, DouzystraÃŸe 24</SimpleData>
+		<SimpleData name="lat">49.38017</SimpleData>
+		<SimpleData name="lng">7.82346</SimpleData>
+		<SimpleData name="beschreibung">Saalbau mit steilem Satteldach, gotisierende Motive, 1928, Arch. Roemer, Erweiterungen 1959 und 1967; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.82346,49.38017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EulentalstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EulentalstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.376939</SimpleData>
+		<SimpleData name="lng">7.821592</SimpleData>
+		<SimpleData name="beschreibung">Kriegerdenkmal 1914/18; reliefierter stelenartiger Kubus mit Brunnenbecken, nach 1945 erweitert</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.821592,49.376939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EulentalstraÃŸe 1</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">EulentalstraÃŸe 1</SimpleData>
+		<SimpleData name="lat">49.37933</SimpleData>
+		<SimpleData name="lng">7.82143</SimpleData>
+		<SimpleData name="beschreibung">Dreiseithof mit originaler Einfriedung; eingeschossiges Wohnhaus, tlw. Fachwerk, bez. 1803; Scheune, Stall und Schuppen, jÃ¼ngere Bruchsandsteinbauten</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.82143,49.37933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Kirche, An der Schanz 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Kirche, An der Schanz 2</SimpleData>
+		<SimpleData name="lat">49.469324</SimpleData>
+		<SimpleData name="lng">7.761604</SimpleData>
+		<SimpleData name="beschreibung">schlichter Sandsteinquaderbau, 1929/30, Arch. Ludwig Ullmann, Speyer; Ausstattung Kath. Kirche St. BartholomÃ¤us, Am HÃ¶fchen 4 Sandsteinquaderbau, 1928/29, Arch. Rudolf von Perignon, MÃ¼nchen; Ausstattung Am Glockenturm Glockenturm, Sandsteinquaderbau mit Zeltdach, neuromanische Motive, 1857</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761604,49.469324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neue StraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Neue StraÃŸe</SimpleData>
+		<SimpleData name="lat">49.470427</SimpleData>
+		<SimpleData name="lng">7.761724</SimpleData>
+		<SimpleData name="beschreibung">Kriegerdenkmal 1914/18; reliefierte Sandsteinstele, 1936, Bildhauer Menges</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.761724,49.470427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Otterbacher StraÃŸe 2</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Otterbacher StraÃŸe 2</SimpleData>
+		<SimpleData name="lat">49.46869</SimpleData>
+		<SimpleData name="lng">7.76414</SimpleData>
+		<SimpleData name="beschreibung">Wohnhaus, tlw. Fachwerk, bez. 1746, Ã¼ber tonnengewÃ¶lbtem Keller, bez. 1597</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76414,49.46869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>(in) Otterbacher StraÃŸe 5</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">(in) Otterbacher StraÃŸe 5</SimpleData>
+		<SimpleData name="lat">49.46843</SimpleData>
+		<SimpleData name="lng">7.7631</SimpleData>
+		<SimpleData name="beschreibung">mittelalterlicher Brunnenschacht, Sandsteinquder mit Steinmetzzeichen des 12. Jh.</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.7631,49.46843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TurmstraÃŸe</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">TurmstraÃŸe</SimpleData>
+		<SimpleData name="lat">49.466805</SimpleData>
+		<SimpleData name="lng">7.759152</SimpleData>
+		<SimpleData name="beschreibung">Schlachtenturm; oktogonaler Sandsteinquaderbau, 1893</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.759152,49.466805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ev. Pfarrkirche, Talmorgen 7</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Ev. Pfarrkirche, Talmorgen 7</SimpleData>
+		<SimpleData name="lat">49.4683</SimpleData>
+		<SimpleData name="lng">7.69117</SimpleData>
+		<SimpleData name="beschreibung">zweischiffige Emporenhalle mit Vorhalle, Rotsandsteinquaderbau, jugendstilig variierte neubarocke Motive, 1905-07, Arch. Ludwig Levy, Karlsruhe, Skulpturenschmuck von Bildhauer Jausel, Kaiserslautern, nach Vorlagen von Heinrich Bauer, Karlsruhe; Ausstattung; im Kirchgarten Kriegerdenkmal 1914/18, dreifach gestufte Sandsteinanlage von J. Jausel, 1927, Erweiterung 1957, Sandsteinkuben von Augustin Deubzer</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.69117,49.4683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auf der BrÃ¼cke 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Auf der BrÃ¼cke 15</SimpleData>
+		<SimpleData name="lat">49.469546</SimpleData>
+		<SimpleData name="lng">7.688894</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives Wohnhaus auf L-fÃ¶rmigem Grundriss, eineinhalbgeschossiger Mansarddachbau, um 1910</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.688894,49.469546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Erfenbacher StraÃŸe 15</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Erfenbacher StraÃŸe 15</SimpleData>
+		<SimpleData name="lat">49.470252</SimpleData>
+		<SimpleData name="lng">7.691154</SimpleData>
+		<SimpleData name="beschreibung">reprÃ¤sentatives Wohnhaus, eineinhalbgeschossiger KrÃ¼ppelwalmdachbau, barockisierender Heimatstil, um 1910</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.691154,49.470252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kath. Kirche St. BartholomÃ¤us, Am HÃ¶fchen 4</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Kath. Kirche St. BartholomÃ¤us, Am HÃ¶fchen 4</SimpleData>
+		<SimpleData name="lat">49.46776</SimpleData>
+		<SimpleData name="lng">7.76605</SimpleData>
+		<SimpleData name="beschreibung">Sandsteinquaderbau, 1928/29, Arch. Rudolf von Perignon, MÃ¼nchen; Ausstattung</SimpleData>
+		<SimpleData name="typ">sakralbau</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.76605,49.46776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Am Glockenturm</name>
+	<ExtendedData><SchemaData schemaUrl="#kaiserslautern_test">
+		<SimpleData name="Name">Am Glockenturm</SimpleData>
+		<SimpleData name="lat">49.47016</SimpleData>
+		<SimpleData name="lng">7.763983</SimpleData>
+		<SimpleData name="beschreibung">Glockenturm, Sandsteinquaderbau mit Zeltdach, neuromanische Motive, 1857</SimpleData>
+		<SimpleData name="typ">sonstiges</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.763983,49.47016</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

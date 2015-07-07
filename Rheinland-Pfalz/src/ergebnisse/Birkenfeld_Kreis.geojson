@@ -1,0 +1,1070 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone ehemalige Hütte (Mühlenberg 1, 3, 3a, 5)", "field_2": "Abentheuer", "field_3": "von Bruchsteinmauer umgebenes Gelände und Baulichkeiten der früheren Erzhütte\n\nNr. 1: ehemaliges Kleinwarenlager (1771)\nNr. 3: Herrenhaus; Mansarddachbau, Seitenrisalite (drittes Drittel des 18. Jahrhunderts)\nNr. 3a: Verwaltungs- und Gästehaus; Stall- und Remisengebäude (ab 1772)\nNr. 5: Wohn- und Produktionsbau\nReste des eisernen oberschlächtigen Wasserrads (zweite Hälfte des 19. Jahrhunderts)\ngusseiserne Brücke (um 1800)\nReste des Hochofens (Anfang des 19. Jahrhunderts)\nLauf des Traunbachs, Weiher, Landschaftsgarten\n\n", "field_4": 49.649517, "field_5": 7.101892 }, "geometry": { "type": "Point", "coordinates": [ 7.101892, 49.649517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Nr. 1", "field_2": "Abentheuer", "field_3": "ehemaliges Kleinwarenlager (1771)", "field_4": 49.649517, "field_5": 7.101892 }, "geometry": { "type": "Point", "coordinates": [ 7.101892, 49.649517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Nr. 3", "field_2": "Abentheuer", "field_3": "Herrenhaus; Mansarddachbau, Seitenrisalite (drittes Drittel des 18. Jahrhunderts)", "field_4": 49.649517, "field_5": 7.101892 }, "geometry": { "type": "Point", "coordinates": [ 7.101892, 49.649517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Nr. 3a", "field_2": "Abentheuer", "field_3": "Verwaltungs- und Gästehaus; Stall- und Remisengebäude (ab 1772)", "field_4": 49.649517, "field_5": 7.101892 }, "geometry": { "type": "Point", "coordinates": [ 7.101892, 49.649517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Nr. 5", "field_2": "Abentheuer", "field_3": "Wohn- und Produktionsbau", "field_4": 49.649517, "field_5": 7.101892 }, "geometry": { "type": "Point", "coordinates": [ 7.101892, 49.649517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Böckingstraße 11", "field_2": "Abentheuer", "field_3": "Landhaus auf unregelmäßigem Grundriss, teilweise holzverschindeltes Backsteinfachwerk, um 1900", "field_4": 49.651879, "field_5": 7.096313 }, "geometry": { "type": "Point", "coordinates": [ 7.096313, 49.651879 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenbergstraße 4", "field_2": "Abentheuer", "field_3": "Krüppelwalmdachbau, teilweise Fachwerk, frühes 19. Jahrhundert", "field_4": 53.315697, "field_5": 11.698697 }, "geometry": { "type": "Point", "coordinates": [ 11.698697, 53.315697 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenbergstraße 20", "field_2": "Abentheuer", "field_3": "eingeschossiger Mansardwalmdachbau, um 1800, Fachwerkscheune; ortsbildprägend", "field_4": 51.110839, "field_5": 7.644762 }, "geometry": { "type": "Point", "coordinates": [ 7.644762, 51.110839 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Achtelsbach", "field_3": "Kriegerdenkmal; 1920er Jahre, Entwurf Johann Wettgen, Hermeskeil, unterhalb der evangelischen Kirche", "field_4": 49.625165, "field_5": 7.092603 }, "geometry": { "type": "Point", "coordinates": [ 7.092603, 49.625165 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 24", "field_2": "Achtelsbach", "field_3": "Quereinhaus, bezeichnet 1857, Fachwerkscheune", "field_4": 49.625696, "field_5": 7.084977 }, "geometry": { "type": "Point", "coordinates": [ 7.084977, 49.625696 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 47", "field_2": "Achtelsbach", "field_3": "Quereinhaus, stattliches Quereinhaus, Mitte des 19. Jahrhunderts; Überformung wohl um 1900, Backesanbau", "field_4": 49.625696, "field_5": 7.084977 }, "geometry": { "type": "Point", "coordinates": [ 7.084977, 49.625696 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hohlstraße 1", "field_2": "Achtelsbach", "field_3": "Evangelische Kirche (ehemals Pfarrkirche St. Ulrich); Saalbau, im Kern mittelalterlich, barocker Umbau 1738; im Turm Grabplatte, 1738", "field_4": 49.702046, "field_5": 7.328905 }, "geometry": { "type": "Point", "coordinates": [ 7.328905, 49.702046 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Neuhof 1", "field_2": "Achtelsbach", "field_3": "ehemaliges Forsthaus Neuhof; Wohn- und Wirtschaftsgebäude, teilweise Fachwerk (weitgehend verschiefert), 1855, Ökonomie", "field_4": 49.648467, "field_5": 7.049197 }, "geometry": { "type": "Point", "coordinates": [ 7.049197, 49.648467 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 8", "field_2": "Allenbach", "field_3": "Forsthaus; kleiner Mansarddachbau, teilweise holz- oder schieferverkleidet, erstes Viertel des 20. Jahrhunderts", "field_4": 47.539507, "field_5": 8.821914 }, "geometry": { "type": "Point", "coordinates": [ 8.821914, 47.539507 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 46", "field_2": "Allenbach", "field_3": "stattliches Wohnhaus, teilweise verschiefert, Krüppelwalmdach, bezeichnet 1743", "field_4": 47.546709, "field_5": 8.844201 }, "geometry": { "type": "Point", "coordinates": [ 8.844201, 47.546709 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 50", "field_2": "Allenbach", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, 1780\/81, Architekt Friedrich Gerhard Wahl, Zweibrücken; Ausstattung", "field_4": 47.482588, "field_5": 9.032946 }, "geometry": { "type": "Point", "coordinates": [ 9.032946, 47.482588 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 62", "field_2": "Allenbach", "field_3": "Unterstallhaus, teilweise verschiefert, um 1900", "field_4": 47.542128, "field_5": 8.835012 }, "geometry": { "type": "Point", "coordinates": [ 8.835012, 47.542128 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Hintergasse 4", "field_2": "Allenbach", "field_3": "stattliches Wirtschaftsgebäude; dreischiffiger Stall, geräumige Scheune mit Klebedach, bezeichnet 1864", "field_4": 49.755124, "field_5": 7.163696 }, "geometry": { "type": "Point", "coordinates": [ 7.163696, 49.755124 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Schied 11", "field_2": "Allenbach", "field_3": "Mühlenausstattung und Müllerwohnung, 19. Jahrhundert", "field_4": 49.754909, "field_5": 7.166562 }, "geometry": { "type": "Point", "coordinates": [ 7.166562, 49.754909 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Schied 12", "field_2": "Allenbach", "field_3": "ehemaliges Sponheimisches Schloss; zwei- und dreigeschossiger Walmdachbau, im Kern spätmittelalterlich, mehrfach verändert, vor allem 1511 und von 1898 bis 1900, Architekten Wilhelm Müller und Franz Rummel, Frankfurt; ortsbildprägend", "field_4": 49.755287, "field_5": 7.16711 }, "geometry": { "type": "Point", "coordinates": [ 7.16711, 49.755287 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Asbacherhütte (südlich des Ortes)", "field_2": "Asbach (Hunsrück)", "field_3": "vom ehemaligen Werk zur Verhüttung und Weiterverarbeitung des Erzes (1721 bis 1872) zwei zu einer Zeile verbundene Wohn- und Verwaltungsgebäude, 18. Jahrhundert; daraus hervorgegangen Diakonieanstalt: Haus „Eben Ezer“ (Kopfbau mit abgewalmtem Mansarddach 1755, rückwärtiger Teil aus dem 18. Jahrhundert, im 19. Jahrhundert aufgestockt), Haus „Grüne Aue“ (villenartiger, asymmetrischer Bau, teilweise verputzt oder verschiefert, gegen 1907), Landschaftsgarten mit Einfriedung und Lauf des Asbaches, 19. Jahrhundert", "field_4": 49.289935, "field_5": 11.231304 }, "geometry": { "type": "Point", "coordinates": [ 11.231304, 49.289935 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße, auf dem Friedhof", "field_2": "Asbach (Hunsrück)", "field_3": "Grabmal R. H. Böcking, reliefierte Sandsteinstele mit Akroterien, 1871 von E. Renard, Köln", "field_4": 50.708555, "field_5": 7.011791 }, "geometry": { "type": "Point", "coordinates": [ 7.011791, 50.708555 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 12", "field_2": "Asbach (Hunsrück)", "field_3": "Portal, bezeichnet 1878", "field_4": 50.712097, "field_5": 7.012357 }, "geometry": { "type": "Point", "coordinates": [ 7.012357, 50.712097 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 14", "field_2": "Asbach (Hunsrück)", "field_3": "stattliches Wohnhaus, teilweise Fachwerk, teilweise verschiefert, Mansarddach, spätes 18. Jahrhundert; Ökonomie", "field_4": 50.711954, "field_5": 7.01242 }, "geometry": { "type": "Point", "coordinates": [ 7.01242, 50.711954 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 21", "field_2": "Asbach (Hunsrück)", "field_3": "Glockenturm; Fachwerkbau, 1867; darin Mahlmühle, Saatputzmaschine, Obstkelter", "field_4": 50.711219, "field_5": 7.012528 }, "geometry": { "type": "Point", "coordinates": [ 7.012528, 50.711219 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Treib 1", "field_2": "Asbach (Hunsrück)", "field_3": "stattliches Wohnhaus, 1848", "field_4": 49.812277, "field_5": 7.278034 }, "geometry": { "type": "Point", "coordinates": [ 7.278034, 49.812277 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Treib 10", "field_2": "Asbach (Hunsrück)", "field_3": "Streckhof, nach 1873", "field_4": 49.812527, "field_5": 7.276839 }, "geometry": { "type": "Point", "coordinates": [ 7.276839, 49.812527 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dicker Turm", "field_2": "Baumholder", "field_3": "vollrund, Bruchstein, teilweise rekonstruiert", "field_4": 49.615156, "field_5": 7.340655 }, "geometry": { "type": "Point", "coordinates": [ 7.340655, 49.615156 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Leichenpförtchen", "field_2": "Baumholder", "field_3": "quadratischer Torturm, Pyramidendach", "field_4": 49.615156, "field_5": 7.340655 }, "geometry": { "type": "Point", "coordinates": [ 7.340655, 49.615156 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Badegasse 1", "field_2": "Baumholder", "field_3": "sogenannte Schmiede Bier; kleiner Schmiedebau, wohl um 1840; technische Ausstattung", "field_4": 49.615547, "field_5": 7.338859 }, "geometry": { "type": "Point", "coordinates": [ 7.338859, 49.615547 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 10", "field_2": "Baumholder", "field_3": "ehemaliges Rathaus; siebenachsiger, dreigeschossiger klassizistischer Walmdachbau, 1840", "field_4": 49.615488, "field_5": 7.337861 }, "geometry": { "type": "Point", "coordinates": [ 7.337861, 49.615488 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 16", "field_2": "Baumholder", "field_3": "Quereinhaus, zwölfachsiges Quereinhaus, spätes 19. Jahrhundert", "field_4": 49.615226, "field_5": 7.338598 }, "geometry": { "type": "Point", "coordinates": [ 7.338598, 49.615226 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hinterm Turm, Ecke Hinter Haselweg", "field_2": "Baumholder", "field_3": "Katholische Pfarrkirche St. Simon und Judas Thaddäus; neugotische Hallenkirche, 1882–85, Architekt P. Kontzen, Deggendorf\/Bayern; Ausstattung", "field_4": 49.618395, "field_5": 7.33876 }, "geometry": { "type": "Point", "coordinates": [ 7.33876, 49.618395 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 19", "field_2": "Baumholder", "field_3": "Evangelische Pfarrkirche; barocker Saalbau, 1748–50, Architekt Friedrich Hartmann Koch, Kusel; Westturm spätgotisch", "field_4": 49.61665, "field_5": 7.340215 }, "geometry": { "type": "Point", "coordinates": [ 7.340215, 49.61665 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Korngasse 1", "field_2": "Baumholder", "field_3": "Gasthaus Goldener Engel; dreigeschossiger Putzbau, teilweise verschiefert, Anfang des 20. Jahrhunderts; ortsbildprägend", "field_4": 49.616125, "field_5": 7.338418 }, "geometry": { "type": "Point", "coordinates": [ 7.338418, 49.616125 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Marktplatz", "field_2": "Baumholder", "field_3": "sogenannter Wäschbach; fünfeckig gemauertes Becken, im Kern aus dem 19. Jahrhundert", "field_4": 49.61536, "field_5": 7.335786 }, "geometry": { "type": "Point", "coordinates": [ 7.335786, 49.61536 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 55", "field_2": "Bergen (bei Kirn)", "field_3": "Quereinhaus, bezeichnet 1874, fünfachsiger Sandsteinwohntrakt mit Kniestock, Wirtschaftsteil, teilweise Fachwerk, wohl aus den 1850er Jahren; Stall, bezeichnet 1856", "field_4": 47.195578, "field_5": 16.266567 }, "geometry": { "type": "Point", "coordinates": [ 16.266567, 47.195578 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 62a", "field_2": "Bergen (bei Kirn)", "field_3": "Evangelische Pfarrkirche; stark klassizistisch geprägter neugotischer Saalbau, 1860–62, Architekten L. Rhumbler, Alzey, und J. Lang, Kreuznach; in der Turmvorhalle Grabstein, 1686", "field_4": 47.196148, "field_5": 16.265409 }, "geometry": { "type": "Point", "coordinates": [ 16.265409, 47.196148 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenweg 3", "field_2": "Bergen (bei Kirn)", "field_3": "Quereinhaus mit Kniestock, Krüppelwalmdach, nach der Mitte des 19. Jahrhunderts", "field_4": 53.328208, "field_5": 9.870634 }, "geometry": { "type": "Point", "coordinates": [ 9.870634, 53.328208 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(neben) Hauptstraße 37", "field_2": "Berglangenbach", "field_3": "kleiner Schmiedebau, wohl vom Anfang des 20. Jahrhunderts; Ausstattung", "field_4": 49.599265, "field_5": 7.251372 }, "geometry": { "type": "Point", "coordinates": [ 7.251372, 49.599265 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchenweg", "field_2": "Berglangenbach", "field_3": "Evangelische Kirche; historisierender Effusivsteinbau, teilweise verputzt, 1906\/07, Architekt August Senz, Düsseldorf", "field_4": 49.599966, "field_5": 7.249476 }, "geometry": { "type": "Point", "coordinates": [ 7.249476, 49.599966 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(neben) Am Kirchpfad 1", "field_2": "Berschweiler bei Baumholder", "field_3": "Keller- und Speicherhaus, Satteldachbau mit zwei parallelen Tonnengewölben, wohl noch aus dem 18. Jahrhundert", "field_4": 49.57764, "field_5": 7.292308 }, "geometry": { "type": "Point", "coordinates": [ 7.292308, 49.57764 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 9", "field_2": "Berschweiler bei Baumholder", "field_3": "Evangelische Pfarrkirche; Saalbau 1743, Westturm 1863\/64; zwei Glocken, 14. Jahrhundert und 1499 von Meister Jörg zu Spier", "field_4": 49.577856, "field_5": 7.291284 }, "geometry": { "type": "Point", "coordinates": [ 7.291284, 49.577856 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 34", "field_2": "Berschweiler bei Baumholder", "field_3": "ehemaliges Pfarrhaus; vielgliedriger späthistoristischer Massivbau, 1901", "field_4": 49.577517, "field_5": 7.288813 }, "geometry": { "type": "Point", "coordinates": [ 7.288813, 49.577517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 40", "field_2": "Berschweiler bei Baumholder", "field_3": "ehemalige Bürgermeisterei; villenartiger historisierender Putzbau, 1905", "field_4": 49.57719, "field_5": 7.288149 }, "geometry": { "type": "Point", "coordinates": [ 7.288149, 49.57719 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 3", "field_2": "Berschweiler bei Kirn", "field_3": "Evangelische Kirche; neugotischer Gelbsandsteinquaderbau, 1866–68, Architekt Scheepers, Simmern; Ausstattung", "field_4": 49.771254, "field_5": 7.392946 }, "geometry": { "type": "Point", "coordinates": [ 7.392946, 49.771254 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 21", "field_2": "Berschweiler bei Kirn", "field_3": "Dreiseithof; Wohnhaus, teilweise Fachwerk (verputzt), bezeichnet 1830, Wirtschaftstrakte jünger", "field_4": 49.770085, "field_5": 7.391922 }, "geometry": { "type": "Point", "coordinates": [ 7.391922, 49.770085 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Burg Birkenfeld (Burgstraße 17, 19, 28, 30, 32)", "field_2": "Birkenfeld (Nahe)", "field_3": "von der mittelalterlichen Burg erhalten ein runder Turmstumpf; von der Renaissanceanlage das Torhaus (Nr. 17); ehemaliges „Gasthaus zum ledigen Waidsack“ (Nr. 28); Jugendherberge, 1926, Architekt Wilhelm Heilig, Darmstadt (Nr. 19)", "field_4": 49.64968, "field_5": 7.168089 }, "geometry": { "type": "Point", "coordinates": [ 7.168089, 49.64968 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Regierungsviertel (Schlossallee 2, 3, 5, 9, 7, 11, 15, Schneewiesenstraße 22, 25, Friedrich-August-Straße 17)", "field_2": "Birkenfeld (Nahe)", "field_3": "in oldenburgischer Zeit, seit dem frühen 19. Jahrhundert sukzessive entstandenes Regierungsviertel im Winkel von Schneewiesenstraße und Friedrich-August-Straße aus Schloss, Kaserne, Gefängnis, Regierungsgebäude II, Forstamt, Museum und Wohnhaus des Rektors des Gymnasiums", "field_4": 49.64968, "field_5": 7.168089 }, "geometry": { "type": "Point", "coordinates": [ 7.168089, 49.64968 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Friedhof (Brückener Straße)", "field_2": "Birkenfeld (Nahe)", "field_3": "1810 angelegt; neugotische Kapelle, um 1850; Grabkreuz 1769, auf Sockel um 1900; Gefallenendenkmal 1870\/71; zwei aufwändige Familiengräber (Familien Eduard und Richard Böcking); Grabmal Familie Scherer, 1920er Jahre", "field_4": 49.64968, "field_5": 7.168089 }, "geometry": { "type": "Point", "coordinates": [ 7.168089, 49.64968 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (südwestlich der Stadt, an der Straße nach Dambach)", "field_2": "Birkenfeld (Nahe)", "field_3": "34 Grabstellen in situ, ab 1898", "field_4": 49.64968, "field_5": 7.168089 }, "geometry": { "type": "Point", "coordinates": [ 7.168089, 49.64968 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchplatz 2", "field_2": "Birkenfeld (Nahe)", "field_3": "Wohn- und Geschäftshaus, teilweise Fachwerk, bezeichnet 1808, im Kern älter", "field_4": 49.648397, "field_5": 7.169364 }, "geometry": { "type": "Point", "coordinates": [ 7.169364, 49.648397 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchplatz 4\/6", "field_2": "Birkenfeld (Nahe)", "field_3": "Evangelische Pfarrkirche, barocker Saalbau, fünfseitiger Chor, 1750–56, Architekten Jonas Erikson Sundahl und Johannes Seiz; neuromanischer Westturm, 1895\/96, Architekt Heinrich Jester, Speyer; Glocken von 1554, 1717, 1961; Ausstattung", "field_4": 49.648228, "field_5": 7.168709 }, "geometry": { "type": "Point", "coordinates": [ 7.168709, 49.648228 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchplatz 5", "field_2": "Birkenfeld (Nahe)", "field_3": "Evangelische und katholische Volksschule; neunachsiger neubarocker Mansarddachdachbau, 1911; platzbildprägend", "field_4": 49.648618, "field_5": 7.168754 }, "geometry": { "type": "Point", "coordinates": [ 7.168754, 49.648618 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchplatz 11", "field_2": "Birkenfeld (Nahe)", "field_3": "Wohn- und (ehemaliges) Geschäftshaus; Neurenaissance, 1881, platzbildprägend", "field_4": 49.648356, "field_5": 7.168439 }, "geometry": { "type": "Point", "coordinates": [ 7.168439, 49.648356 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Rech 2", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenanntes Backhaus; kleines Wohnhaus, teilweise Fachwerk, teilweise verschiefert, 18. oder frühes 19. Jahrhundert", "field_4": 49.646507, "field_5": 7.16667 }, "geometry": { "type": "Point", "coordinates": [ 7.16667, 49.646507 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "An der Ölmühle 4", "field_2": "Birkenfeld (Nahe)", "field_3": "ehemalige Mühle; Bruchsteinbau, 1580; Ölmühle seit 1770er Jahren, Erweiterung und Dacherhöhung 1922; technische Ausstattung", "field_4": 49.653109, "field_5": 7.148542 }, "geometry": { "type": "Point", "coordinates": [ 7.148542, 49.653109 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Römer 5", "field_2": "Birkenfeld (Nahe)", "field_3": "Krüppelwalmdachbau, teilweise Fachwerk (holzverschindelt), bezeichnet 1723", "field_4": 49.647767, "field_5": 7.167801 }, "geometry": { "type": "Point", "coordinates": [ 7.167801, 49.647767 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Römer 6", "field_2": "Birkenfeld (Nahe)", "field_3": "barockes Wohnhaus, 18. Jahrhundert, im Kern wohl älter (1665?); straßen- und ortsbildprägend", "field_4": 49.647738, "field_5": 7.167972 }, "geometry": { "type": "Point", "coordinates": [ 7.167972, 49.647738 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Römer 9", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenanntes Kußlersches Haus; Eckwohnhaus, bezeichnet 1590, teilweise mit Veränderungen des 19. Jahrhunderts; ortsbildprägend", "field_4": 49.647615, "field_5": 7.167505 }, "geometry": { "type": "Point", "coordinates": [ 7.167505, 49.647615 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bahnhofstraße 2", "field_2": "Birkenfeld (Nahe)", "field_3": "späthistoristisches Wohnhaus, Hausteinputzflächen, Sichtfachwerk, spätes 19. Jahrhundert", "field_4": 47.480919, "field_5": 9.722664 }, "geometry": { "type": "Point", "coordinates": [ 9.722664, 47.480919 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bahnhofstraße 4", "field_2": "Birkenfeld (Nahe)", "field_3": "Eckwohnhaus, teilweise Fachwerk (verschiefert), hölzerne Galerie, spätes 18. oder frühes 19. Jahrhundert; straßenbildprägend", "field_4": 47.481035, "field_5": 9.722035 }, "geometry": { "type": "Point", "coordinates": [ 9.722035, 47.481035 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Brückener Straße 8", "field_2": "Birkenfeld (Nahe)", "field_3": "Wohnhaus mit Sattelwalmdach, übergiebeltes Zwerchhaus, 1920\/30er Jahre", "field_4": 49.648309, "field_5": 7.157399 }, "geometry": { "type": "Point", "coordinates": [ 7.157399, 49.648309 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Friedrich-August-Straße 15", "field_2": "Birkenfeld (Nahe)", "field_3": "Maler-Hugo-Zang-Haus; neuklassizistisches Wohnhaus, 1883", "field_4": 49.648099, "field_5": 7.163687 }, "geometry": { "type": "Point", "coordinates": [ 7.163687, 49.648099 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Friedrich-August-Straße 17", "field_2": "Birkenfeld (Nahe)", "field_3": "Museum; in Formen eines römischen Landhauses, 1910, Architekt Julius Groeschel, München", "field_4": 49.648496, "field_5": 7.162915 }, "geometry": { "type": "Point", "coordinates": [ 7.162915, 49.648496 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Gollenberger Weg 3", "field_2": "Birkenfeld (Nahe)", "field_3": "Laufbrunnen, Gusseisen, spätes 19. Jahrhundert", "field_4": 49.650496, "field_5": 7.167837 }, "geometry": { "type": "Point", "coordinates": [ 7.167837, 49.650496 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 9", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenanntes Stadthaus; aufwändiger historistischer Eckbau auf Terrasse, um 1900", "field_4": 47.438913, "field_5": 9.60511 }, "geometry": { "type": "Point", "coordinates": [ 9.60511, 47.438913 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(vor) Hauptstraße 11", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenannter Apothekerbrunnen; große gotisierende Anlage, Gusseisen, letztes Viertel des 19. Jahrhunderts", "field_4": 47.438913, "field_5": 9.60511 }, "geometry": { "type": "Point", "coordinates": [ 9.60511, 47.438913 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Königsgasse 11", "field_2": "Birkenfeld (Nahe)", "field_3": "Kleinstwohnhaus mit Scheune unter einem Dach, später angebauter, aufgestockter Stall", "field_4": 49.651406, "field_5": 7.168799 }, "geometry": { "type": "Point", "coordinates": [ 7.168799, 49.651406 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 2", "field_2": "Birkenfeld (Nahe)", "field_3": "Evangelisches Pfarrhaus; eingeschossiger Massivbau, zweiachsiges Zwerchhaus, 1733", "field_4": 49.647988, "field_5": 7.168709 }, "geometry": { "type": "Point", "coordinates": [ 7.168709, 49.647988 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(zwischen) Rennweg 27 und 29", "field_2": "Birkenfeld (Nahe)", "field_3": "Kriegerdenkmal für die im Ersten Weltkrieg gefallenen Schüler des Gymnasiums Betuletia; aufgesockelter Kubus, Stahlhelm-Relief, 1927, Entwurf von Wilhelm Heilig, Darmstadt", "field_4": 49.643374, "field_5": 7.173955 }, "geometry": { "type": "Point", "coordinates": [ 7.173955, 49.643374 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Rennweg 30", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenanntes Steinernes Kreuz; Bildstock, Tuffstein, 16. Jahrhundert, eventuell vorreformatorisch", "field_4": 49.644389, "field_5": 7.175311 }, "geometry": { "type": "Point", "coordinates": [ 7.175311, 49.644389 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Saarstraße 19", "field_2": "Birkenfeld (Nahe)", "field_3": "stattliches Quereinhaus, zweite Hälfte des 19. Jahrhunderts", "field_4": 49.601887, "field_5": 7.166768 }, "geometry": { "type": "Point", "coordinates": [ 7.166768, 49.601887 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schadtengasse 2", "field_2": "Birkenfeld (Nahe)", "field_3": "Wohnhaus mit dreiteiliger Fenstergruppe, bezeichnet 1838", "field_4": 49.648018, "field_5": 7.16967 }, "geometry": { "type": "Point", "coordinates": [ 7.16967, 49.648018 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schlossallee 3", "field_2": "Birkenfeld (Nahe)", "field_3": "fünfachsiges holzverschindeltes Wohnhaus, 19. Jahrhundert; am Südgiebel Teile eines erdeingetieften Gewächshauses einer Gärtnerei", "field_4": 49.648758, "field_5": 7.165151 }, "geometry": { "type": "Point", "coordinates": [ 7.165151, 49.648758 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schlossallee 11 und 13", "field_2": "Birkenfeld (Nahe)", "field_3": "Neues Schloss; klassizistische Gruppe um offenen Ehrenhof, 1819–21, Arch. J. W. L. Brofft, Frankfurt; Hauptbau mit dreiachsigem Mittelrisalit, rückseitig Altan; Ausstattung; eingeschossige Nebengebäude mit übergiebelter Eingangsanlage", "field_4": 49.648945, "field_5": 7.163768 }, "geometry": { "type": "Point", "coordinates": [ 7.163768, 49.648945 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schneewiesenstraße 3", "field_2": "Birkenfeld (Nahe)", "field_3": "sogenanntes Pirmannsches Haus; vornehmer klassizistischer Bau, dreigeschossiger Giebelrisalit, 1859", "field_4": 49.649575, "field_5": 7.167622 }, "geometry": { "type": "Point", "coordinates": [ 7.167622, 49.649575 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schneewiesenstraße (Hausnummer unbekannt)", "field_2": "Birkenfeld (Nahe)", "field_3": "Katholische Pfarrkirche St. Jacobus; neugotische Hallenkirche, Gelbsandstein, 1888–90, Architekt Reinhold Wirtz, Trier; Grabplatte 1752; Ausstattung", "field_4": 49.648776, "field_5": 7.166409 }, "geometry": { "type": "Point", "coordinates": [ 7.166409, 49.648776 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schneewiesenstraße 22", "field_2": "Birkenfeld (Nahe)", "field_3": "ehemalige Infanteriekaserne; sogenanntes Altes Gymnasium, neunachsiger klassizistischer Putzbau, 1842\/43", "field_4": 49.648018, "field_5": 7.165762 }, "geometry": { "type": "Point", "coordinates": [ 7.165762, 49.648018 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schneewiesenstraße 25", "field_2": "Birkenfeld (Nahe)", "field_3": "drittes oldenburgisches Behördenhaus; barockisierender Mansarddachbau, dreigeschossiger Giebelrisalit, 1912", "field_4": 49.648064, "field_5": 7.165008 }, "geometry": { "type": "Point", "coordinates": [ 7.165008, 49.648064 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 1", "field_2": "Birkenfeld (Nahe)", "field_3": "Eckwohnhaus, teilweise verschiefert, rückseitig verkleidete Galerie, Mansarddach mit Krüppelwalm, 1767, Ladeneinbau um 1900; ortsbildprägend", "field_4": 49.648257, "field_5": 7.169616 }, "geometry": { "type": "Point", "coordinates": [ 7.169616, 49.648257 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 2\/4", "field_2": "Birkenfeld (Nahe)", "field_3": "Doppelhaus auf hohem Sockel, Torfahrt, bezeichnet 1791", "field_4": 49.648478, "field_5": 7.169868 }, "geometry": { "type": "Point", "coordinates": [ 7.169868, 49.648478 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 6", "field_2": "Birkenfeld (Nahe)", "field_3": "ehemaliges Gasthaus mit Brauerei; Sandsteinquaderbau, bezeichnet 1897", "field_4": 49.648589, "field_5": 7.170209 }, "geometry": { "type": "Point", "coordinates": [ 7.170209, 49.648589 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 7", "field_2": "Birkenfeld (Nahe)", "field_3": "Wohnhaus, teilweise Fachwerk (verputzt), wohl aus dem frühen 19. Jahrhundert", "field_4": 49.648408, "field_5": 7.169993 }, "geometry": { "type": "Point", "coordinates": [ 7.169993, 49.648408 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 16", "field_2": "Birkenfeld (Nahe)", "field_3": "großes Wohnhaus mit Stallanlagen, Mitte des 19. Jahrhunderts", "field_4": 49.649318, "field_5": 7.171664 }, "geometry": { "type": "Point", "coordinates": [ 7.171664, 49.649318 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(hinter) Wasserschiederstraße 47", "field_2": "Birkenfeld (Nahe)", "field_3": "Taubenhaus; kleiner Holzbau, Kreuzdach mit Laterne, zweite Hälfte des 19. Jahrhunderts", "field_4": 49.650479, "field_5": 7.174009 }, "geometry": { "type": "Point", "coordinates": [ 7.174009, 49.650479 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasserschiederstraße 47", "field_2": "Birkenfeld (Nahe)", "field_3": "Walmdachbau, Landhausstil, um 1910, überdachte Galerie zum Nebengebäude im Garten", "field_4": 49.650479, "field_5": 7.174009 }, "geometry": { "type": "Point", "coordinates": [ 7.174009, 49.650479 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 12", "field_2": "Bollenbach", "field_3": "Streuhof; Fachwerkwohnhaus, verputzt und verkleidet, bezeichnet 1766 (eventuell Spolie), Umbau um 1860, Fachwerk-Ökonomie um 1860", "field_4": 49.84242, "field_5": 7.352495 }, "geometry": { "type": "Point", "coordinates": [ 7.352495, 49.84242 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 18", "field_2": "Bollenbach", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, bezeichnet 1719", "field_4": 49.841328, "field_5": 7.352342 }, "geometry": { "type": "Point", "coordinates": [ 7.352342, 49.841328 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenweg 1", "field_2": "Bollenbach", "field_3": "Gemeinschaftsmühle; schlichter Fachwerkbau, technische Ausstattung, 1926", "field_4": 49.841746, "field_5": 7.352881 }, "geometry": { "type": "Point", "coordinates": [ 7.352881, 49.841746 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dorfstraße 13", "field_2": "Börfink", "field_3": "Quereinhaus mit Vollkornmühle und Gasthaus, 1865, Obergeschoss 1878", "field_4": 49.689157, "field_5": 7.081339 }, "geometry": { "type": "Point", "coordinates": [ 7.081339, 49.689157 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Oldenburger Straße 6", "field_2": "Breitenthal (Hunsrück)", "field_3": "Hofanlage; Wohnhaus bezeichnet 1856, Überformung am Anfang des 20. Jahrhunderts", "field_4": 49.800929, "field_5": 7.336415 }, "geometry": { "type": "Point", "coordinates": [ 7.336415, 49.800929 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Oldenburger Straße 10", "field_2": "Breitenthal (Hunsrück)", "field_3": "Streuhof; Wohnhaus, teilweise Fachwerk, bezeichnet 1832, im Kern wohl älter, Fachwerkscheune", "field_4": 49.801347, "field_5": 7.336694 }, "geometry": { "type": "Point", "coordinates": [ 7.336694, 49.801347 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hochwaldstraße 2", "field_2": "Bruchweiler", "field_3": "Quereinhaus, teilweise Fachwerk, Krüppelwalmdach, erste Hälfte des 19. Jahrhunderts", "field_4": 49.798626, "field_5": 7.225428 }, "geometry": { "type": "Point", "coordinates": [ 7.225428, 49.798626 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hochwaldstraße 5", "field_2": "Bruchweiler", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, 1744–46; Ausstattung", "field_4": 49.798766, "field_5": 7.224844 }, "geometry": { "type": "Point", "coordinates": [ 7.224844, 49.798766 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "An der Warth 2", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Streckhof, teilweise Fachwerk, teilweise Schieferbehang, zweite Hälfte des 19. Jahrhunderts, im Kern eventuell älter", "field_4": 52.467979, "field_5": 13.515674 }, "geometry": { "type": "Point", "coordinates": [ 13.515674, 52.467979 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Apfelbüscherstraße 2", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Streckhof: eingeschossiger Wohntrakt mit Kniestock, überwiegend Fachwerk; zweigeschossige Ökonomie, teilweise Fachwerk, Wohnräume wohl jünger, um 1870", "field_4": 49.63911, "field_5": 7.108405 }, "geometry": { "type": "Point", "coordinates": [ 7.108405, 49.63911 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(in) Apfelbüscherstraße 6", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Schmiede; im Westteil des ehemaligen Handwerkerhauses Werkstattraum mit kompletter Inneneinrichtung", "field_4": 49.639227, "field_5": 7.107569 }, "geometry": { "type": "Point", "coordinates": [ 7.107569, 49.639227 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Römerweg 6", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Fettigs Mühle; Komplex aus zwei Wohnbauten: westlicher mit Scheunentrakt bezeichnet 1856, zwei Reihen Lüftungsgauben, östlicher mit teilweise erhaltener Mühleneinrichtung; Wasserrad", "field_4": 46.549929, "field_5": 13.693388 }, "geometry": { "type": "Point", "coordinates": [ 13.693388, 46.549929 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Trierer Straße 19", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Schwesternhaus, zeittypischer Satteldachbau, Zwerchhaus, 1913", "field_4": 49.635919, "field_5": 7.108746 }, "geometry": { "type": "Point", "coordinates": [ 7.108746, 49.635919 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Trierer Straße 46", "field_2": "Brücken (bei Birkenfeld)", "field_3": "ehemalige Schule; siebenachsiger klassizistischer Putzbau mit Dachreiter, 1848", "field_4": 49.637867, "field_5": 7.111046 }, "geometry": { "type": "Point", "coordinates": [ 7.111046, 49.637867 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Trierer Straße 53", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Wohnhaus mit vielgliedriger Dachlandschaft, vor 1914", "field_4": 49.637756, "field_5": 7.113076 }, "geometry": { "type": "Point", "coordinates": [ 7.113076, 49.637756 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Brunnenstraße", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Doppelbrunnen, zwei gusseisenerne Tröge, bezeichnet 1890, eventuell aus der Asbacherhütte", "field_4": 49.628841, "field_5": 7.108117 }, "geometry": { "type": "Point", "coordinates": [ 7.108117, 49.628841 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Brunnenstraße 9", "field_2": "Brücken (bei Birkenfeld)", "field_3": "Quereinhaus, bezeichnet 1821; klassizistische Garteneinfriedung, um 1820", "field_4": 49.629816, "field_5": 7.1096 }, "geometry": { "type": "Point", "coordinates": [ 7.1096, 49.629816 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Brückener Straße 2", "field_2": "Buhlenberg", "field_3": "stattliches Quereinhaus mit Krüppelwalmdach, 1911", "field_4": 49.652666, "field_5": 7.121897 }, "geometry": { "type": "Point", "coordinates": [ 7.121897, 49.652666 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 10", "field_2": "Buhlenberg", "field_3": "Quereinhaus, teilweise Fachwerk (verputzt), Krüppelwalmdach, im Kern wohl um 1800; Kieselpflasterung; ummauerte Gärten", "field_4": 49.653768, "field_5": 7.121242 }, "geometry": { "type": "Point", "coordinates": [ 7.121242, 49.653768 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hochwaldstraße 32", "field_2": "Buhlenberg", "field_3": "ehemalige Schule; zeittypischer Mansarddachbau mit Türmchen, 1913", "field_4": 49.655436, "field_5": 7.117963 }, "geometry": { "type": "Point", "coordinates": [ 7.117963, 49.655436 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Burgweg, auf dem Friedhof", "field_2": "Bundenbach", "field_3": "Sandstein-Kruzifix, wohl von 1785", "field_4": 49.841723, "field_5": 7.380891 }, "geometry": { "type": "Point", "coordinates": [ 7.380891, 49.841723 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Burgweg 1", "field_2": "Bundenbach", "field_3": "Schulhaus; Massivbau, teilweise Fachwerk (verschiefert), 1823; ortsbildprägend", "field_4": 49.841868, "field_5": 7.377675 }, "geometry": { "type": "Point", "coordinates": [ 7.377675, 49.841868 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Burgweg 8", "field_2": "Bundenbach", "field_3": "ehemaliges Pfarrhaus; sandsteingegliederter Backsteinbau, 1880", "field_4": 49.84206, "field_5": 7.37825 }, "geometry": { "type": "Point", "coordinates": [ 7.37825, 49.84206 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Bundenbach", "field_3": "Katholische Pfarrkirche St. Nikolaus; neugotischer Schieferbruchsteinbau, 1907–09, Architekt Johann Adam Rüppel, Bonn; Ausstattung", "field_4": 49.843239, "field_5": 7.377657 }, "geometry": { "type": "Point", "coordinates": [ 7.377657, 49.843239 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Bundenbach", "field_3": "Sandsteinkreuz, gusseiserner Kruzifix, Mitte des 19. Jahrhunderts", "field_4": 49.843239, "field_5": 7.377657 }, "geometry": { "type": "Point", "coordinates": [ 7.377657, 49.843239 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 21", "field_2": "Bundenbach", "field_3": "stattliches Wohnhaus, Mansardwalmdach, neubarocke und Jugendstil-Motive, 1828", "field_4": 49.839904, "field_5": 7.378052 }, "geometry": { "type": "Point", "coordinates": [ 7.378052, 49.839904 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nordwestlich des Ortes", "field_2": "Bundenbach", "field_3": "Theresienkapelle; Satteldachbau, 1948", "field_4": 49.843239, "field_5": 7.377657 }, "geometry": { "type": "Point", "coordinates": [ 7.377657, 49.843239 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 1", "field_2": "Dambach (bei Birkenfeld)", "field_3": "ehemalige Schule; fünfachsiger, eingeschossiger Krüppelwalmdachbau, 1841, Anbau 1911", "field_4": 49.625556, "field_5": 7.133701 }, "geometry": { "type": "Point", "coordinates": [ 7.133701, 49.625556 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Grub 1", "field_2": "Dambach (bei Birkenfeld)", "field_3": "Wohnteil eines ehemaligen Quereinhauses, teilweise Fachwerk, teilweise verschiefert, 1752", "field_4": 49.627277, "field_5": 7.13195 }, "geometry": { "type": "Point", "coordinates": [ 7.13195, 49.627277 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dorfstraße 9", "field_2": "Dienstweiler", "field_3": "Vierseithof, ab 1870; Quereinhaus; Stalltrakt und Scheune jünger", "field_4": 49.63666, "field_5": 7.185956 }, "geometry": { "type": "Point", "coordinates": [ 7.185956, 49.63666 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Eck 1", "field_2": "Dienstweiler", "field_3": "Winkelhof, im Kern 1650, Wirtschaftsflügel jünger", "field_4": 49.636076, "field_5": 7.185606 }, "geometry": { "type": "Point", "coordinates": [ 7.185606, 49.636076 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Im Eck 5", "field_2": "Dienstweiler", "field_3": "neugotischer Laufbrunnen, Gusseisen, spätes 19. Jahrhundert", "field_4": 49.635656, "field_5": 7.185525 }, "geometry": { "type": "Point", "coordinates": [ 7.185525, 49.635656 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Eck 5", "field_2": "Dienstweiler", "field_3": "ehemalige stattliche Hofanlage, 1862", "field_4": 49.635656, "field_5": 7.185525 }, "geometry": { "type": "Point", "coordinates": [ 7.185525, 49.635656 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 1", "field_2": "Eckersweiler", "field_3": "Evangelische Kirche; Saalbau, 1758; Westturm mit Achteckhelm, 1169 oder um 1470", "field_4": 49.560229, "field_5": 7.289352 }, "geometry": { "type": "Point", "coordinates": [ 7.289352, 49.560229 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Haus Nr. 11", "field_2": "Ellenberg (Rheinland-Pfalz)", "field_3": "neugotischer Laufbrunnen, Gusseisen, spätes 19. Jahrhundert", "field_4": 54.732449, "field_5": 8.449302 }, "geometry": { "type": "Point", "coordinates": [ 8.449302, 54.732449 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bohnenhübel 2", "field_2": "Ellweiler", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, 1776, Architekt Philipp Heinrich Hellermann, Zweibrücken; ortsbildprägend", "field_4": 49.615109, "field_5": 7.145559 }, "geometry": { "type": "Point", "coordinates": [ 7.145559, 49.615109 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 47", "field_2": "Fischbach (bei Idar-Oberstein)", "field_3": "sogenannte Fillmannsmühle; dreigeschossiger backsteingegliederter Bruchsteinbau, 1924; technische Ausstattung; Wasserrad 1910", "field_4": 46.656775, "field_5": 7.46827 }, "geometry": { "type": "Point", "coordinates": [ 7.46827, 46.656775 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 93", "field_2": "Fischbach (bei Idar-Oberstein)", "field_3": "Evangelische Pfarrkirche; neugotischer Rotsandsteinbau, Westturm, 1853–55, Architekt Meyer, Birkenfeld; Ausstattung; in der Vorhalle Grabplatte, nach 1720", "field_4": 46.656775, "field_5": 7.46827 }, "geometry": { "type": "Point", "coordinates": [ 7.46827, 46.656775 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Lindenplatz 1", "field_2": "Fischbach (bei Idar-Oberstein)", "field_3": "ehemaliges Bergmannshaus, Unterstallhaus, Fachwerkgeschoss auf hohem Bruchsteinkeller, wohl aus dem 16. oder 17. Jahrhundert", "field_4": 49.744705, "field_5": 7.392434 }, "geometry": { "type": "Point", "coordinates": [ 7.392434, 49.744705 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nördlich des Dorfes am Hang des Berges Platt", "field_2": "Fohren-Linden", "field_3": "Kriegerdenkmal 1914\/18; stelenartiger Sandsteinblock, Kriegerrelief, nach 1918", "field_4": 52.866262, "field_5": 14.057547 }, "geometry": { "type": "Point", "coordinates": [ 14.057547, 52.866262 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nordwestlich des Dorfes", "field_2": "Fohren-Linden", "field_3": "sogenannte Hoffmannsmühle; L-förmiger Bau, bezeichnet 1868, Wohnteil spätklassizistisch", "field_4": 49.588328, "field_5": 7.28708 }, "geometry": { "type": "Point", "coordinates": [ 7.28708, 49.588328 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Ruine Frauenburg (südlich des Ortes, auf einem schmalen Bergsporn unweit der Nahe)", "field_2": "Frauenberg (Nahe)", "field_3": "kleine, regelmäßige Anlage, wohl vom Anfang des 14. Jahrhunderts; Ringmauer, vier runde Ecktürme, Rundturm in Nordost-Mauer, zweischiffiger Keller, Halsgraben, Zwingermauer", "field_4": 48.792698, "field_5": 13.759073 }, "geometry": { "type": "Point", "coordinates": [ 13.759073, 48.792698 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 12", "field_2": "Gimbweiler", "field_3": "stattliches Quereinhaus, zweite Hälfte des 19. Jahrhunderts", "field_4": 49.585975, "field_5": 7.186343 }, "geometry": { "type": "Point", "coordinates": [ 7.186343, 49.585975 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 5", "field_2": "Gösenroth", "field_3": "Fachwerkwohnhaus mit Kniestock, Backsteinausfachung, Ende des 19. Jahrhunderts", "field_4": 49.889064, "field_5": 7.327549 }, "geometry": { "type": "Point", "coordinates": [ 7.327549, 49.889064 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 2", "field_2": "Gösenroth", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, klassizistische Fassade, 1844\/45", "field_4": 49.889105, "field_5": 7.328214 }, "geometry": { "type": "Point", "coordinates": [ 7.328214, 49.889105 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 7", "field_2": "Gösenroth", "field_3": "Streuhof; stattliches Fachwerkwohnhaus, verputzt, teilweise verschiefert, Krüppelwalmdach, 18. Jahrhundert; Scheune, teilweise Fachwerk, wohl jünger", "field_4": 49.890016, "field_5": 7.327585 }, "geometry": { "type": "Point", "coordinates": [ 7.327585, 49.890016 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südwestlich des Ortes am Idarbach", "field_2": "Gösenroth", "field_3": "sogenannte Fußmühle; Satteldachbau, vor 1830; Ausstattung", "field_4": 51.165109, "field_5": 14.421293 }, "geometry": { "type": "Point", "coordinates": [ 14.421293, 51.165109 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Griebelschied", "field_3": "Evangelische Kirche; im Kern spätmittelalterlicher Saalbau mit Dachreiter; Ausstattung aus dem 18. Jahrhundert", "field_4": 49.801004, "field_5": 7.401049 }, "geometry": { "type": "Point", "coordinates": [ 7.401049, 49.801004 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Brunnen 2", "field_2": "Hattgenstein", "field_3": "Quereinhaus, teilweise Fachwerk, teilweise verschiefert, spätes 18. oder frühes 19. Jahrhundert", "field_4": 49.697088, "field_5": 7.158486 }, "geometry": { "type": "Point", "coordinates": [ 7.158486, 49.697088 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Brunnen 4", "field_2": "Hattgenstein", "field_3": "ehemaliges Kelterhaus, Fachwerkbau", "field_4": 49.697088, "field_5": 7.158486 }, "geometry": { "type": "Point", "coordinates": [ 7.158486, 49.697088 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Flurstraße 3", "field_2": "Hattgenstein", "field_3": "Quereinhaus, teilweise Fachwerk, wohl aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.697228, "field_5": 7.160399 }, "geometry": { "type": "Point", "coordinates": [ 7.160399, 49.697228 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 13", "field_2": "Hattgenstein", "field_3": "sogenanntes Glockenhaus; teilweise Fachwerk, Krüppelwalmdach, Glockentürmchen, 1762; ortsbildprägend", "field_4": 49.697286, "field_5": 7.159672 }, "geometry": { "type": "Point", "coordinates": [ 7.159672, 49.697286 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 17", "field_2": "Hattgenstein", "field_3": "stattliches Quereinhaus, teilweise Fachwerk, wohl aus dem frühen 19. Jahrhundert", "field_4": 49.697169, "field_5": 7.158755 }, "geometry": { "type": "Point", "coordinates": [ 7.158755, 49.697169 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Hauptstraße 26", "field_2": "Hausen (Hunsrück)", "field_3": "Backhaus mit freiliegendem Backofen unter einem Dach, spätes 19. Jahrhundert", "field_4": 50.744118, "field_5": 7.427621 }, "geometry": { "type": "Point", "coordinates": [ 7.427621, 50.744118 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(zwischen) Hauptstraße 33 und 35", "field_2": "Hausen (Hunsrück)", "field_3": "Evangelische Pfarrkirche St. Johann; romanischer Ostturm (verschiefertes Fachwerkgeschoss jünger), Langhaus mit Dreiseitschluss, 1747, barockisierende Portalvorbauten, 1913; orts- und landschaftbildprägend", "field_4": 50.743457, "field_5": 7.429472 }, "geometry": { "type": "Point", "coordinates": [ 7.429472, 50.743457 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 52", "field_2": "Hausen (Hunsrück)", "field_3": "Wohnhaus, teilweise verschiefertes Fachwerk, Krüppelwalmdach, 19. Jahrhundert", "field_4": 50.744169, "field_5": 7.428403 }, "geometry": { "type": "Point", "coordinates": [ 7.428403, 50.744169 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Bongert 1", "field_2": "Hausen (Hunsrück)", "field_3": "zweiflügelige Haustür, Jugendstilnachklang, bezeichnet 1923", "field_4": 49.872045, "field_5": 7.373426 }, "geometry": { "type": "Point", "coordinates": [ 7.373426, 49.872045 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Heimbach (Nahe)", "field_3": "zwei in rechtem Winkel aneinander gebaute einbogige Sandsteinquaderbrücken (Heimbach-Brücke und Unnerbach-Brücke)", "field_4": 49.612786, "field_5": 7.244239 }, "geometry": { "type": "Point", "coordinates": [ 7.244239, 49.612786 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "westlich des Ortes am Bahnhof Heimbach", "field_2": "Heimbach (Nahe)", "field_3": "dreibogige Sandsteinquaderbrücke über die Nahe, vor 1860", "field_4": 48.723159, "field_5": 8.29216 }, "geometry": { "type": "Point", "coordinates": [ 8.29216, 48.723159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 1", "field_2": "Hellertshausen", "field_3": "Streuhof; stattliches Wohnhaus, teilweise verschiefert, 1842, Backes bezeichnet 1834, stattliche Ökonomie, wohl 1842", "field_4": 49.82045, "field_5": 7.277414 }, "geometry": { "type": "Point", "coordinates": [ 7.277414, 49.82045 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Unterdorf 7", "field_2": "Hellertshausen", "field_3": "Backhaus; Satteldachbau, Mitte des 19. Jahrhunderts", "field_4": 49.82063, "field_5": 7.278016 }, "geometry": { "type": "Point", "coordinates": [ 7.278016, 49.82063 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hammerbirkenfeld", "field_2": "Hellertshausen", "field_3": "ehemaliges Herrenhaus der Familie von Stumm; barockes Quereinhaus, teilweise Fachwerk (verputzt), bezeichnet 1772", "field_4": 49.811969, "field_5": 7.240304 }, "geometry": { "type": "Point", "coordinates": [ 7.240304, 49.811969 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mombach", "field_2": "Hellertshausen", "field_3": "ehemalige Mühle; Fachwerkbau auf massivem Sockelgeschoss, Giebeltrapez verschiefert, Krüppelwalmdach, wohl noch aus dem 18. Jahrhundert", "field_4": 49.813963, "field_5": 7.242092 }, "geometry": { "type": "Point", "coordinates": [ 7.242092, 49.813963 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mombach 1", "field_2": "Hellertshausen", "field_3": "Stallgebäude, Sandsteintürrahmen, bezeichnet 1742", "field_4": 49.814195, "field_5": 7.241975 }, "geometry": { "type": "Point", "coordinates": [ 7.241975, 49.814195 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nordwestlich des Ortes im Vierherrenwald", "field_2": "Hellertshausen", "field_3": "Haniels Schlösschen; späthistoristische Jagdvilla, Kreuzgiebeldach, um 1900", "field_4": 49.820798, "field_5": 7.273955 }, "geometry": { "type": "Point", "coordinates": [ 7.273955, 49.820798 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 32", "field_2": "Herborn (bei Idar-Oberstein)", "field_3": "Quereinhaus, heutiges Erscheinungsbild aus dem frühen 20. Jahrhundert, rückwärtig Schleifereiraum angebaut", "field_4": 50.684198, "field_5": 8.307359 }, "geometry": { "type": "Point", "coordinates": [ 8.307359, 50.684198 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Burg Herrstein (auf der Nordseite der städtischen Siedlung)", "field_2": "Herrstein", "field_3": "in der zweiten Hälfte des 13. Jahrhunderts von den Grafen von Sponheim errichtet; Oberburg: Kastelltyp mit ursprünglich vier Türmen an den Ecken der Ringmauer, davon drei erhalten: Schinderhannesturm, Stumpfer Turm (Bergfried, heute Kirchturm), Sichelturm; ehemalige Schlosskapelle seit dem 15. Jahrhundert Pfarrkirche; anstelle der Unterburg 1742 das sogenannte Schloss (Schlossweg 12) errichtet", "field_4": 49.780615, "field_5": 7.336334 }, "geometry": { "type": "Point", "coordinates": [ 7.336334, 49.780615 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Ortskern (Hauptstraße, Niederhosenbacher Weg, Pfarrgasse, Schlossweg, Uhrturmgasse)", "field_2": "Herrstein", "field_3": "spätmittelalterliche städtische Siedlung entstanden im Anschluss an die landesherrliche Burg innerhalb der Stadtmauern, dicht gereihte traufständige Häuser, teilweise bis ins 16. Jahrhundert zurückgehend, zahlreiche Fachwerkbauten", "field_4": 49.780615, "field_5": 7.336334 }, "geometry": { "type": "Point", "coordinates": [ 7.336334, 49.780615 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bachweg", "field_2": "Herrstein", "field_3": "zweibogige Bruchsandsteinbrücke", "field_4": 49.781231, "field_5": 7.334304 }, "geometry": { "type": "Point", "coordinates": [ 7.334304, 49.781231 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 30", "field_2": "Herrstein", "field_3": "ehemalige Bürgermeisterei; Putzbau auf hohem Melaphyrsockel, abgewalmtes Mansarddach, 1915; ortsbildprägend", "field_4": 49.780475, "field_5": 7.337772 }, "geometry": { "type": "Point", "coordinates": [ 7.337772, 49.780475 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 44", "field_2": "Herrstein", "field_3": "dreigeschossiges Eckwohnhaus, teilweise Fachwerk, 1712; ortsbildprägend", "field_4": 49.780719, "field_5": 7.336262 }, "geometry": { "type": "Point", "coordinates": [ 7.336262, 49.780719 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 45", "field_2": "Herrstein", "field_3": "Fachwerk-Zeilenwohnhaus, rückseitig doppelgeschossige Holzgalerie, 1716", "field_4": 49.780405, "field_5": 7.336712 }, "geometry": { "type": "Point", "coordinates": [ 7.336712, 49.780405 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 46", "field_2": "Herrstein", "field_3": "sogenannte Französische Schule; spätklassizistischer Walmdachbau, 1854; ortsbildprägend", "field_4": 49.780795, "field_5": 7.33611 }, "geometry": { "type": "Point", "coordinates": [ 7.33611, 49.780795 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 47", "field_2": "Herrstein", "field_3": "Fachwerk-Zeilenwohnhaus, rückseitig doppelgeschossige Holzgalerie; 1716", "field_4": 49.780434, "field_5": 7.336595 }, "geometry": { "type": "Point", "coordinates": [ 7.336595, 49.780434 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 48", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, 1715", "field_4": 49.780847, "field_5": 7.335984 }, "geometry": { "type": "Point", "coordinates": [ 7.335984, 49.780847 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 75", "field_2": "Herrstein", "field_3": "Alte Schule; Bau in Formen des oldenburgischen Klassizismus, um 1840", "field_4": 49.783017, "field_5": 7.334816 }, "geometry": { "type": "Point", "coordinates": [ 7.334816, 49.783017 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Niederhosenbacher Weg 12", "field_2": "Herrstein", "field_3": "Fachwerkwohnhaus mit rückwärtigem Wirtschaftstrakt, 1829; Backstein-Zwischenbau um 1900", "field_4": 49.781569, "field_5": 7.338418 }, "geometry": { "type": "Point", "coordinates": [ 7.338418, 49.781569 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 2", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, 1680", "field_4": 49.781307, "field_5": 7.336613 }, "geometry": { "type": "Point", "coordinates": [ 7.336613, 49.781307 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 5", "field_2": "Herrstein", "field_3": "Fachwerk-Scheune mit Mansarddach, 1795; ortsbildprägend", "field_4": 49.781435, "field_5": 7.336164 }, "geometry": { "type": "Point", "coordinates": [ 7.336164, 49.781435 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 6", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, teilweise verschiefert, um 1595, Umbau in der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.781476, "field_5": 7.336451 }, "geometry": { "type": "Point", "coordinates": [ 7.336451, 49.781476 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 7", "field_2": "Herrstein", "field_3": "Fachwerkwohnhaus, um 1890, Erdgeschoss und Giebel unter Verwendung einzelner Hölzer von 1589", "field_4": 49.781476, "field_5": 7.336334 }, "geometry": { "type": "Point", "coordinates": [ 7.336334, 49.781476 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pfarrgasse 9", "field_2": "Herrstein", "field_3": "Pfarrhaus; zwei- und dreigeschossiger Massivbau, teilweise Fachwerk (verschiefert), 1716", "field_4": 49.781656, "field_5": 7.336343 }, "geometry": { "type": "Point", "coordinates": [ 7.336343, 49.781656 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 1", "field_2": "Herrstein", "field_3": "stattliches Eckwohnhaus, teilweise Fachwerk, rückwärtig hölzerne Galerie, abgewalmtes Mansarddach, bezeichnet 1801", "field_4": 49.781365, "field_5": 7.337978 }, "geometry": { "type": "Point", "coordinates": [ 7.337978, 49.781365 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 2", "field_2": "Herrstein", "field_3": "holzverschindeltes Wohnhaus, 1743", "field_4": 49.781476, "field_5": 7.337978 }, "geometry": { "type": "Point", "coordinates": [ 7.337978, 49.781476 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 3", "field_2": "Herrstein", "field_3": "Fachwerkwohnhaus, bezeichnet 1710", "field_4": 49.781289, "field_5": 7.337664 }, "geometry": { "type": "Point", "coordinates": [ 7.337664, 49.781289 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 4", "field_2": "Herrstein", "field_3": "Dreiseithof, teilweise Fachwerk, im Innenhof umlaufende Holzgalerie, 1715", "field_4": 49.781388, "field_5": 7.337736 }, "geometry": { "type": "Point", "coordinates": [ 7.337736, 49.781388 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 6", "field_2": "Herrstein", "field_3": "stattliches Fachwerkwohnhaus, 1709\/10", "field_4": 49.781348, "field_5": 7.337628 }, "geometry": { "type": "Point", "coordinates": [ 7.337628, 49.781348 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 11", "field_2": "Herrstein", "field_3": "Streuhof; Wohnhaus, hölzerne Galerie, bezeichnet 1855", "field_4": 49.781039, "field_5": 7.33717 }, "geometry": { "type": "Point", "coordinates": [ 7.33717, 49.781039 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 12", "field_2": "Herrstein", "field_3": "sogenanntes Schloss; Mansarddachbau über zwei Gewölbekellern, 1741; terrassenartige Gärten", "field_4": 49.78154, "field_5": 7.337017 }, "geometry": { "type": "Point", "coordinates": [ 7.337017, 49.78154 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(vor) Schloßweg 12", "field_2": "Herrstein", "field_3": "Kriegerdenkmal für die Opfer des Ersten Weltkriegs, reliefierte Stele, Entwurf Wilhelm Heilig, 1922", "field_4": 49.78154, "field_5": 7.337017 }, "geometry": { "type": "Point", "coordinates": [ 7.337017, 49.78154 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 13", "field_2": "Herrstein", "field_3": "ehemalige Zehntscheune, Krüppelwalmdachbau, bezeichnet 1526", "field_4": 49.781156, "field_5": 7.337161 }, "geometry": { "type": "Point", "coordinates": [ 7.337161, 49.781156 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 14", "field_2": "Herrstein", "field_3": "Evangelische Schlosskirche; einschiffiger Bau, teilweise gotisch, teilweise barock; Chorbogen und Ostteil der Südwand wohl noch aus dem späten 13. Jahrhundert, Fünfachtelchor 1416, Langhaus 1437 erweitert (dendrodatiert), Westwand bezeichnet 1766; Gedenksteine des 17. Jahrhunderts", "field_4": 49.781685, "field_5": 7.337044 }, "geometry": { "type": "Point", "coordinates": [ 7.337044, 49.781685 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 17", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, 1692", "field_4": 49.781016, "field_5": 7.336999 }, "geometry": { "type": "Point", "coordinates": [ 7.336999, 49.781016 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 18", "field_2": "Herrstein", "field_3": "Parallelhof, Krüppelwalmdachbauten, teilweise Fachwerk, teilweise verschiefert, 1784", "field_4": 49.781388, "field_5": 7.336954 }, "geometry": { "type": "Point", "coordinates": [ 7.336954, 49.781388 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 22", "field_2": "Herrstein", "field_3": "ehemaliges Wirtschaftsgebäude, teilweise Fachwerk, Mansarddach, bezeichnet 1816, im Kern eventuell älter", "field_4": 49.781098, "field_5": 7.337008 }, "geometry": { "type": "Point", "coordinates": [ 7.337008, 49.781098 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßweg 24", "field_2": "Herrstein", "field_3": "ehemaliges Gasthaus, teilweise Fachwerk, Mansardwalmdach, 1723, Zwerchhaus aus dem 19. Jahrhundert; straßenbildprägend", "field_4": 49.781156, "field_5": 7.336837 }, "geometry": { "type": "Point", "coordinates": [ 7.336837, 49.781156 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse", "field_2": "Herrstein", "field_3": "Uhrturm; dreigeschossiger spätgotischer Torturm, Walmdach, 1449 (dendrodatiert); bauzeitliche Marienglocke", "field_4": 49.78094, "field_5": 7.336487 }, "geometry": { "type": "Point", "coordinates": [ 7.336487, 49.78094 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 3", "field_2": "Herrstein", "field_3": "ehemaliges Unterstallhaus, Fachwerkbau, 1575; rückwärtig Ökonomiebauten, um 1775", "field_4": 49.780946, "field_5": 7.336406 }, "geometry": { "type": "Point", "coordinates": [ 7.336406, 49.780946 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 4", "field_2": "Herrstein", "field_3": "Eckwohnhaus, teilweise Fachwerk, 1698", "field_4": 49.780876, "field_5": 7.336469 }, "geometry": { "type": "Point", "coordinates": [ 7.336469, 49.780876 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 8", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, teilweise verschiefert, 1740; straßenbildprägend", "field_4": 49.780754, "field_5": 7.337026 }, "geometry": { "type": "Point", "coordinates": [ 7.337026, 49.780754 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 9", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk, 1478", "field_4": 49.781057, "field_5": 7.336622 }, "geometry": { "type": "Point", "coordinates": [ 7.336622, 49.781057 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 10", "field_2": "Herrstein", "field_3": "Scheune, teilweise Fachwerk, bezeichnet 1747; straßenbildprägend", "field_4": 49.780865, "field_5": 7.336658 }, "geometry": { "type": "Point", "coordinates": [ 7.336658, 49.780865 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 11", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk (verputzt), rückwärtig Holzgalerie, Mansarddach, nach 1840", "field_4": 49.781109, "field_5": 7.336685 }, "geometry": { "type": "Point", "coordinates": [ 7.336685, 49.781109 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 12", "field_2": "Herrstein", "field_3": "Eckwohnhaus, teilweise Fachwerk, 1712", "field_4": 49.780958, "field_5": 7.336622 }, "geometry": { "type": "Point", "coordinates": [ 7.336622, 49.780958 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 14", "field_2": "Herrstein", "field_3": "Wohnhaus, teilweise Fachwerk (verputzt), bezeichnet 1547", "field_4": 49.781004, "field_5": 7.336694 }, "geometry": { "type": "Point", "coordinates": [ 7.336694, 49.781004 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Uhrturmgasse 16", "field_2": "Herrstein", "field_3": "Fachwerk-Eckwohnhaus, teilweise massiv, 1682; Reliefschild „Zur Krone“, 1844", "field_4": 49.781057, "field_5": 7.336774 }, "geometry": { "type": "Point", "coordinates": [ 7.336774, 49.781057 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (östlich des Ortes am Hang des Eborner Berges)", "field_2": "Hoppstädten-Weiersbach", "field_3": "168 Grabsteine, 1770 bis 1958; auf dem älteren Teil des Friedhofs mit fragmentarisch erhaltenen hebräisch beschrifteten Sandsteingrabplatten; größter jüdischer Friedhof in der weiteren Umgebung", "field_4": 49.616726, "field_5": 7.195577 }, "geometry": { "type": "Point", "coordinates": [ 7.195577, 49.616726 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Hoppstädten-Weiersbach", "field_3": "Katholische Kirche St. Katharinen; Saalbau mit Dachreiter, 1787; in der Ostwand Wegekreuz, bezeichnet 1724", "field_4": 49.621325, "field_5": 7.195559 }, "geometry": { "type": "Point", "coordinates": [ 7.195559, 49.621325 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Saarstraße 19", "field_2": "Hoppstädten-Weiersbach", "field_3": "Bahnhof der Rhein-Nahe-Bahn; Typenbau; ein- und zweigeschossiger sandsteingegliederter Backsteinbau", "field_4": 49.607526, "field_5": 7.173829 }, "geometry": { "type": "Point", "coordinates": [ 7.173829, 49.607526 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Saarstraße 20", "field_2": "Hoppstädten-Weiersbach", "field_3": "siebenachsiges Wohnhaus, 1870; platz- und ortsbildprägend", "field_4": 49.607526, "field_5": 7.173829 }, "geometry": { "type": "Point", "coordinates": [ 7.173829, 49.607526 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Eisenbahnbrücke der Rhein-Nahe-Bahn", "field_2": "Hoppstädten-Weiersbach", "field_3": "vierbogige Sandsteinbrücke über den Steinaubach, 1880", "field_4": 49.616726, "field_5": 7.195577 }, "geometry": { "type": "Point", "coordinates": [ 7.195577, 49.616726 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In Bleiderdingen", "field_2": "Hoppstädten-Weiersbach", "field_3": "Katholische Pfarrkirche St. Markus; Saalbau 1738\/39, Verlängerung und Westturm 1862; gotischer Chor, vor 1235; Ausstattung", "field_4": 49.608116, "field_5": 7.192819 }, "geometry": { "type": "Point", "coordinates": [ 7.192819, 49.608116 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In Bleiderdingen\/Ecke Auf dem Sand", "field_2": "Hoppstädten-Weiersbach", "field_3": "Wegekreuz, Stationskreuz, bezeichnet 1847", "field_4": 49.608116, "field_5": 7.192819 }, "geometry": { "type": "Point", "coordinates": [ 7.192819, 49.608116 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "zwischen Hoppstädten und Bleiderdingen", "field_2": "Hoppstädten-Weiersbach", "field_3": "Straßenbrücke; dreibogige Sandsteinquaderbrücke über die Nahe", "field_4": 49.616726, "field_5": 7.195577 }, "geometry": { "type": "Point", "coordinates": [ 7.195577, 49.616726 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kleinicher Weg 8", "field_2": "Horbruch", "field_3": "vollständig verschiefertes Wohnhaus, spätes 19. Jahrhundert", "field_4": 49.888995, "field_5": 7.236729 }, "geometry": { "type": "Point", "coordinates": [ 7.236729, 49.888995 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Oberdorf 3", "field_2": "Horbruch", "field_3": "Quereinhaus, teilweise Fachwerk verschiefert, bezeichnet 1867, durch Ökonomie-Anbauten erweitert; Gesamtanlage", "field_4": 49.888339, "field_5": 7.239155 }, "geometry": { "type": "Point", "coordinates": [ 7.239155, 49.888339 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Oberdorf 10", "field_2": "Horbruch", "field_3": "Fachwerk-Quereinhaus (teilweise verputzt), abgewalmtes Mansarddach, um 1800; Fachwerk-Wirtschaftstrakt jünger", "field_4": 49.888159, "field_5": 7.238472 }, "geometry": { "type": "Point", "coordinates": [ 7.238472, 49.888159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 1", "field_2": "Horbruch", "field_3": "repräsentatives Wohnhaus, spätes 19. Jahrhundert", "field_4": 54.147309, "field_5": 12.225658 }, "geometry": { "type": "Point", "coordinates": [ 12.225658, 54.147309 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 6", "field_2": "Horbruch", "field_3": "Gemeinschaftshaus, asymmetrischer Putzbau, 1928", "field_4": 54.150468, "field_5": 12.219621 }, "geometry": { "type": "Point", "coordinates": [ 12.219621, 54.150468 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 8", "field_2": "Horbruch", "field_3": "Hakenhof, um 1888; Fachwerkbau auf massivem Sockel, teilweise verputzt oder verschiefert", "field_4": 54.15137, "field_5": 12.217717 }, "geometry": { "type": "Point", "coordinates": [ 12.217717, 54.15137 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes am Altbach", "field_2": "Horbruch", "field_3": "Marienmühle; Fachwerkbau, verschiefert, auf massivem Sockelgeschoss, technische Ausstattung weitgehend erhalten, 19. Jahrhundert", "field_4": 51.9335, "field_5": 12.225388 }, "geometry": { "type": "Point", "coordinates": [ 12.225388, 51.9335 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südöstlich des Ortes am Altbach", "field_2": "Horbruch", "field_3": "Bergmühle; stattlicher barocker Mansarddachbau, bezeichnet 1804 (Translozierung), im Kern eventuell aus dem 16. Jahrhundert; Mühlteich", "field_4": 48.034944, "field_5": 10.504477 }, "geometry": { "type": "Point", "coordinates": [ 10.504477, 48.034944 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (südöstlich des Ortes)", "field_2": "Hottenbach", "field_3": "38 Grabsteine unterschiedlicher Formensprache", "field_4": 49.825128, "field_5": 7.300177 }, "geometry": { "type": "Point", "coordinates": [ 7.300177, 49.825128 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Hottenbach", "field_3": "Evangelische Pfarrkirche; ehemaliger Chorturm, wohl aus der zweiten Hälfte des 13. Jahrhunderts, Pyramidendach eventuell aus dem 16. Jahrhundert; achteckiger Bruchsteinbau mit Zeltdach, Anbauten kreuzförmig angeordnet, bezeichnet 1904, Architekt August Senz, Düsseldorf; Schutzdach um 1700; Ausstattung des Vorgängers; drei Glocken: 13. Jahrhundert, 1595, 1628; römischer Viergötterstein; ortsbildprägend", "field_4": 47.540529, "field_5": 8.824735 }, "geometry": { "type": "Point", "coordinates": [ 8.824735, 47.540529 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ringstraße, auf dem Friedhof", "field_2": "Hottenbach", "field_3": "Kriegerdenkmal, reliefierter Sockel, Soldatenskulptur, 1920er Jahre von F. Ritter und Nachfahren", "field_4": 49.826534, "field_5": 7.298183 }, "geometry": { "type": "Point", "coordinates": [ 7.298183, 49.826534 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ringstraße 4", "field_2": "Hottenbach", "field_3": "Wohnhaus, 19. und 20. Jahrhundert, Zierfachwerk, Anfang des 18. Jahrhunderts", "field_4": 49.823884, "field_5": 7.299423 }, "geometry": { "type": "Point", "coordinates": [ 7.299423, 49.823884 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ringstraße 20", "field_2": "Hottenbach", "field_3": "Wohnhaus, Zierfachwerk bezeichnet 1710", "field_4": 49.825448, "field_5": 7.300195 }, "geometry": { "type": "Point", "coordinates": [ 7.300195, 49.825448 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ringstraße 53", "field_2": "Hottenbach", "field_3": "sogenannter Oberhof; Wohn- und Verwaltungsbau mit Mansarddach, bezeichnet 1792; Ausstattung", "field_4": 49.824128, "field_5": 7.29759 }, "geometry": { "type": "Point", "coordinates": [ 7.29759, 49.824128 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 6", "field_2": "Hottenbach", "field_3": "ehemaliges Schulhaus; Walmdachbau, teilweise verschiefert, bezeichnet 1928, Architekt Nicolaus Coenen, Bernkastel", "field_4": 49.823629, "field_5": 7.300078 }, "geometry": { "type": "Point", "coordinates": [ 7.300078, 49.823629 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hottenbacher Mühle 12", "field_2": "Hottenbach", "field_3": "Gerhardsmühle oder Hottenbacher Mühle; Fachwerkbau, Ende des 19. Jahrhunderts", "field_4": 49.837441, "field_5": 7.281771 }, "geometry": { "type": "Point", "coordinates": [ 7.281771, 49.837441 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone sogenannte Franzosenhäuser (Pappelstraße 1, 2, 3)", "field_2": "Idar-Oberstein", "field_3": "Gruppe von drei von der Stadt errichteten Bauten für französische Besatzungsoffiziere; Zeltdachbauten, expressionistische Motive, ab 1920, Architekt Wilhelm Heilig, Langen", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Klotzbergkaserne (Berliner Straße, Bleidornplatz, Juterbogstraße, Klotzbergstraße, Ostpreußenstraße, Pestmüllerring, Pommernstraße)", "field_2": "Idar-Oberstein", "field_3": "Kaserne für zwei Infanteriebataillone im Zuge des Ausbaus von Idar-Oberstein zur Garnisonsstadt in nationalsozialistischer Zeit, auf terrassiertem Gelände um mehrere Höfe gruppierte Gebäude und Treppentürme mit Stabsgebäuden, Mannschaftshäusern, Reithalle, teilweise Bruchstein, 1936–38; stadtbildprägend", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ortsbefestigung", "field_2": "Idar-Oberstein", "field_3": "Ummauerung Obersteins, die Felsenkirche einbeziehend, aus grobem Effusivgestein, stadtseitig durch Strebepfeiler gestützt, im 15. und 16. Jahrhundert entstanden; erhaltene Teile: am Kirchberg auf halber Höhe des Weges zur Felsenkirche, Turm Im Gebück oberhalb Hauptstraße 476", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Alte Gasse 5", "field_2": "Idar-Oberstein", "field_3": "Wappen des ehemaligen kaiserlichen Postamtes, 19. Jahrhundert", "field_4": 49.705076, "field_5": 7.328276 }, "geometry": { "type": "Point", "coordinates": [ 7.328276, 49.705076 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Amtsstraße 2", "field_2": "Idar-Oberstein", "field_3": "Kranken- und Schwesternhaus; dreigeschossiger neugotischer Ziegelbau, Seitenrisalit mit Kapelle, 1900", "field_4": 49.703555, "field_5": 7.328178 }, "geometry": { "type": "Point", "coordinates": [ 7.328178, 49.703555 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Austraße 6", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus mit Mansarddach, Neurenaissance, zweigeschossiger Wintergarten, spätes 19. Jahrhundert", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bahnhofstraße 1", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Centralhotel; dreigeschossiger historisierender Eckbau, Jugendstilanklänge, 1905–07, Architekten Gerhards & Hassert", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bahnhofstraße 3", "field_2": "Idar-Oberstein", "field_3": "anspruchsvolles Eckwohnhaus, dreigeschossiger barockisierendes Mansarddachbau, Jugendstilanklänge, 1908\/09, Architekt Hans Best, Kreuznach", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Bismarckstraße 12", "field_2": "Idar-Oberstein", "field_3": "Stuckdekoration am Wohn- und Geschäftshaus, um 1905", "field_4": 49.721549, "field_5": 7.301165 }, "geometry": { "type": "Point", "coordinates": [ 7.301165, 49.721549 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bismarckstraße 53", "field_2": "Idar-Oberstein", "field_3": "barockisierende Mansarddach-Villa, 1910", "field_4": 49.718969, "field_5": 7.306016 }, "geometry": { "type": "Point", "coordinates": [ 7.306016, 49.718969 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dietzenstraße 30", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus mit Walmdach, um 1910; ortsbildprägend", "field_4": 49.716639, "field_5": 7.304803 }, "geometry": { "type": "Point", "coordinates": [ 7.304803, 49.716639 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dietzenstraße 34", "field_2": "Idar-Oberstein", "field_3": "malerisch-ländliche Villa, Anfang des 20. Jahrhunderts", "field_4": 49.71622, "field_5": 7.305082 }, "geometry": { "type": "Point", "coordinates": [ 7.305082, 49.71622 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dietzenstraße 55", "field_2": "Idar-Oberstein", "field_3": "mehrgeschossiges Wohn- und Geschäftshaus, neuklassizistisch-barockisierender Mansarddachbau, 1926", "field_4": 49.715818, "field_5": 7.305235 }, "geometry": { "type": "Point", "coordinates": [ 7.305235, 49.715818 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dr.-Liesegang-Straße 1", "field_2": "Idar-Oberstein", "field_3": "ehemalige Gewerbehalle; gelbsandsteingegliedertter Rotziegelbau, 1894\/95", "field_4": 49.717594, "field_5": 7.305298 }, "geometry": { "type": "Point", "coordinates": [ 7.305298, 49.717594 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dr.-Liesegang-Straße 3", "field_2": "Idar-Oberstein", "field_3": "repräsentatives Wohnhaus, Jugendstilmotive, um 1905; straßenbildprägend mit Nr. 5", "field_4": 49.717396, "field_5": 7.304947 }, "geometry": { "type": "Point", "coordinates": [ 7.304947, 49.717396 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dr.-Liesegang-Straße 4", "field_2": "Idar-Oberstein", "field_3": "kubische Walmdach-Villa, 1924", "field_4": 49.71721, "field_5": 7.3051 }, "geometry": { "type": "Point", "coordinates": [ 7.3051, 49.71721 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Finsterheckstraße", "field_2": "Idar-Oberstein", "field_3": "Wasserbehälter, zweigeschossiger turmartiger Baukörper, rustiziert, 1900", "field_4": 49.698143, "field_5": 7.332507 }, "geometry": { "type": "Point", "coordinates": [ 7.332507, 49.698143 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Forststraße", "field_2": "Idar-Oberstein", "field_3": "Gedenkkreuz für Anne Freiin von Schorlemer, um 1905 (?); Gedenkstein, 1930", "field_4": 49.693516, "field_5": 7.341392 }, "geometry": { "type": "Point", "coordinates": [ 7.341392, 49.693516 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Forststraße 26", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Jagdhaus; anspruchsvolles Landhaus in zeittypischem Materialwechsel, letztes Viertel des 19. Jahrhunderts", "field_4": 49.693696, "field_5": 7.343709 }, "geometry": { "type": "Point", "coordinates": [ 7.343709, 49.693696 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Friedrich-Ebert-Ring 8", "field_2": "Idar-Oberstein", "field_3": "malerisch-repräsentative Villa, 1903", "field_4": 49.702425, "field_5": 7.331654 }, "geometry": { "type": "Point", "coordinates": [ 7.331654, 49.702425 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Friedrich-Ebert-Ring 10", "field_2": "Idar-Oberstein", "field_3": "anspruchsvolle Villa, ab 1911, Architekt Julius Schneider", "field_4": 49.702425, "field_5": 7.331187 }, "geometry": { "type": "Point", "coordinates": [ 7.331187, 49.702425 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Georg-Maus-Straße 2", "field_2": "Idar-Oberstein", "field_3": "ehemalige Schillerschule; mächtiger barockisierender Baukörper, rückwärtig ehrenhofartig geöffnet, 1908–11, Stadtbaumeister Müller; stadtbildprägend", "field_4": 49.703905, "field_5": 7.318503 }, "geometry": { "type": "Point", "coordinates": [ 7.318503, 49.703905 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hasenklopp 6", "field_2": "Idar-Oberstein", "field_3": "schlossartige Anlage, barockisierender Mansarddachbau, Gartenpavillon, geschwungene Stützmauer, 1921–23, Architekt Paul Schultze-Naumburg", "field_4": 49.715934, "field_5": 7.303896 }, "geometry": { "type": "Point", "coordinates": [ 7.303896, 49.715934 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Idar-Oberstein", "field_3": "Evangelische Pfarrkirche; ehemals St. Peter und Paul, kreuzförmiger Saalbau, 1751, Erweiterung mit Querhaus 1894–94, Umbau 1955\/56, Architekt Hans Rost, Würzburg; romanischer Westturm (1114?), barocke Haube, wohl 1712; Grabstein M. C. Hauth, um 1742; auf dem Friedhof Ehrenmal für die Gefallenen des Ersten Weltkriegs", "field_4": 49.704849, "field_5": 7.326992 }, "geometry": { "type": "Point", "coordinates": [ 7.326992, 49.704849 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 48", "field_2": "Idar-Oberstein", "field_3": "Eckwohn- und Geschäftshaus, Eisenfachwerk mit Ziegelausmauerung, Burbacher Hütte; straßenbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 70", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Schulhaus; dreigeschossiger kubischer Walmdachbau, sogenannter oldenburgischer Spätklassizismus, 1856\/57, Architekt Peter Reinhard Casten, Birkenfeld; Dreiecksgiebel nach 1900, Portal mit Balkon nach 1933; ortsbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 71", "field_2": "Idar-Oberstein", "field_3": "stuckierte Fassade, 1922, des dreigeschossigen Wohn- und Geschäftshauses von 1888", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 72", "field_2": "Idar-Oberstein", "field_3": "repräsentatives dreigeschossiges Wohnhaus, Neurenaissancemotive, rückwärtig Stall und Scheune, 1863\/64", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 76", "field_2": "Idar-Oberstein", "field_3": "viergeschossiges Wohn- und Geschäftshaus, Neue Sachlichkeit, 1931, Architekt Johannes Weiler, Köln", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 78", "field_2": "Idar-Oberstein", "field_3": "repräsentatives historistisches Wohn- und Geschäftshaus, 1900, Architekt Hubert Himmes, Idar-Oberstein", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 103 und 105", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus mit Mansarddach, 1852, Überformungen 1890 und 1905; rückwärtig Ökonomie, 1912; Gesamtanlage in zurückhalten barockisierenden Formen", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 108", "field_2": "Idar-Oberstein", "field_3": "herrschaftliche Villa, klassizierende Neurenaissancemotive, französischer Landhausstil, 1870\/71, Architekt Louis Purper, Paris; rückwärtig Ökonomiebauten", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 118", "field_2": "Idar-Oberstein", "field_3": "repräsentative Neurenaissance-Villa, 1894; heute Deutsches Edelsteinmuseum", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 123", "field_2": "Idar-Oberstein", "field_3": "repräsentative Walmdach-Villa, Jugendstildekor, 1901, Architekt Hans Weszkalnys, Saarbrücken", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 126", "field_2": "Idar-Oberstein", "field_3": "repräsentatives Wohn- und Geschäftshaus, wohl 1890er Jahre; in der Torfahrt Tonreliefs", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 129", "field_2": "Idar-Oberstein", "field_3": "stattliches neugotisches Eingangstor", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 135", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus, sandsteingegliederter Rotziegelbau, Neurenaissance- und neubarocke Motive, wohl um 1890", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 143", "field_2": "Idar-Oberstein", "field_3": "mächtiges dreigeschossiges Wohnhaus mit Mansarddach, 1910; stadtbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 145", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges historistisches Wohnhaus, sandsteingegliederter Ziegelbau, Neurenaissance- und Jugendstilmotive", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 147", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges repräsentatives Wohnhaus, neubarocke, Louis-Seize- und Jugendstilmotive, 1908", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 148", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges anspruchsvolles Wohnhaus, barockisierender Mansarddachbau, um 1900; Gesamtanlage mit rückwärtigem Fabrikationsgebäude und weiterem Wohnhaus von 1910\/11", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 149", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Hotel Fürstenhof; Rotziegelbau mit Putzflächen, Jugendstildekor; 1904", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 150", "field_2": "Idar-Oberstein", "field_3": "kleines, aufwändig gestaltetes Wohnhaus, drittes Viertel des 19. Jahrhunderts", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 151", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus mit Eingangsloggia, Mansarddach, um 1910", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 153", "field_2": "Idar-Oberstein", "field_3": "malerisch-ländliche Villa, neugotische Motive, um 1900", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 155", "field_2": "Idar-Oberstein", "field_3": "repräsentative Neurenaissance-Villa, 1894\/95, Architekt Massing, Trier", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 156", "field_2": "Idar-Oberstein", "field_3": "zweieinhalbgeschossiges repräsentatives Wohnhaus, 1870\/71 und 1889", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 162", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus, 1893, Architekt Wilhelm Müller, Frankfurt; Umbau 1929, Architekt Johannes Weiler, Köln; hölzerne Gartenlaube, Aussichtsturm", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 163", "field_2": "Idar-Oberstein", "field_3": "Jugendstil-Wohnhaus, bezeichnet 1902, Architekt Hubert Himmes, Idar-Oberstein", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 177", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus, expressionistisch variierte Jugendstilmotive, bezeichnet 1927\/28, Architekt Johannes Weiler, Köln", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 185", "field_2": "Idar-Oberstein", "field_3": "eingeschossiges Wohnhaus, expressionistische Motive, 1923, Architekt Johannes Weiler, Köln", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 192", "field_2": "Idar-Oberstein", "field_3": "malerisch-ländliche Villa, 1905; ortsbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 194", "field_2": "Idar-Oberstein", "field_3": "Mansarddach-Villa, 1911, Architekt Paul Schultze-Naumburg; ortsbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 248", "field_2": "Idar-Oberstein", "field_3": "landhausartiges Wohnhaus mit Mansarddach, 1911, Architekt Georg Küchler, Darmstadt", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 260", "field_2": "Idar-Oberstein", "field_3": "ungewöhnliche Jugendstileinfriedung, 1904", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 264", "field_2": "Idar-Oberstein", "field_3": "Sandstein-Villa auf asymmetrischem Grundriss, neugotische und Jugendstil-Motive, um 1905; Ausstattung", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 270", "field_2": "Idar-Oberstein", "field_3": "ländliche Villa, Effusivgestein, Sandstein, Fachwerk, glasierte Ziegel, um 1905", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 274", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus, malerischverschachtelter Putzbau mit Kniestock, 1905", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 289", "field_2": "Idar-Oberstein", "field_3": "Sitzungsgebäude der Loge zum Felsentempel; symmetrisch gegliederter Putzbau, Jugendstildekor, 1906", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 291", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus, sandsteingegliederter Ziegelbau mit Fachwerkteilen, gegen Ende des 19. Jahrhunderts, Architekt wohl Max Jager; Umbau 1909 und 1914", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 313", "field_2": "Idar-Oberstein", "field_3": "eingeschossiges Wohnhaus mit Mansarddach, ländliche und expressionistische Motive, 1923\/24, Architekt Julius Schneider; Ausstattung", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 330", "field_2": "Idar-Oberstein", "field_3": "Eckwohnhaus, 1882, Architekt R. Goering; Ausstattung", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 332", "field_2": "Idar-Oberstein", "field_3": "Eckwohnhaus, klassizistische und Neurenaissance-Motive, drittes Viertel des 19. Jahrhunderts", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 337\/339", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges Doppelwohnhaus mit Mansarddächern, 1910\/11, Architekt Johannes Ranly, Oberstein", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 338", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Kaiserliches Postamt, sogenannte Alte Post; mächtiger, drei- und viergeschossiger Dreiflügelbau mit Schweif- und Fachwerkgiebeln, 1910–12, Architekt Postbaurat Neufeldt; platzbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 342\/344", "field_2": "Idar-Oberstein", "field_3": "Doppelhaus, Rotsandsteinbau mit Mansarddach, spätgotische und Jugendstil-Motive, 1900, Architekt Hubert Himmes, Idar-Oberstein", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 385", "field_2": "Idar-Oberstein", "field_3": "Putzbau, barockisierende Heimatstilnachklänge, 1950, Architekt Julius Schneider; bauzeitliche Ladeneinrichtung", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 386", "field_2": "Idar-Oberstein", "field_3": "ehemaliges Kaufhaus Pielmeyer; dreigeschossiger Mansarddachbau, Louis-Seize- und Jugendstilmotive, um 1905, Architekten Gerhards & Hassert; straßenbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 391", "field_2": "Idar-Oberstein", "field_3": "Neurenaissance-Fassade des Wohn- und Geschäftshauses, 1890; straßenbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 412\/414", "field_2": "Idar-Oberstein", "field_3": "barockes Doppelhaus mit Fachwerkgiebel, bezeichnet 1702", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 417", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges Wohn- und Geschäftshaus, Jugendstilmotive, 1906, Architekt Max Jager; platzbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 418", "field_2": "Idar-Oberstein", "field_3": "aufwändiger Fassadendekor, barockisierende Jugendstil, um 1905", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 432", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiger Fachwerkbau, teilweise massiv, Ende des 16. Jahrhunderts, Umbau 1717", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 434", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges Wohn- und Geschäftshaus mit Mansarddach, Neurenaissancemotive, 1895; stadtbildprägend", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 468\/470", "field_2": "Idar-Oberstein", "field_3": "mächtiger dreigeschossiger Ständerbau, erste Hälfte des 15. Jahrhunderts", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 499", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus mit Mansarddach, barockisierender Putzdekor, Ende des 19. Jahrhunderts", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Höckelböschstraße 1", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges barockisierendes Eckwohn- und Geschäftshaus, um 1908; Ausstattung; stadtbildprägend", "field_4": 49.719417, "field_5": 7.301453 }, "geometry": { "type": "Point", "coordinates": [ 7.301453, 49.719417 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Höckelböschstraße 2", "field_2": "Idar-Oberstein", "field_3": "Zeilenwohnhaus mit Mansarddach, Anfang des 20. Jahrhunderts", "field_4": 49.719295, "field_5": 7.301498 }, "geometry": { "type": "Point", "coordinates": [ 7.301498, 49.719295 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Höckelböschstraße 8", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus, Neurenaissancemotive, um 1877", "field_4": 49.719109, "field_5": 7.301129 }, "geometry": { "type": "Point", "coordinates": [ 7.301129, 49.719109 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hoher Weg 1\/3", "field_2": "Idar-Oberstein", "field_3": "Doppelwohnhaus, dreigeschossiger Mansarddachbau über Stützmauer, 1912, Architekt Johannes Ranly; stadtbildprägend", "field_4": 49.703748, "field_5": 7.322958 }, "geometry": { "type": "Point", "coordinates": [ 7.322958, 49.703748 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kasinostraße 7", "field_2": "Idar-Oberstein", "field_3": "Gebäude der ehemaligen Kartonagefabrik Hermann Leyser; Ziegelbau, teilweise Fachwerk, filigrane Holzdetails, Ende des 19. Jahrhunderts; Wohnhaus 1896, Zwischentrakt 1911", "field_4": 49.703858, "field_5": 7.328618 }, "geometry": { "type": "Point", "coordinates": [ 7.328618, 49.703858 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Keltenstraße", "field_2": "Idar-Oberstein", "field_3": "Wasserbehälter; repräsentativer Ziegelmauerwerk-Vorbau, 1894", "field_4": 49.726022, "field_5": 7.30748 }, "geometry": { "type": "Point", "coordinates": [ 7.30748, 49.726022 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchweg", "field_2": "Idar-Oberstein", "field_3": "Ehemalige evangelische Pfarrkirche, sogenannte Felsenkirche; auf unregelmäßigem Grundriss 1482–84 in Fels eingebaut, Erneuerung des spätgotischen Gewölbes durch Tonne, 1742, Veränderung des Turmdachs, 1858, Baumeister Weyer, tiefgreifende Sanierung, 1927–29, Architekt Wilhelm Heilig, Langen; Flügelaltar vom Ende des 14 Jahrhunderts, dem Meister der Mainzer Verspottung zugeschrieben", "field_4": 49.705251, "field_5": 7.328097 }, "geometry": { "type": "Point", "coordinates": [ 7.328097, 49.705251 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kobachstraße 4", "field_2": "Idar-Oberstein", "field_3": "anspruchsvolles Wohn- und Geschäftshaus, Louis-Seize-Stil, 1912", "field_4": 49.720017, "field_5": 7.302019 }, "geometry": { "type": "Point", "coordinates": [ 7.302019, 49.720017 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Luisenstraße 9", "field_2": "Idar-Oberstein", "field_3": "ländliche Villa, eingeschossiger Mansarddachbau auf unregelmäßigem Grundriss, 1908, Architekt Georg Küchler, Darmstadt", "field_4": 49.708735, "field_5": 7.317047 }, "geometry": { "type": "Point", "coordinates": [ 7.317047, 49.708735 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 64", "field_2": "Idar-Oberstein", "field_3": "Villa, Jugendstildekor, 1907", "field_4": 49.717909, "field_5": 7.305226 }, "geometry": { "type": "Point", "coordinates": [ 7.305226, 49.717909 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 66", "field_2": "Idar-Oberstein", "field_3": "repräsentative Jugendstil-Villa, 1905, Architekten Hubert Himmes und Adrian Wehrli, Idar-Oberstein", "field_4": 49.717676, "field_5": 7.305594 }, "geometry": { "type": "Point", "coordinates": [ 7.305594, 49.717676 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 69", "field_2": "Idar-Oberstein", "field_3": "repräsentative Jugendstil-Villa mit Mansarddach, um 1905", "field_4": 49.718136, "field_5": 7.303483 }, "geometry": { "type": "Point", "coordinates": [ 7.303483, 49.718136 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 73", "field_2": "Idar-Oberstein", "field_3": "repräsentative Villa auf asymmetrischem Grundriss, barockisierender Jugendstildekor, 1905\/06, Architekt Hans Weszkalnys, Saarbrücken", "field_4": 49.717979, "field_5": 7.304058 }, "geometry": { "type": "Point", "coordinates": [ 7.304058, 49.717979 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 75", "field_2": "Idar-Oberstein", "field_3": "Putz-Villa auf asymmetrischem Grundriss, Walmdächer, 1901, Architekt Hubert Himmes, Idar-Oberstein", "field_4": 49.717926, "field_5": 7.304516 }, "geometry": { "type": "Point", "coordinates": [ 7.304516, 49.717926 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mainzer Straße 224", "field_2": "Idar-Oberstein", "field_3": "Villa Wolff, anspruchsvolle ländliche Villa, eingeschossiger Mansarddachbau, 1923\/24, Architekt Julius Schneider", "field_4": 49.701697, "field_5": 7.319608 }, "geometry": { "type": "Point", "coordinates": [ 7.319608, 49.701697 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Otto-Decker-Straße 6", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges neugotisches Wohn- und Geschäftshaus mit Mansarddach, 1900, Architekt Hubert Himmes, Idar-Oberstein", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Otto-Decker-Straße 12", "field_2": "Idar-Oberstein", "field_3": "villenartiges Eckwohnhaus, Neurenaissancemotive, 1895–96, Architekt Heinrich Güth, Saarbrücken", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Otto-Decker-Straße 16", "field_2": "Idar-Oberstein", "field_3": "historistisches Wohn- und Geschäftshaus mit Mansarddach, 1905", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ritterstraße 11", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus, nach 1882, barockisierende Erweiterung 1912", "field_4": 49.703229, "field_5": 7.330684 }, "geometry": { "type": "Point", "coordinates": [ 7.330684, 49.703229 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Ritterstraße 31", "field_2": "Idar-Oberstein", "field_3": "Zeilenwohnhaus mit Mansarddach, Neurenaissancemotive, bezeichnet 1906", "field_4": 49.703159, "field_5": 7.332741 }, "geometry": { "type": "Point", "coordinates": [ 7.332741, 49.703159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schönlautenbach 6", "field_2": "Idar-Oberstein", "field_3": "repräsentatives Wohnhaus, dreifach gestaffelter Walmdachbau, 1924\/25, Architekt Johannes Weiler, Köln", "field_4": 49.701248, "field_5": 7.336406 }, "geometry": { "type": "Point", "coordinates": [ 7.336406, 49.701248 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schönlautenbach 27", "field_2": "Idar-Oberstein", "field_3": "Wohnhaus mit Mansarddach, eingeschossiger Fachwerkbau auf terrassenartigem Naturstein-Untergeschoss, 1928", "field_4": 49.697577, "field_5": 7.336514 }, "geometry": { "type": "Point", "coordinates": [ 7.336514, 49.697577 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 20", "field_2": "Idar-Oberstein", "field_3": "landhausartiges Wohnhaus, eingeschossiger Krüppelwalmdachbau, 1920er Jahre", "field_4": 49.725649, "field_5": 7.294042 }, "geometry": { "type": "Point", "coordinates": [ 7.294042, 49.725649 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wasenstraße 1", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges historisierendes Wohn- und Geschäftshaus, teilweise Zierfachwerk, Umbau 1924\/25", "field_4": 49.69999, "field_5": 7.320901 }, "geometry": { "type": "Point", "coordinates": [ 7.320901, 49.69999 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wilhelmstraße 23", "field_2": "Idar-Oberstein", "field_3": "repräsentative Fabrikantenvilla mit Mansarddach, klassizierend-neubarocke Motive, ab 1909, Architekt Julius Schneider", "field_4": 49.704138, "field_5": 7.330352 }, "geometry": { "type": "Point", "coordinates": [ 7.330352, 49.704138 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wilhelmstraße 44", "field_2": "Idar-Oberstein", "field_3": "Fabrikantenwohnhaus mit Garten; sandsteingegliederter Effusivgesteinbau, Jugendstildekor, 1910, Architekt Max Jager; Ausstattung", "field_4": 49.703427, "field_5": 7.332732 }, "geometry": { "type": "Point", "coordinates": [ 7.332732, 49.703427 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Wilhelmstraße 48", "field_2": "Idar-Oberstein", "field_3": "dreigeschossiges historistisches Wohn- und Geschäftshaus, sandsteingegliederter Ziegelbau, 1903, rückwärtig Fabrikationsgebäude; stadtbildprägend", "field_4": 49.70327, "field_5": 7.332993 }, "geometry": { "type": "Point", "coordinates": [ 7.332993, 49.70327 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "am Wüstlautenbach", "field_2": "Idar-Oberstein", "field_3": "Eisenbahnbrücke der Rhein-Nahe-Bahn; zum Teil stark erneuerter dreibogiger, backsteingegliederter Sandsteinquaderbau über das Tal des Wüstlautenbachs", "field_4": 49.699826, "field_5": 7.323884 }, "geometry": { "type": "Point", "coordinates": [ 7.323884, 49.699826 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "an der Ostseite des Altenberges", "field_2": "Idar-Oberstein", "field_3": "Eisenbahnbrücke der Rhein-Nahe-Bahn; dreibogige Brücke im Nahetal am Altenberg", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "östlich von Idar auf dem Wartehübel", "field_2": "Idar-Oberstein", "field_3": "Bismarckturm; monumentale Anlage aus Effusivgestein, 1907, Architekt Hans Weszkalnys, Saarbrücken (Entwurf Wilhelm Kreis, Dresden)", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "westlich des Bahnhofs", "field_2": "Idar-Oberstein", "field_3": "Eisenbahnbrücken der Rhein-Nahe-Bahn; zwei backsteingegliederte Sandsteinquaderbauten über eine Naheschleife", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Stäbel", "field_2": "Idar-Oberstein", "field_3": "Eingangsrelief der Straßburgkaserne: nationalsozialistisch geprägte Formen, 1936–38; an der Ecke zur Saarstraße Ehrenmal, 1958", "field_4": 49.721764, "field_5": 7.284241 }, "geometry": { "type": "Point", "coordinates": [ 7.284241, 49.721764 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Stäbel, auf dem Friedhof", "field_2": "Idar-Oberstein", "field_3": "Ehrenmal für die Gefallenen des Ersten Weltkriegs von Wilhelm Heilig, um 1920", "field_4": 49.721764, "field_5": 7.284241 }, "geometry": { "type": "Point", "coordinates": [ 7.284241, 49.721764 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "östlich von Enzweiler", "field_2": "Idar-Oberstein", "field_3": "Eisenbahnbrücke und Tunnel der Rhein-Nahe-Bahn; zweibogige Brücke, Effusivgestein und Ziegel, über die Nahe, eindrucksvolle Abfolge von Hommericher Tunnel, Brücke und Enzweiler Tunnel", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf der Burr", "field_2": "Idar-Oberstein", "field_3": "Ehemalige evangelische Pfarrkirche; ehemals St. Georg, gestaffelter romanischer Bau, Westturm, Chor spätgotisch verändert (wohl im 14. Jahrhundert), Saal barock überformt; Marienglocke von 1350; auf dem Friedhof Grabsteine um 1900", "field_4": 49.730808, "field_5": 7.388778 }, "geometry": { "type": "Point", "coordinates": [ 7.388778, 49.730808 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Auf der Burr 13", "field_2": "Idar-Oberstein", "field_3": "Saugpumpe, Gusseisen, Messing, neugotisch, Firma Gebrüder Zilken, Koblenz, wohl letztes Viertel des 19. Jahrhunderts", "field_4": 49.731006, "field_5": 7.38894 }, "geometry": { "type": "Point", "coordinates": [ 7.38894, 49.731006 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(vor) Buchengasse 2 und 4", "field_2": "Idar-Oberstein", "field_3": "zwei schmiedeeiserne Ziehbrunnen", "field_4": 49.731676, "field_5": 7.388005 }, "geometry": { "type": "Point", "coordinates": [ 7.388005, 49.731676 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Göttschieder Straße 43", "field_2": "Idar-Oberstein", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, Portal bezeichnet 1620, Überformungen 1775, 1864\/65 und 1933", "field_4": 49.722096, "field_5": 7.335274 }, "geometry": { "type": "Point", "coordinates": [ 7.335274, 49.722096 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hammersteiner Straße 39", "field_2": "Idar-Oberstein", "field_3": "Evangelische Kirche; neubarocker Saalbau mit Dachreiter, 1904–09, Architekt August Senz, Düsseldorf; ortsbildprägend", "field_4": 49.691505, "field_5": 7.295102 }, "geometry": { "type": "Point", "coordinates": [ 7.295102, 49.691505 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nordwestlich von Hammerstein", "field_2": "Idar-Oberstein", "field_3": "Eisenbahnbrücke und Tunnel der Rhein-Nahe-Bahn; zweibogiger backsteingegliederter Sandsteinquaderbau über die Nahe, Tunnel durch die sogenannte Hammersteiner Kipp", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchberg 3", "field_2": "Idar-Oberstein", "field_3": "Ehemalige katholische Pfarrkirche St. Johann Nepomuk; zweischiffiger späthistoristischer Bruchsteinbau, Flankenturm, 1895–98, Architekt Ludwig Becker, Mainz; Spolie (18. Jahrhundert); reiche Ausstattung", "field_4": 49.692135, "field_5": 7.408873 }, "geometry": { "type": "Point", "coordinates": [ 7.408873, 49.692135 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchberg 6", "field_2": "Idar-Oberstein", "field_3": "Evangelische Pfarrkirche; schlichter barocker Saalbau, Dachreiter mit welscher Haube, 1755, Architekt Johann Thomas Petri, Kirn; Ausstattung", "field_4": 49.692356, "field_5": 7.409295 }, "geometry": { "type": "Point", "coordinates": [ 7.409295, 49.692356 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kirchberg 8", "field_2": "Idar-Oberstein", "field_3": "ehemaliges katholisches Pfarrhaus; ein- und zweigeschossiger barocker Walmdachbau, 1770, Architekt eventuell Johann Thomas Petri; ortsbildprägend", "field_4": 49.692228, "field_5": 7.409466 }, "geometry": { "type": "Point", "coordinates": [ 7.409466, 49.692228 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Rain 21", "field_2": "Idar-Oberstein", "field_3": "ehemalige Schule; verschachtelter Heimatstilbau mit expressionistischen Details, 1926\/27", "field_4": 49.692886, "field_5": 7.405936 }, "geometry": { "type": "Point", "coordinates": [ 7.405936, 49.692886 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Im Brühl 1", "field_2": "Idar-Oberstein", "field_3": "Holztür, Zopfstil, 18. Jahrhundert", "field_4": 49.692508, "field_5": 7.410499 }, "geometry": { "type": "Point", "coordinates": [ 7.410499, 49.692508 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Schützenrech 57", "field_2": "Idar-Oberstein", "field_3": "Schule; von Giebelrisaliten durchdrungener, sandsteingegliederter Putzbau, 1912, Erweiterung 1962", "field_4": 49.698917, "field_5": 7.397662 }, "geometry": { "type": "Point", "coordinates": [ 7.397662, 49.698917 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Gaß 3", "field_2": "Idar-Oberstein", "field_3": "ehemaliger Stierstall; eingeschossiger Massivbau mit Fachwerk-Kniestock, wohl um 1910; Ausstattung", "field_4": 49.697647, "field_5": 7.399019 }, "geometry": { "type": "Point", "coordinates": [ 7.399019, 49.697647 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (Sonnehofstraße)", "field_2": "Idar-Oberstein", "field_3": "zehn meist stelenförmige Steine, 1900 bis um 1933, in umzäuntem Areal", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bachweg 6", "field_2": "Idar-Oberstein", "field_3": "Quereinhaus, teilweise Fachwerk (verputzt), wohl aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.748047, "field_5": 7.274333 }, "geometry": { "type": "Point", "coordinates": [ 7.274333, 49.748047 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Granatweg", "field_2": "Idar-Oberstein", "field_3": "Kriegerdenkmal; Sandsteinrelief, 1920er Jahre, eingelassene Betonstele nach 1945", "field_4": 49.744024, "field_5": 7.276273 }, "geometry": { "type": "Point", "coordinates": [ 7.276273, 49.744024 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 87", "field_2": "Idar-Oberstein", "field_3": "Kallwiesweiherschleife; wassergetriebene Edelsteinschleife; gedrungener Satteldachbau mit großen Eisensprossenfenstern, 18. Jahrhundert, mehrfach umgestaltet oder erneuert; Ausstattung; Weiher", "field_4": 49.729248, "field_5": 7.287223 }, "geometry": { "type": "Point", "coordinates": [ 7.287223, 49.729248 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 178", "field_2": "Idar-Oberstein", "field_3": "Hettsteiner Schleife oder Schleife zwischen den Mühlen; ehemalige Wasserschleife; Bruchsteinbau mit großen Eisensprossenfenstern, 1846; Ausstattung", "field_4": 49.736456, "field_5": 7.281851 }, "geometry": { "type": "Point", "coordinates": [ 7.281851, 49.736456 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Tiefensteiner Straße 232", "field_2": "Idar-Oberstein", "field_3": "ehemalige Tankstelle, Tankstellengebäude mit Verkaufsraum und Werkstatt, Pilzsäulenkonstruktion mit weit überstehendem Dach, 1950er Jahre", "field_4": 49.740997, "field_5": 7.27957 }, "geometry": { "type": "Point", "coordinates": [ 7.27957, 49.740997 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 275", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus mit zeitgenössischen Details, 1920er Jahre", "field_4": 49.741265, "field_5": 7.279758 }, "geometry": { "type": "Point", "coordinates": [ 7.279758, 49.741265 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 296", "field_2": "Idar-Oberstein", "field_3": "avantgardistisches Wohnhaus, 1930\/32, Architekt Julius Schneider", "field_4": 49.746155, "field_5": 7.275842 }, "geometry": { "type": "Point", "coordinates": [ 7.275842, 49.746155 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Tiefensteiner Straße 322", "field_2": "Idar-Oberstein", "field_3": "villenartiges Wohnhaus mit Mansarddach, Louis-Seize- und Jugendstilmotive, kurz nach 1900", "field_4": 49.747628, "field_5": 7.273982 }, "geometry": { "type": "Point", "coordinates": [ 7.273982, 49.747628 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (östlich des Ortes auf der Kuppe „Am Winnenberg“)", "field_2": "Idar-Oberstein", "field_3": "sieben stelenartige Steine oder Sockel", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Niederreidenbacher Hof (nordöstliche des Ortes)", "field_2": "Idar-Oberstein", "field_3": "erste Erwähnung einer Burg im 13. Jahrhundert, im 19. Jahrhundert Gutshof, seit 1904 Diakonissenanstalt, mit Wohn- und Wirtschaftsgebäuden, Mühle und Brennerei, um 1840 ff.; Felsenkeller unter dem Hof; Um- und Erweiterungsbauten 1904 ff.; Kapelle, 1658 oder älter, Erweiterung 1931; Grabstein des Reichsherrn Friedrich Kasimir Boxheim († 1743); Reste des anstaltseigenen Friedhofs; zwei Wasserbehälter, 1930er Jahre; Park- und Gartenanlagen, landschaftsprägend", "field_4": 49.722749, "field_5": 7.297716 }, "geometry": { "type": "Point", "coordinates": [ 7.297716, 49.722749 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Dorfstraße 1", "field_2": "Idar-Oberstein", "field_3": "sogenannter Hessenstein; ehemaliger Grenzstein; toskanische Säule mit Inschrift und Wappenschild, nach 1815", "field_4": 49.727815, "field_5": 7.393853 }, "geometry": { "type": "Point", "coordinates": [ 7.393853, 49.727815 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dorfstraße 32", "field_2": "Idar-Oberstein", "field_3": "ehemaliges evangelisches Pfarrhaus; Krüppelwalmdachbau, Heimatstil, 1930\/31, Architekt Friedrich Otto, Kirn; straßenbildprägend", "field_4": 49.725177, "field_5": 7.397105 }, "geometry": { "type": "Point", "coordinates": [ 7.397105, 49.725177 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Obere Kirchstraße", "field_2": "Idar-Oberstein", "field_3": "Evangelische Pfarrkirche; ehemals St. Martin, frühklassizistischer Saalbau, Architekt Wilhelm Frommel, 1792\/93; spätmittelalterlicher, im 17. Jahrhundert veränderter Turm; Stützmauer wohl mittelalterlich", "field_4": 49.722359, "field_5": 7.396063 }, "geometry": { "type": "Point", "coordinates": [ 7.396063, 49.722359 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Obere Kirchstraße", "field_2": "Idar-Oberstein", "field_3": "Katholische Pfarrkirche St. Martin; neugotischer Rotsandsteinbau, 1896\/97, Architekt Lambert von Fisenne, Gelsenkirchen; Ausstattung; ortsbildprägend", "field_4": 49.722359, "field_5": 7.396063 }, "geometry": { "type": "Point", "coordinates": [ 7.396063, 49.722359 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Weierbacher Straße 12", "field_2": "Idar-Oberstein", "field_3": "teilweise gewerblich genutztes Wohnhaus mit Mansarddach, expressionistische Motive, 1920er Jahre", "field_4": 49.737277, "field_5": 7.403573 }, "geometry": { "type": "Point", "coordinates": [ 7.403573, 49.737277 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Weierbacher Straße 22", "field_2": "Idar-Oberstein", "field_3": "Bahnhof; Empfangs- und Verwaltungsgebäude mit Dienstwohnungen, Güterhalle und Nebengebäude, 1913\/14, Architekt Schenck; ein- und zweigeschossiger Hauptbau, klassizierender Jugendstildekor, monumentale Dachlandschaft", "field_4": 49.735589, "field_5": 7.400923 }, "geometry": { "type": "Point", "coordinates": [ 7.400923, 49.735589 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Weierbacher Straße 75", "field_2": "Idar-Oberstein", "field_3": "ehemalige Amtsbürgermeisterei; asymmetrisch gegliederter Putzbau, Neurenaissancemotive, 1910\/11", "field_4": 49.726895, "field_5": 7.394976 }, "geometry": { "type": "Point", "coordinates": [ 7.394976, 49.726895 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Wildenburg (südlich des Ortes)", "field_2": "Kempfeld", "field_3": "1328 von Wildgraf Friedrich von Kyrburg gegründet, Sitz eines wild- und rheingräflichen Amtmannes; erhalten Grundmauern und Reste einer Zisterne der Oberburg, die ehemalige Unterburg ab 1859 neu errichtet: Torturm, ehemaliges Forsthaus (teilweise Fachwerk, Mansarddach), Scheune, niedrige Wirtschaftsgebäude", "field_4": 49.789159, "field_5": 7.241508 }, "geometry": { "type": "Point", "coordinates": [ 7.241508, 49.789159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße, auf dem Friedhof", "field_2": "Kempfeld", "field_3": "verschiedene Grabsteine, unter anderem Grabplatte J. V. Oberheim, 1768; skulptiertes Grabmal Familie Fuchs, Grabstele M. E. Fuchs, 1902", "field_4": 49.789339, "field_5": 7.241328 }, "geometry": { "type": "Point", "coordinates": [ 7.241328, 49.789339 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 15", "field_2": "Kempfeld", "field_3": "Evangelische Kirche; quergerichteter Jugendstil-Saalbau mit Westturm, 1912, Architekt August Senz, Düsseldorf", "field_4": 49.791398, "field_5": 7.242389 }, "geometry": { "type": "Point", "coordinates": [ 7.242389, 49.791398 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Herrsteinerstraße 2", "field_2": "Kempfeld", "field_3": "stattliches barockes Wohnhaus, teilweise Fachwerk (verschiefert), Krüppelwalmdach, bezeichnet 1763", "field_4": 49.794015, "field_5": 7.24927 }, "geometry": { "type": "Point", "coordinates": [ 7.24927, 49.794015 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes", "field_2": "Kempfeld", "field_3": "Forsthaus; asymmetrischer, vielgliedriger Baukörper, Heimatstil- und expressionistische Motive, Anfang des 20. Jahrhunderts", "field_4": 49.789159, "field_5": 7.241508 }, "geometry": { "type": "Point", "coordinates": [ 7.241508, 49.789159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Katzenloch 12", "field_2": "Kempfeld", "field_3": "Hotel und Gasthaus; blockhafter Bau, vielgliedrige Dachlandschaft, frühes 20. Jahrhundert", "field_4": 49.767019, "field_5": 7.221844 }, "geometry": { "type": "Point", "coordinates": [ 7.221844, 49.767019 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Katzenloch 20", "field_2": "Kempfeld", "field_3": "ehemaliges Hammerwerk; zwei oberschlächtige Wasserräder des 1758 bis 1870\/72 arbeitenden Hammerwerks", "field_4": 49.768037, "field_5": 7.22294 }, "geometry": { "type": "Point", "coordinates": [ 7.22294, 49.768037 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße, auf dem Friedhof", "field_2": "Kirschweiler", "field_3": "drei ältere Grabsteine (1855, um 1910, 1920)", "field_4": 49.759914, "field_5": 7.248928 }, "geometry": { "type": "Point", "coordinates": [ 7.248928, 49.759914 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 22", "field_2": "Kirschweiler", "field_3": "villenartiges späthistoristisches Wohn- und Geschäftshaus", "field_4": 49.758826, "field_5": 7.255378 }, "geometry": { "type": "Point", "coordinates": [ 7.255378, 49.758826 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 27", "field_2": "Kirschweiler", "field_3": "Wohnhaus mit Kniestock, um 1910; Schleifereiwerkstatt", "field_4": 49.758826, "field_5": 7.255378 }, "geometry": { "type": "Point", "coordinates": [ 7.255378, 49.758826 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße", "field_2": "Kirschweiler", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, Wappenstein, 1739\/40; zwei Bronzeglocken, 1924", "field_4": 49.754263, "field_5": 7.24132 }, "geometry": { "type": "Point", "coordinates": [ 7.24132, 49.754263 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 8", "field_2": "Kirschweiler", "field_3": "ehemalige Schule; barockisierender Walmdachbau, Portalrisalit, Dachreiter, 1910–24", "field_4": 49.754339, "field_5": 7.241445 }, "geometry": { "type": "Point", "coordinates": [ 7.241445, 49.754339 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Tampelstraße 8", "field_2": "Kirschweiler", "field_3": "Schleiferei, um 1910; Ausstattung teilweise erhalten", "field_4": 49.753698, "field_5": 7.241185 }, "geometry": { "type": "Point", "coordinates": [ 7.241185, 49.753698 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Bahnhof 3", "field_2": "Kronweiler", "field_3": "ehemaliger Bahnhof der Rhein-Nahe-Bahn mit Schalterhalle, Vorsteherwohnung und Warteraum; zweigeschossiger Gelbsandsteinbau mit niedrigeren Anbauten, 1868, nördlicher Anbau 1910", "field_4": 49.655285, "field_5": 7.261873 }, "geometry": { "type": "Point", "coordinates": [ 7.261873, 49.655285 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Kronweiler", "field_3": "zweibogige Brücke über den Schwollbach, 1880er Jahre", "field_4": 49.658026, "field_5": 7.261693 }, "geometry": { "type": "Point", "coordinates": [ 7.261693, 49.658026 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße, Ecke Am Bahnhof", "field_2": "Kronweiler", "field_3": "Katholische Kirche Herz Jesu; kleiner neugotischer Saalbau mit Dachreiter, 1910, Architekt Martin, Düsseldorf; spätbarocke Ausstattung", "field_4": 49.658026, "field_5": 7.261693 }, "geometry": { "type": "Point", "coordinates": [ 7.261693, 49.658026 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "im Osten und im Südosten des Ortes", "field_2": "Kronweiler", "field_3": "Eisenbahnbrücken der Rhein-Nahe-Bahn; zwei dreibogige, backsteinsteingegliederte Sandsteinquaderbauten über die Nahe", "field_4": 49.658469, "field_5": 7.262349 }, "geometry": { "type": "Point", "coordinates": [ 7.262349, 49.658469 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Krummenau (Hunsrück)", "field_3": "drei einbogige Brücken über den Altbach, 1806 und 1838\/39", "field_4": 49.889778, "field_5": 7.271171 }, "geometry": { "type": "Point", "coordinates": [ 7.271171, 49.889778 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 7", "field_2": "Krummenau (Hunsrück)", "field_3": "dreischiffiger, kreuzgratgewölbter Stall, um 1850\/60", "field_4": 47.246785, "field_5": 9.173677 }, "geometry": { "type": "Point", "coordinates": [ 9.173677, 47.246785 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße", "field_2": "Krummenau (Hunsrück)", "field_3": "Evangelische Kirche; kleiner Saalbau mit Dachreiter, bezeichnet 1747; Ausstattung; auf dem Friedhof zwei Grabmäler vom Ende des 19. Jahrhunderts", "field_4": 49.889772, "field_5": 7.27197 }, "geometry": { "type": "Point", "coordinates": [ 7.27197, 49.889772 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Roter Weg", "field_2": "Langweiler (bei Idar-Oberstein)", "field_3": "Katholische Pfarrkirche St. Nicetius; Saalbau mit Dachreiter, 1856", "field_4": 49.78197, "field_5": 7.188508 }, "geometry": { "type": "Point", "coordinates": [ 7.188508, 49.78197 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "nordwestlich des Ortes", "field_2": "Langweiler (bei Idar-Oberstein)", "field_3": "Kriegerdenkmal; Terrassen, Treppe, kleine Kapelle, 1921–31, Entwurf Pastor Nikolaus Philipp", "field_4": 49.781987, "field_5": 7.188382 }, "geometry": { "type": "Point", "coordinates": [ 7.188382, 49.781987 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Ortskern (Hauptstraße 23, 25, 26, 27, 28, 30, 32, 34, Burbacher Straße 2, Hofstraße 4)", "field_2": "Leisel", "field_3": "Ortskern des Haufendorfes mit Schule und Pfarrhaus; kennzeichnendes Dorfbild mit Quereinhäusern und Streugehöften, 18. und 19. Jahrhundert", "field_4": 49.718946, "field_5": 7.203977 }, "geometry": { "type": "Point", "coordinates": [ 7.203977, 49.718946 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Friedhof (westlich des Ortes, unmittelbar östlich der Kirche Heiligenbösch)", "field_2": "Leisel", "field_3": "1838 angelegt, nach 1945 als Reformfriedhof erweitert; Bruchsteinmauer; Grabsteine ab 1857, gusseiserne Kreuze (Asbacherhütte?); monumentales Kriegerdenkmal für die Gefallenen des Ersten Weltkriegs aus Leisel, Schwollen und Hattgenstein, Entwurf Hans Best, Kreuznach, Ausführung Mittler & Co., Obermendig", "field_4": 49.718946, "field_5": 7.203977 }, "geometry": { "type": "Point", "coordinates": [ 7.203977, 49.718946 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 28", "field_2": "Leisel", "field_3": "sogenanntes Badisches Amtshaus; Streugehöft mit Wohnhaus, Scheune mit Pferdestall, Schweine- und Hühnerstall sowie kleinerem Wohn- oder Gesindehaus; Haupthaus, teilweise Fachwerk, teilweise verschiefert, abgewalmtes Mansarddach, bezeichnet 1767; ortsbildprägend", "field_4": 49.719085, "field_5": 7.199961 }, "geometry": { "type": "Point", "coordinates": [ 7.199961, 49.719085 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 30", "field_2": "Leisel", "field_3": "Quereinhaus, teilweise Fachwerk (verputzt oder verschiefert), wohl aus der ersten Hälfte des 19. Jahrhunderts; ortsbildprägend", "field_4": 49.719045, "field_5": 7.200491 }, "geometry": { "type": "Point", "coordinates": [ 7.200491, 49.719045 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 32", "field_2": "Leisel", "field_3": "stattliches Quereinhaus, teilweise Fachwerk (verputzt oder verschiefert), wohl aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.718986, "field_5": 7.200877 }, "geometry": { "type": "Point", "coordinates": [ 7.200877, 49.718986 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 44", "field_2": "Leisel", "field_3": "ehemaliges Quereinhaus mit Edelsteinschleiferei, im Kern aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.719184, "field_5": 7.202387 }, "geometry": { "type": "Point", "coordinates": [ 7.202387, 49.719184 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "westlich des Ortes", "field_2": "Leisel", "field_3": "Evangelische Pfarrkirche Heiligenbösch; Westturm 13. Jahrhundert (?), Schiff 1730, über Badeanlagen einer Villa rustica; Ausstattung", "field_4": 49.718946, "field_5": 7.203977 }, "geometry": { "type": "Point", "coordinates": [ 7.203977, 49.718946 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dorfstraße 10", "field_2": "Meckenbach (bei Birkenfeld)", "field_3": "Quereinhaus, 1808", "field_4": 49.617216, "field_5": 7.096493 }, "geometry": { "type": "Point", "coordinates": [ 7.096493, 49.617216 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Trauntalweg 3", "field_2": "Meckenbach (bei Birkenfeld)", "field_3": "stattliches Quereinhaus, teilweise Fachwerk, 1816", "field_4": 49.616557, "field_5": 7.098065 }, "geometry": { "type": "Point", "coordinates": [ 7.098065, 49.616557 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße, auf dem Friedhof", "field_2": "Mittelreidenbach", "field_3": "neugotisches Sandsteinkreuz, gusseiserner Kruzifix", "field_4": 49.726546, "field_5": 7.443369 }, "geometry": { "type": "Point", "coordinates": [ 7.443369, 49.726546 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße", "field_2": "Mittelreidenbach", "field_3": "Katholische Pfarrkirche St. Christophorus; neugotischer Sandstein-Saalbau, 1869–72, Architekt Karl-Friedrich Müller, Saarlouis; Ausstattung", "field_4": 49.725835, "field_5": 7.440871 }, "geometry": { "type": "Point", "coordinates": [ 7.440871, 49.725835 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(zwischen) Kirchstraße 8 und 10", "field_2": "Mittelreidenbach", "field_3": "Kriegerdenkmal für die Gefallenen des Ersten Weltkriegs; vom Kreuz Christi überhöhter Altar, Gelbsandstein, 1926", "field_4": 49.726406, "field_5": 7.441383 }, "geometry": { "type": "Point", "coordinates": [ 7.441383, 49.726406 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 12", "field_2": "Mittelreidenbach", "field_3": "ehemaliges Pfarrhaus; gotisierender Backsteinbau, Mittelrisalit, Figurennische, 1902", "field_4": 49.726307, "field_5": 7.440934 }, "geometry": { "type": "Point", "coordinates": [ 7.440934, 49.726307 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Äckerchen", "field_2": "Mörschied", "field_3": "Evangelische Pfarrkirche; Saalbau mit Dachreiter, 1731–46; Ausstattung; Orgel, Firma G. Stumm, 1896; zwei Grabplatten", "field_4": 49.787251, "field_5": 7.305899 }, "geometry": { "type": "Point", "coordinates": [ 7.305899, 49.787251 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Herrsteiner Straße 11", "field_2": "Mörschied", "field_3": "stattliches Fachwerk-Quereinhaus, teilweise massiv, teilweise verschiefert, Krüppelwalm, 19. Jahrhundert", "field_4": 49.789386, "field_5": 7.308244 }, "geometry": { "type": "Point", "coordinates": [ 7.308244, 49.789386 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Herrsteiner Straße 21", "field_2": "Mörschied", "field_3": "Quereinhaus, teilweise Fachwerk (verputzt), Fachwerkgalerie, bezeichnet 1830, Ausbau 1860", "field_4": 49.789095, "field_5": 7.309699 }, "geometry": { "type": "Point", "coordinates": [ 7.309699, 49.789095 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südöstlich des Ortes am Fischbach", "field_2": "Mörschied", "field_3": "Hahnenmühle; stattliches Mühlen- und Bauernhaus, bezeichnet 1907; bauzeitliche Mühleneinrichtung, Backhaus, Bergkeller", "field_4": 48.034944, "field_5": 10.504477 }, "geometry": { "type": "Point", "coordinates": [ 10.504477, 48.034944 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fels 21", "field_2": "Niederbrombach", "field_3": "ehemalige Getreidemühle (Brüchers Mühle); eingeschossiger, später erhöhter Bruchsteinbau, 1876, bezeichnet 1720 (wohl Spolie); technische Ausstattung teilweise erhalten", "field_4": 49.680758, "field_5": 7.246898 }, "geometry": { "type": "Point", "coordinates": [ 7.246898, 49.680758 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Niederbrombach", "field_3": "Laufbrunnen; Neurenaissance-Brunnensäule, reliefierter Trog, Gusseisen (Asbacherhütte?), bezeichnet 1888", "field_4": 49.686359, "field_5": 7.243431 }, "geometry": { "type": "Point", "coordinates": [ 7.243431, 49.686359 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Herrengasse 12", "field_2": "Niederbrombach", "field_3": "Evangelische Pfarrkirche; ehemals Heilige Maria Magdalena, Westturm, südliches Seitenschiff und Chor aus dem 14. Jahrhundert, Nordseitenschiff (teilweise?) romanisch, zweischiffiges Mittelschiff und alle Gewölbe aus dem 15. Jahrhundert; durchgreifende Restaurierung 1911, Architekt August Senz, Düsseldorf; Erneuerungsarbeiten 1963\/64, Architekt Otto Vogel, Trier; sechs Grabplatten, 16. und 17. Jahrhundert; sieben Sarkophage, wohl aus dem 11. und 12. Jahrhundert", "field_4": 49.687245, "field_5": 7.245964 }, "geometry": { "type": "Point", "coordinates": [ 7.245964, 49.687245 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Lindenstraße 2", "field_2": "Niederbrombach", "field_3": "Quereinhaus, erste Hälfte des 19. Jahrhunderts", "field_4": 49.687537, "field_5": 7.241706 }, "geometry": { "type": "Point", "coordinates": [ 7.241706, 49.687537 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unter Hochcastell 4", "field_2": "Niederbrombach", "field_3": "Wohn- und Praxishaus, Melaphyrbruchsteinbau mit Fachwerk-Kniestock, Rundturm, Heimatstil, 1927", "field_4": 49.686639, "field_5": 7.247356 }, "geometry": { "type": "Point", "coordinates": [ 7.247356, 49.686639 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes", "field_2": "Niederbrombach", "field_3": "sogenannter Fischerhof; Mustergut, ab 1833; ehemals vierflügelige Anlage mit fünfachsigem Wohnhaus, Viehställen, Remise und Gesindehaus (letzteres 1976 abgebrochen); Wohnhaus um 1900 umgebaut; terrassierter Garten, Treppenanlage mit Brunnen, translozierte katholische Kapelle", "field_4": 49.686476, "field_5": 7.245012 }, "geometry": { "type": "Point", "coordinates": [ 7.245012, 49.686476 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes am Schwollbach", "field_2": "Niederbrombach", "field_3": "sogenannte Obere Auschleife; ehemalige Anlage mit unterschlächtigen Wasserrädern, 1828; kleiner Fachwerkbau, teilweise massiv (ehemalige Achatschleiferei), Teich und Stauweiher", "field_4": 51.9335, "field_5": 12.225388 }, "geometry": { "type": "Point", "coordinates": [ 12.225388, 51.9335 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Kissel 3", "field_2": "Niederhambach", "field_3": "sogenanntes „Kloster“; Wohnhaus, Fenstergewände wohl um 1600, Dachstuhl 1725, Ökonomie jünger", "field_4": 49.684209, "field_5": 7.208333 }, "geometry": { "type": "Point", "coordinates": [ 7.208333, 49.684209 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenweg 1", "field_2": "Niederhambach", "field_3": "sogenannte Fettigsmühle; barockes Quereinhaus, um 1800; technische Ausstattung", "field_4": 49.683445, "field_5": 7.204623 }, "geometry": { "type": "Point", "coordinates": [ 7.204623, 49.683445 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 7", "field_2": "Niederhambach", "field_3": "aufwändiges Portal, bezeichnet 1767", "field_4": 49.67961, "field_5": 7.217891 }, "geometry": { "type": "Point", "coordinates": [ 7.217891, 49.67961 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hochwaldstraße 1", "field_2": "Niederhambach", "field_3": "Türsturz mit Inschrift, 18. Jahrhundert", "field_4": 49.684646, "field_5": 7.196628 }, "geometry": { "type": "Point", "coordinates": [ 7.196628, 49.684646 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hochwaldstraße 8", "field_2": "Niederhambach", "field_3": "ehemalige Schneidersfranzenmühle; ehemalige Getreidemühle mit dreigeschossigem Mühlenturm, im Kern wohl aus dem 18. Jahrhundert (Fachwerk dendrodatiert 1725)", "field_4": 49.683946, "field_5": 7.192837 }, "geometry": { "type": "Point", "coordinates": [ 7.192837, 49.683946 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 5", "field_2": "Niederhosenbach", "field_3": "Evangelische Kirche; spätgotischer Chor, bez. 1518; neugotisches Langhaus, 1842–44; im Kern mittelalterlicher Turm, (romanisch?), Glockengeschoss 1842; Stumm-Orgel, 1896; Glocke, 1894 von Jakob Pfeiffer, Kaiserslautern", "field_4": 49.794137, "field_5": 7.363481 }, "geometry": { "type": "Point", "coordinates": [ 7.363481, 49.794137 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fischbachstraße 1", "field_2": "Niederhosenbach", "field_3": "Wohnhaus, Neurenaissance, 1880er Jahre", "field_4": 49.793305, "field_5": 7.36606 }, "geometry": { "type": "Point", "coordinates": [ 7.36606, 49.793305 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 39", "field_2": "Niederhosenbach", "field_3": "Quereinhaus, teilweise Fachwerk (verputzt), barocker Wohnteil bezeichnet 1786", "field_4": 49.794085, "field_5": 7.365188 }, "geometry": { "type": "Point", "coordinates": [ 7.365188, 49.794085 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Talstraße 9", "field_2": "Niederhosenbach", "field_3": "Streuhof; Wohnhaus erste Hälfte des 19. Jahrhunderts, Backes, Stallungen", "field_4": 49.79519, "field_5": 7.359924 }, "geometry": { "type": "Point", "coordinates": [ 7.359924, 49.79519 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "östlich des Ortes", "field_2": "Niederhosenbach", "field_3": "Brücke; einbogige Bruchsteinbrücke über einen Zufluss des Hosenbachs", "field_4": 49.794625, "field_5": 7.36447 }, "geometry": { "type": "Point", "coordinates": [ 7.36447, 49.794625 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 6", "field_2": "Niederwörresbach", "field_3": "Evangelische Pfarrkirche; klassizistischer Saalbau, 1830–33, Architekt Kondukteur Odernheimer; Dachreiter 1907; Stumm-Orgel 1850", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 28", "field_2": "Niederwörresbach", "field_3": "ehemaliges Backhaus, offener Dachstuhl, wohl aus der zweiten Hälfte des 19. Jahrhunderts", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 55, 57", "field_2": "Niederwörresbach", "field_3": "Kinderheim der Rheinischen Diakonie; Nr. 55 Pförtnerhaus, teilweise Fachwerk, wohl aus der zweiten Hälfte des 18. Jahrhunderts, Umbau bezeichnet 1845, Torfahrt mit Glockentürmchen 1905; Nr. 57 Kinderheim, Bruchsteinbau, 1904\/05, Architekt August Senz, Düsseldorf", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hohlstraße 37", "field_2": "Niederwörresbach", "field_3": "Tagelöhnerhaus, eingeschossiges Unterstallhaus, wohl um 1850\/60", "field_4": 49.766897, "field_5": 7.339299 }, "geometry": { "type": "Point", "coordinates": [ 7.339299, 49.766897 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Mühlenweg 4", "field_2": "Niederwörresbach", "field_3": "sogenannte Litzenbergersche Mühle; Sandstein-Scheune, 1877; dreigeschossiges Mühlengebäude, Backstein, 1910; stattliches Wohnhaus, 1914", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "\n\n\n\n\n\nHauptstraße 6", "field_2": "Niederwörresbach", "field_3": "Evangelische Pfarrkirche\n\n\n", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "\n\n\n\n\n\nHauptstraße 55", "field_2": "Niederwörresbach", "field_3": "Pförtnerhaus\n\n\n", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "\n\n\n\n\n\nHauptstraße 57", "field_2": "Niederwörresbach", "field_3": "Kinderheim\n\n\n", "field_4": 49.767606, "field_5": 7.339272 }, "geometry": { "type": "Point", "coordinates": [ 7.339272, 49.767606 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Nohen", "field_3": "Evangelische Pfarrkirche; gestaffelter Baukomplex; Westturm aus dem 14. Jahrhundert, eventuell älter (Glockengeschoss 1953), Chor und Schiff spätgotisch (Schiff im 18. Jahrhundert erhöht?); ortsbildprägend", "field_4": 49.639367, "field_5": 7.243682 }, "geometry": { "type": "Point", "coordinates": [ 7.243682, 49.639367 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 26", "field_2": "Nohen", "field_3": "Quereinhaus, bezeichnet 1815", "field_4": 49.639256, "field_5": 7.242236 }, "geometry": { "type": "Point", "coordinates": [ 7.242236, 49.639256 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes", "field_2": "Nohen", "field_3": "Fußgängerbrücke; leichte, genietete Eisenstabkonstruktion, links auf Bruchsteinunterbau", "field_4": 49.639337, "field_5": 7.242335 }, "geometry": { "type": "Point", "coordinates": [ 7.242335, 49.639337 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südöstlich des Ortes", "field_2": "Nohen", "field_3": "Kriegerdenkmal für die Gefallenen des Ersten Weltkriegs, neun Kreuze, 1924, 1961 erweitert", "field_4": 49.639337, "field_5": 7.242335 }, "geometry": { "type": "Point", "coordinates": [ 7.242335, 49.639337 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 19", "field_2": "Oberbrombach", "field_3": "ehemaliges Hirtenhaus und Schulhaus; eingeschossiges Quereinhaus, Bruchsteinscheune mit Krüppelwalmdach und aufgetztem Glockenturm, erste Hälfte des 19. Jahrhunderts", "field_4": 49.699098, "field_5": 7.261442 }, "geometry": { "type": "Point", "coordinates": [ 7.261442, 49.699098 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(an) Hauptstraße 2", "field_2": "Oberhambach", "field_3": "Oberlichtportal, um 1700", "field_4": 49.685304, "field_5": 7.166984 }, "geometry": { "type": "Point", "coordinates": [ 7.166984, 49.685304 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 9", "field_2": "Oberhosenbach", "field_3": "Quereinhaus, Firstständerbau, 1696", "field_4": 49.810905, "field_5": 7.331681 }, "geometry": { "type": "Point", "coordinates": [ 7.331681, 49.810905 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 34", "field_2": "Oberhosenbach", "field_3": "Quereinhaus, 1903; bauzeitlicher Backes", "field_4": 49.814294, "field_5": 7.330387 }, "geometry": { "type": "Point", "coordinates": [ 7.330387, 49.814294 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße", "field_2": "Oberkirn", "field_3": "Brücke über den Kyrbach, zweibogiger Schieferbruchsteinbau, bezeichnet 1878", "field_4": 49.885007, "field_5": 7.371521 }, "geometry": { "type": "Point", "coordinates": [ 7.371521, 49.885007 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 2", "field_2": "Oberkirn", "field_3": "Wohnhaus, bezeichnet 1850, im Kern älter", "field_4": 49.884479, "field_5": 7.373408 }, "geometry": { "type": "Point", "coordinates": [ 7.373408, 49.884479 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 7", "field_2": "Oberkirn", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, wohl aus dem 16. Jahrhundert, Umbau im 18. Jahrhundert; Grabplatte, 1573", "field_4": 49.88636, "field_5": 7.370129 }, "geometry": { "type": "Point", "coordinates": [ 7.370129, 49.88636 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Staureweg 1", "field_2": "Oberkirn", "field_3": "Wohnhaus mit Kniestock, teilweise Fachwerk (verschiefert), zweite Hälfte des 19. Jahrhunderts", "field_4": 49.884235, "field_5": 7.373156 }, "geometry": { "type": "Point", "coordinates": [ 7.373156, 49.884235 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 60", "field_2": "Oberreidenbach", "field_3": "Evangelische Kirche; neugotischer Saalbau, sandsteingegliederter Brekziebau, 1902, Architekt August Senz, Köln", "field_4": 49.712381, "field_5": 7.451588 }, "geometry": { "type": "Point", "coordinates": [ 7.451588, 49.712381 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 82", "field_2": "Oberreidenbach", "field_3": "Katholische Kirche St. Ludwig; spätromanischer Chorturm, Spitzhelm mit Wichhäuschen 1930 erneuert; Schiff 1819–21, Architekt Becker, Kirn; gusseisernes Grabkreuz, um 1895", "field_4": 49.712381, "field_5": 7.451588 }, "geometry": { "type": "Point", "coordinates": [ 7.451588, 49.712381 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Schoß 11", "field_2": "Reichenbach (bei Baumholder)", "field_3": "stattlicher Streckhof, 1879", "field_4": 49.641607, "field_5": 7.287134 }, "geometry": { "type": "Point", "coordinates": [ 7.287134, 49.641607 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(zwischen) Hauptstraße 44 und 49", "field_2": "Reichenbach (bei Baumholder)", "field_3": "Kriegerdenkmal für die Opfer des Ersten Weltkriegs; stelenartiger, reliefierter Sandsteinblock, Entwurf Professor Renker, Trier, Ausführung F. Ritter und Nachfolger, nach 1918", "field_4": 46.657263, "field_5": 7.507095 }, "geometry": { "type": "Point", "coordinates": [ 7.507095, 46.657263 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 11", "field_2": "Reichenbach (bei Baumholder)", "field_3": "Evangelische Pfarrkirche; neugotischer Bruchsteinsaalbau, 1863\/64, Kommunalbaumeister Maßweiler, St. Wendel", "field_4": 49.641338, "field_5": 7.290718 }, "geometry": { "type": "Point", "coordinates": [ 7.290718, 49.641338 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (südwestlich des Ortes im Wald)", "field_2": "Rhaunen", "field_3": "33 Grabsteine in zwei Reihen, ab 1893; überwiegend Vorderseiten hebräisch, Rückseiten lateinisch beschriftet", "field_4": 49.863736, "field_5": 7.346638 }, "geometry": { "type": "Point", "coordinates": [ 7.346638, 49.863736 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Wartenberg 2", "field_2": "Rhaunen", "field_3": "Eckwohnhaus, teilweise Fachwerk (verschiefert), frühes 18. Jahrhundert; ortsbildprägend", "field_4": 49.864316, "field_5": 7.344536 }, "geometry": { "type": "Point", "coordinates": [ 7.344536, 49.864316 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Am Wartenberg 3", "field_2": "Rhaunen", "field_3": "blockhafter Walmdachbau, spätes 19. Jahrhundert", "field_4": 49.864537, "field_5": 7.344329 }, "geometry": { "type": "Point", "coordinates": [ 7.344329, 49.864537 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 8", "field_2": "Rhaunen", "field_3": "Rathaus; Krüppelwalmdachbau mit Ratslaube, teilweise Fachwerk (verschiefert), Glockenstuhl, bezeichnet 1723", "field_4": 49.864218, "field_5": 7.345461 }, "geometry": { "type": "Point", "coordinates": [ 7.345461, 49.864218 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 10", "field_2": "Rhaunen", "field_3": "ehemaliges Amtshaus; späthistoristischer Schieferbruchsteinbau, Neurenaissance, 1901", "field_4": 49.864055, "field_5": 7.345614 }, "geometry": { "type": "Point", "coordinates": [ 7.345614, 49.864055 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 43", "field_2": "Rhaunen", "field_3": "Forstamt; Heimatstilbau, 1911", "field_4": 49.861517, "field_5": 7.351058 }, "geometry": { "type": "Point", "coordinates": [ 7.351058, 49.861517 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße", "field_2": "Rhaunen", "field_3": "Katholische Pfarrkirche St. Martin; dreischiffige neugotische Hallenkirche, 1887\/88, nach Plänen des Franziskaners Paschalis (bürgerlich: Theodor Gratze), Warendorf; ortsbildprägend", "field_4": 49.862743, "field_5": 7.347069 }, "geometry": { "type": "Point", "coordinates": [ 7.347069, 49.862743 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 3", "field_2": "Rhaunen", "field_3": "Katholisches Pfarrhaus; spätklassizistischer Massivbau, 1863", "field_4": 49.862696, "field_5": 7.348489 }, "geometry": { "type": "Point", "coordinates": [ 7.348489, 49.862696 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Otto-Conrad-Straße 3", "field_2": "Rhaunen", "field_3": "ehemaliger Wildgräflicher Hof; Putzbau mit Mansarddach, zweite Hälfte des 18. Jahrhunderts", "field_4": 49.864148, "field_5": 7.346243 }, "geometry": { "type": "Point", "coordinates": [ 7.346243, 49.864148 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Poststraße 18", "field_2": "Rhaunen", "field_3": "ehemaliges Katasteramt; leicht asymmetrisch gruppierter Mansarddachbau, 1911", "field_4": 49.861918, "field_5": 7.352118 }, "geometry": { "type": "Point", "coordinates": [ 7.352118, 49.861918 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pühlstraße 35\/37", "field_2": "Rhaunen", "field_3": "ehemaliges Königliches Amtsgericht mit Gefängnis und Gefängnishof; schlossartiger neubarocker Schieferbruchstein-Komplex, 1899; Ausstattung", "field_4": 49.863666, "field_5": 7.350114 }, "geometry": { "type": "Point", "coordinates": [ 7.350114, 49.863666 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Salzengasse 1", "field_2": "Rhaunen", "field_3": "gründerzeitliches Wohnhaus mit Schwebegiebel, spätes 19. Jahrhundert", "field_4": 49.863829, "field_5": 7.345758 }, "geometry": { "type": "Point", "coordinates": [ 7.345758, 49.863829 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Salzengasse 3", "field_2": "Rhaunen", "field_3": "ehemalige katholische Schule; blockhafter Walmdachbau, Rundbogenstil, 1862", "field_4": 49.863805, "field_5": 7.345659 }, "geometry": { "type": "Point", "coordinates": [ 7.345659, 49.863805 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 9", "field_2": "Rhaunen", "field_3": "ehemalige neue Schule; Dreiflügelanlage, 1928, Architekt Nicolaus Coenen, Bernkastel", "field_4": 49.864914, "field_5": 7.341976 }, "geometry": { "type": "Point", "coordinates": [ 7.341976, 49.864914 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schustergasse 3", "field_2": "Rhaunen", "field_3": "Evangelische Pfarrkirche; Saalbau, um 1700; Dreiseitschluss und Westgiebel spätgotisch; Nordturm aus der zweiten Hälfte des 13. Jahrhunderts, Spitzhelm um 1570; Ausstattung; Orgel 1723 von Johann Michael Stumm; ortsbildprägend", "field_4": 49.863236, "field_5": 7.345614 }, "geometry": { "type": "Point", "coordinates": [ 7.345614, 49.863236 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 8", "field_2": "Rhaunen", "field_3": "stattliches Wohnhaus, teilweise Fachwerk (verputzt), Mansarddach, um 1800", "field_4": 49.864769, "field_5": 7.345776 }, "geometry": { "type": "Point", "coordinates": [ 7.345776, 49.864769 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 12", "field_2": "Rhaunen", "field_3": "Wohnhaus, teilweise Fachwerk, teilweise verschiefert, 18. Jahrhundert", "field_4": 49.864647, "field_5": 7.34636 }, "geometry": { "type": "Point", "coordinates": [ 7.34636, 49.864647 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(vor) Am Brunnen 4", "field_2": "Rinzenberg", "field_3": "neugotischer Laufbrunnen, Gusseisen (Asbacherhütte?), 1886", "field_4": 49.676095, "field_5": 7.130234 }, "geometry": { "type": "Point", "coordinates": [ 7.130234, 49.676095 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Buchenweg 6", "field_2": "Rinzenberg", "field_3": "neugotischer Laufbrunnen, Gusseisen (Asbacherhütte?), 1886", "field_4": 49.677068, "field_5": 7.131213 }, "geometry": { "type": "Point", "coordinates": [ 7.131213, 49.677068 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 9", "field_2": "Rinzenberg", "field_3": "Quereinhaus, im Kern aus dem späten 16. Jahrhundert, bezeichnet 1590 (Spolie?) und 1825", "field_4": 49.676165, "field_5": 7.132327 }, "geometry": { "type": "Point", "coordinates": [ 7.132327, 49.676165 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 11", "field_2": "Rinzenberg", "field_3": "ehemaliges Quereinhaus, teilweise Fachwerk, Backofenanbau, wohl aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.676106, "field_5": 7.13142 }, "geometry": { "type": "Point", "coordinates": [ 7.13142, 49.676106 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(neben) Kirchenweg 2", "field_2": "Rinzenberg", "field_3": "neugotischer Laufbrunnen, Gusseisen (Asbacherhütte?), 1886", "field_4": 48.228916, "field_5": 11.800323 }, "geometry": { "type": "Point", "coordinates": [ 11.800323, 48.228916 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Talstraße 2", "field_2": "Rötsweiler-Nockenthal", "field_3": "Quereinhaus, bezeichnet 1815", "field_4": 49.712556, "field_5": 7.250914 }, "geometry": { "type": "Point", "coordinates": [ 7.250914, 49.712556 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 5", "field_2": "Rötsweiler-Nockenthal", "field_3": "Gehöft, zweigeschossiges, traufständiges Wohnhaus, giebelständiger Wirtschaftsteil, Mitte des 19. Jahrhunderts", "field_4": 49.71269, "field_5": 7.263176 }, "geometry": { "type": "Point", "coordinates": [ 7.263176, 49.71269 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Freisener Straße 2", "field_2": "Rückweiler", "field_3": "stattliches Quereinhaus, wohl um 1850", "field_4": 49.58021, "field_5": 7.239864 }, "geometry": { "type": "Point", "coordinates": [ 7.239864, 49.58021 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 18", "field_2": "Rückweiler", "field_3": "Katholische Pfarrkirche Herz Jesu; neugotischer sandsteingegliederter Brekzie-Saalbau, 1907, Architekt Wilhelm Hector, Saarbrücken", "field_4": 49.58014, "field_5": 7.237654 }, "geometry": { "type": "Point", "coordinates": [ 7.237654, 49.58014 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Brunnenweg 2", "field_2": "Schauren (bei Idar-Oberstein)", "field_3": "Evangelisches Pfarrhaus; Mansarddachbau, Fachwerk teilweise verputzt oder verschiefert, 18. Jahrhundert", "field_4": 49.807068, "field_5": 7.236603 }, "geometry": { "type": "Point", "coordinates": [ 7.236603, 49.807068 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 19", "field_2": "Schauren (bei Idar-Oberstein)", "field_3": "Streckhof, wohl spätes 19. Jahrhundert; ortsbildprägend", "field_4": 49.806818, "field_5": 7.235768 }, "geometry": { "type": "Point", "coordinates": [ 7.235768, 49.806818 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 20", "field_2": "Schauren (bei Idar-Oberstein)", "field_3": "breitgiebeliges Wohnhaus, 19. Jahrhundert, Überformung 1909; ortsbildprägend", "field_4": 49.806609, "field_5": 7.236325 }, "geometry": { "type": "Point", "coordinates": [ 7.236325, 49.806609 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 21", "field_2": "Schauren (bei Idar-Oberstein)", "field_3": "Evangelische Pfarrkirche; Saalbau mit Dachreiter, 1767; Ausstattung und Ausmalung; Rokoko-Orgel, 1780, den Gebrüdern Stumm zugeschrieben; gotische Glocke 1480 von Cleis von Echternach, zwei Glocken des 14. Jahrhunderts", "field_4": 49.806824, "field_5": 7.236289 }, "geometry": { "type": "Point", "coordinates": [ 7.236289, 49.806824 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bachweg 6", "field_2": "Schmidthachenbach", "field_3": "Parallelhof, 19. Jahrhundert", "field_4": 49.730965, "field_5": 7.473238 }, "geometry": { "type": "Point", "coordinates": [ 7.473238, 49.730965 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Bergstraße 5", "field_2": "Schmidthachenbach", "field_3": "Evangelisches Pfarrhaus; Krüppelwalmdachbau, Reformarchitektur, 1912\/13, Architekt Friedrich Otto, Kirn", "field_4": 49.732817, "field_5": 7.472483 }, "geometry": { "type": "Point", "coordinates": [ 7.472483, 49.732817 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchpfad", "field_2": "Schmidthachenbach", "field_3": "Evangelische Pfarrkirche; Saalbau, Rundbogenstil, 1848; Glockenturm, 1903, Architekt August Senz, Düsseldorf; Stumm-Orgel, 1852", "field_4": 49.731356, "field_5": 7.471872 }, "geometry": { "type": "Point", "coordinates": [ 7.471872, 49.731356 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchpfad 4", "field_2": "Schmidthachenbach", "field_3": "hakenförmiges Wirtschaftsgebäude, sandsteingegliederter Brekziebau, Scheune bezeichnet 1872, Stallteil bezeichnet 1883", "field_4": 49.731408, "field_5": 7.472321 }, "geometry": { "type": "Point", "coordinates": [ 7.472321, 49.731408 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Talstraße (parallel zum Großenbach)", "field_2": "Schmidthachenbach", "field_3": "Lambachpumpe; Pumpenhaus, Quellfassung, Brunnenstube, Hochbehälter, Triebwassersammelschacht, 1911", "field_4": 49.731047, "field_5": 7.468611 }, "geometry": { "type": "Point", "coordinates": [ 7.468611, 49.731047 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(neben) Hauptstraße 3", "field_2": "Schmißberg", "field_3": "Laufbrunnen, Sandsteintrog, gusseiserne Brunnensäule, bezeichnet 1871", "field_4": 49.664376, "field_5": 7.203276 }, "geometry": { "type": "Point", "coordinates": [ 7.203276, 49.664376 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 9", "field_2": "Schmißberg", "field_3": "neugotischer Laufbrunnen, Gusseisen, spätes 19. Jahrhundert", "field_4": 49.665426, "field_5": 7.203518 }, "geometry": { "type": "Point", "coordinates": [ 7.203518, 49.665426 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(zu) Dorfstraße 1", "field_2": "Schwerbach", "field_3": "im Ökonomiegebäude dreischiffiger Stall, um 1850\/60", "field_4": 49.896748, "field_5": 7.357328 }, "geometry": { "type": "Point", "coordinates": [ 7.357328, 49.896748 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Dorfstraße 3", "field_2": "Schwerbach", "field_3": "Wohnhaus, teilweise Fachwerk (verschiefert), abgewalmtes Mansarddach, um 1800", "field_4": 49.896237, "field_5": 7.356519 }, "geometry": { "type": "Point", "coordinates": [ 7.356519, 49.896237 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(vor) Hauptstraße 18", "field_2": "Schwollen", "field_3": "Schmiede, um 1880; technische Ausstattung", "field_4": 49.704557, "field_5": 7.185489 }, "geometry": { "type": "Point", "coordinates": [ 7.185489, 49.704557 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 5", "field_2": "Schwollen", "field_3": "Streckhof, heutiges Erscheinungsbild aus dem frühen 20. Jahrhundert", "field_4": 49.705064, "field_5": 7.185588 }, "geometry": { "type": "Point", "coordinates": [ 7.185588, 49.705064 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "An der Kirche 2", "field_2": "Sensweiler", "field_3": "Wohnhaus, teilweise Fachwerk (verschiefert), 1862", "field_4": 49.774966, "field_5": 7.197266 }, "geometry": { "type": "Point", "coordinates": [ 7.197266, 49.774966 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf dem Hauel 3", "field_2": "Sensweiler", "field_3": "Quereinhaus, zweite Hälfte des 19. Jahrhunderts; Schmiede, bezeichnet 1869, technische Ausstattung", "field_4": 49.775275, "field_5": 7.198748 }, "geometry": { "type": "Point", "coordinates": [ 7.198748, 49.775275 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 14", "field_2": "Sensweiler", "field_3": "Evangelische Kirche; Chorturm wohl aus dem 12. Jahrhundert, Schiff im Kern eventuell mittelalterlich, im 18. Jahrhundert barockisiert; drei Glocken: 12. Jahrhundert (?), 1615 von Meister Daniel, 1671 von Matias Cromel", "field_4": 49.774547, "field_5": 7.196934 }, "geometry": { "type": "Point", "coordinates": [ 7.196934, 49.774547 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 31", "field_2": "Sensweiler", "field_3": "stattliches Quereinhaus, bezeichnet 1835", "field_4": 49.773174, "field_5": 7.193763 }, "geometry": { "type": "Point", "coordinates": [ 7.193763, 49.773174 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "östlich des Ortes, auf dem Friedhof", "field_2": "Sensweiler", "field_3": "Grabmal Emilie Kürschner, abgebrochener Eichenstamm, spätes 19. Jahrhundert", "field_4": 48.730297, "field_5": 8.295717 }, "geometry": { "type": "Point", "coordinates": [ 8.295717, 48.730297 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (südöstlich des Ortes im Wald)", "field_2": "Sien", "field_3": "48 Grabsteine in situ, 1847 bis 1937, überwiegend hebräisch-deutsch beschriftet", "field_4": 24.867128, "field_5": 108.20328 }, "geometry": { "type": "Point", "coordinates": [ 108.20328, 24.867128 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fürst-Dominik-Straße, auf dem Friedhof", "field_2": "Sien", "field_3": "Grabmal Friedrich Schmidt, 1888, abgehauener Eichenstamm; zwei Kruzifixe, Gusseisen", "field_4": 49.692916, "field_5": 7.502136 }, "geometry": { "type": "Point", "coordinates": [ 7.502136, 49.692916 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fürst-Dominik-Straße", "field_2": "Sien", "field_3": "Katholische Pfarrkirche St. Laurentius; zweischiffige Hallenkirche, neugotischer Rotsandsteinbau, 1892\/93, Architekt Walther, Lauterecken; Ausstattung; Missionskreuz", "field_4": 49.692916, "field_5": 7.502136 }, "geometry": { "type": "Point", "coordinates": [ 7.502136, 49.692916 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fürst-Dominik-Straße 29", "field_2": "Sien", "field_3": "sogenanntes Schloss; dreigeschossiger Mansardwalmdachbau, übergiebelter Mittelrisalit, 1771, Architekt Johann Thomas Petri, Kirn", "field_4": 49.693079, "field_5": 7.502424 }, "geometry": { "type": "Point", "coordinates": [ 7.502424, 49.693079 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fürst-Dominik-Straße 24", "field_2": "Sien", "field_3": "L-förmiges, steilgiebeliges Bauernhaus, bezeichnet 1850, im Kern sicher älter", "field_4": 49.692758, "field_5": 7.502298 }, "geometry": { "type": "Point", "coordinates": [ 7.502298, 49.692758 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Fürst-Dominik-Straße 33", "field_2": "Sien", "field_3": "ehemaliges evangelisches Pfarrhaus; 1830, Umbau zum Gemeindezentrum 1971, Architekt Otto Vogel, Trier", "field_4": 49.692916, "field_5": 7.501463 }, "geometry": { "type": "Point", "coordinates": [ 7.501463, 49.692916 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Winkel 10", "field_2": "Sien", "field_3": "stattliches Quereinhaus, bezeichnet 1856", "field_4": 49.692129, "field_5": 7.503125 }, "geometry": { "type": "Point", "coordinates": [ 7.503125, 49.692129 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "In der Hohl 11", "field_2": "Sien", "field_3": "ehemalige Bürgermeisterei; siebenachsiger Putzbau mit Kniestock, 1860", "field_4": 49.692449, "field_5": 7.499531 }, "geometry": { "type": "Point", "coordinates": [ 7.499531, 49.692449 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchweg", "field_2": "Sien", "field_3": "Evangelische Pfarrkirche; Saalbau, Westturm mit doppelter welscher Haube, 1768, Architekt Johann Thomas Petri, Kirn; Orgel, 1870 von Georg Karl Ernst Stumm, Sulzbach; Wappengedenkstein Ritter von Sien, 1560", "field_4": 49.693207, "field_5": 7.501517 }, "geometry": { "type": "Point", "coordinates": [ 7.501517, 49.693207 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schloßstraße 4", "field_2": "Sien", "field_3": "barockes Quereinhaus, bezeichnet 1806, wohl älter", "field_4": 49.696989, "field_5": 7.510104 }, "geometry": { "type": "Point", "coordinates": [ 7.510104, 49.696989 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Sickingerstraße 9", "field_2": "Sien", "field_3": "flachbogige Brücke, Gelbsandstein, bezeichnet 1927", "field_4": 49.933245, "field_5": 9.709369 }, "geometry": { "type": "Point", "coordinates": [ 9.709369, 49.933245 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "westlich des Ortes", "field_2": "Sien", "field_3": "Wegekreuz; Prozessionskreuz, Gelbsandstein", "field_4": 24.867128, "field_5": 108.20328 }, "geometry": { "type": "Point", "coordinates": [ 108.20328, 24.867128 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hofgartenstraße 3", "field_2": "Sienhachenbach", "field_3": "sogenannter Zehnthof; ummauerte Hofanlage, bezeichnet 1729; Wohnhaus bezeichnet 1823, im Kern wohl aus dem 18. Jahrhundert", "field_4": 49.700159, "field_5": 7.482733 }, "geometry": { "type": "Point", "coordinates": [ 7.482733, 49.700159 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(gegenüber) Hauptstraße 3", "field_2": "Siesbach", "field_3": "Grenzstein, 1590", "field_4": 49.726045, "field_5": 7.244203 }, "geometry": { "type": "Point", "coordinates": [ 7.244203, 49.726045 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 7", "field_2": "Siesbach", "field_3": "neugotischer Laufbrunnen, Gusseisen, letztes Viertel des 19. Jahrhunderts", "field_4": 49.726738, "field_5": 7.244185 }, "geometry": { "type": "Point", "coordinates": [ 7.244185, 49.726738 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 44", "field_2": "Siesbach", "field_3": "Elektroschleife; Backsteinbau mit großen Eisensprossenfenstern, um 1900; technische Ausstattung", "field_4": 49.731099, "field_5": 7.237376 }, "geometry": { "type": "Point", "coordinates": [ 7.237376, 49.731099 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(bei) Hauptstraße 48", "field_2": "Siesbach", "field_3": "ehemalige Schleife; Fachwerkbau mit großen Eisensprossenfenstern, bezeichnet 1910", "field_4": 49.731379, "field_5": 7.237053 }, "geometry": { "type": "Point", "coordinates": [ 7.237053, 49.731379 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchweg", "field_2": "Siesbach", "field_3": "Evangelische Kirche; ehemals St. Nikolaus, Saalbau, 1825, im Kern wohl vor dem 16. Jahrhundert; östlich der Kirche pyramidales Kriegerdenkmal, 1925, nach 1945 erweitert", "field_4": 49.73107, "field_5": 7.236558 }, "geometry": { "type": "Point", "coordinates": [ 7.236558, 49.73107 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 8", "field_2": "Sonnschied", "field_3": "Quereinhaus, teilweise Fachwerk, bezeichnet 1868, im Kern wohl älter; ortsbildprägend", "field_4": 49.819589, "field_5": 7.388742 }, "geometry": { "type": "Point", "coordinates": [ 7.388742, 49.819589 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 9", "field_2": "Sonnschied", "field_3": "Evangelische Kirche; kleiner Saalbau mit Dachreiter, 1728; Ausstattung", "field_4": 49.819868, "field_5": 7.388032 }, "geometry": { "type": "Point", "coordinates": [ 7.388032, 49.819868 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 12", "field_2": "Sonnschied", "field_3": "sandsteingegliederter Backsteinbau, bezeichnet 1909", "field_4": 49.820095, "field_5": 7.388158 }, "geometry": { "type": "Point", "coordinates": [ 7.388158, 49.820095 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Kaisergarten (Hauptstraße)", "field_2": "Stipshausen", "field_3": "kreisförmige Pflanzung von acht Linden, anlässlich der Reichsgründung nach 1871 gepflanzt, eine der letzten Anlagen ihrer Art", "field_4": 49.848839, "field_5": 7.291742 }, "geometry": { "type": "Point", "coordinates": [ 7.291742, 49.848839 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Denkmalzone Jüdischer Friedhof (Wiesenstraße)", "field_2": "Stipshausen", "field_3": "in der zweiten Hälfte des 19. Jahrhunderts angelegt; 17 Grabsteine in situ, 1868 bis 1940", "field_4": 49.848839, "field_5": 7.291742 }, "geometry": { "type": "Point", "coordinates": [ 7.291742, 49.848839 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 24", "field_2": "Stipshausen", "field_3": "Streckhof, teilweise Fachwerk, teilweise verschiefert, wohl aus der ersten Hälfte des 19. Jahrhunderts", "field_4": 49.847259, "field_5": 7.290502 }, "geometry": { "type": "Point", "coordinates": [ 7.290502, 49.847259 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 25", "field_2": "Stipshausen", "field_3": "breitgiebeliges Wohnhaus, im Kern vor 1800", "field_4": 49.8482, "field_5": 7.290547 }, "geometry": { "type": "Point", "coordinates": [ 7.290547, 49.8482 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 38", "field_2": "Stipshausen", "field_3": "Evangelische Pfarrkirche; Saalbau mit stattlichem Dachreiter, 1772–79, Architekt eventuell Johann Thomas Petri, Kirn; Ausstattung; Stumm-Orgel von 1861 (Prospekt neu); Glocke 1492", "field_4": 49.848548, "field_5": 7.291625 }, "geometry": { "type": "Point", "coordinates": [ 7.291625, 49.848548 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 3", "field_2": "Stipshausen", "field_3": "ehemalige katholische Schule; asymmetrischer Krüppelwalmdachbau, um 1900", "field_4": 49.847416, "field_5": 7.289316 }, "geometry": { "type": "Point", "coordinates": [ 7.289316, 49.847416 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Zum Idar 2", "field_2": "Stipshausen", "field_3": "kleiner Streckhof, spätes 19. Jahrhundert; straßenbildprägend", "field_4": 49.850059, "field_5": 7.290727 }, "geometry": { "type": "Point", "coordinates": [ 7.290727, 49.850059 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südlich des Ortes am Kappelbach", "field_2": "Stipshausen", "field_3": "Stipshausener Mühle; stattlicher Krüppelwalmdachbau, teilweise Fachwerk, 18. Jahrhundert", "field_4": 51.9335, "field_5": 12.225388 }, "geometry": { "type": "Point", "coordinates": [ 12.225388, 51.9335 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 18", "field_2": "Sulzbach (Hunsrück)", "field_3": "Genossenschaftsmühle; Krüppelwalmdachbau; Ausstattung", "field_4": 48.250206, "field_5": 8.208122 }, "geometry": { "type": "Point", "coordinates": [ 8.208122, 48.250206 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hinterdorfstraße", "field_2": "Sulzbach (Hunsrück)", "field_3": "Evangelische Kirche; Saalbau aus der ersten Hälfte des 18. Jahrhunderts, Ostturm dendrodatiert im Erdgeschoss 1367, im Obergeschoss 1473; Ausstattung, Orgel, bezeichnet 1746, von Johann Michael Stumm; zwei Stahlglocken des Bochumer Vereins, 1924", "field_4": 48.001808, "field_5": 16.016144 }, "geometry": { "type": "Point", "coordinates": [ 16.016144, 48.001808 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße, auf dem Friedhof", "field_2": "Sulzbach (Hunsrück)", "field_3": "Kriegerdenkmal, reliefierte Sandsteinstele, bekrönt von Eisernem Kreuz, 1929, Firma F. Ritter und Nachfolger", "field_4": 48.074934, "field_5": 8.643239 }, "geometry": { "type": "Point", "coordinates": [ 8.643239, 48.074934 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Kirchstraße 12", "field_2": "Sulzbach (Hunsrück)", "field_3": "ehemalige Schule; aufgegliederter Bau mit weit heruntergezogenen Dächern, Landhausstil, expressionistische Anklänge, 1913–15", "field_4": 48.249618, "field_5": 8.20903 }, "geometry": { "type": "Point", "coordinates": [ 8.20903, 48.249618 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Pflasterstraße 1", "field_2": "Sulzbach (Hunsrück)", "field_3": "eingeschossiges Fachwerkwohnhaus mit Kniestock, spätes 19. Jahrhundert", "field_4": 49.833467, "field_5": 7.336173 }, "geometry": { "type": "Point", "coordinates": [ 7.336173, 49.833467 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 19", "field_2": "Veitsrodt", "field_3": "Schulhaus; sechsachsiger zeittypischer Landschulbau, 1882", "field_4": 49.755444, "field_5": 7.300033 }, "geometry": { "type": "Point", "coordinates": [ 7.300033, 49.755444 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "(hinter) Kirchstraße 16", "field_2": "Veitsrodt", "field_3": "ehemalige evangelische Kirche; Saalbau mit mehrgeschossigem Dachreiter, 1752; reiche Ausstattung, Bernhard Engisch, Kirn; Orgel, den Gebrüdern Stumm zugeschrieben; Marienglocke, 1499 von Nikolaus von Echternach", "field_4": 49.754467, "field_5": 7.301623 }, "geometry": { "type": "Point", "coordinates": [ 7.301623, 49.754467 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Flurstraße 5", "field_2": "Vollmersbach", "field_3": "Fertighaus; kubischer holzverschalter Walmdachbau, 1925", "field_4": 49.743739, "field_5": 7.307453 }, "geometry": { "type": "Point", "coordinates": [ 7.307453, 49.743739 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße", "field_2": "Weiden (Landkreis Birkenfeld)", "field_3": "Evangelische Kirche; Saalbau mit Dachreiter, 1930–35, Türrahmen bezeichnet 1764 (Spolie); barocke Kanzel", "field_4": 49.806464, "field_5": 7.299324 }, "geometry": { "type": "Point", "coordinates": [ 7.299324, 49.806464 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Schulstraße 8", "field_2": "Weiden (Landkreis Birkenfeld)", "field_3": "Quereinhaus, teilweise verschiefert, 1854, im Kern aus dem 18. Jahrhundert", "field_4": 51.00036, "field_5": 11.906936 }, "geometry": { "type": "Point", "coordinates": [ 11.906936, 51.00036 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "südwestlich des Dorfes", "field_2": "Weitersbach", "field_3": "Kaisergarten; acht Buchen und eine Eiche, nach 1871", "field_4": 49.872329, "field_5": 7.316589 }, "geometry": { "type": "Point", "coordinates": [ 7.316589, 49.872329 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf", "field_2": "Wickenrodt", "field_3": "Evangelische Pfarrkirche; Saalbau; Schiff im Kern romanisch, Veränderungen im 18. und 19. Jahrhundert; romanischer Chorturm mit spätgotischem Spitzhelm; zwei Glocken: eine um 1340 von Magister Sifride, Köln, die jüngere bezeichnet 1466", "field_4": 49.815096, "field_5": 7.359682 }, "geometry": { "type": "Point", "coordinates": [ 7.359682, 49.815096 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Unterdorf 8", "field_2": "Wickenrodt", "field_3": "Evangelisches Pfarrhaus; klassizistischer Walmdachbau, 1840er Jahre", "field_4": 49.814829, "field_5": 7.360122 }, "geometry": { "type": "Point", "coordinates": [ 7.360122, 49.814829 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hußweilerstraße 30", "field_2": "Wilzenberg-Hußweiler", "field_3": "stattliches Quereinhaus, teilweise Fachwerk, teilweise verschiefert, Krüppelwalmdach, bezeichnet 1822; rückwärtig Scheunenanbauten", "field_4": 49.700467, "field_5": 7.228105 }, "geometry": { "type": "Point", "coordinates": [ 7.228105, 49.700467 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Auf der Dry 3", "field_2": "Wilzenberg-Hußweiler", "field_3": "ehemalige Schmiede; eingeschossiger Satteldachbau, wohl aus dem 20. Jahrhundert; technische Ausstattung", "field_4": 49.706416, "field_5": 7.221107 }, "geometry": { "type": "Point", "coordinates": [ 7.221107, 49.706416 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 10", "field_2": "Wirschweiler", "field_3": "ehemaliges evangelisches Pfarrhaus; stattlicher Krüppelwalmdachbau, teilweise Fachwerk (verschiefert), 1763, Architekt Heinrich Schunk", "field_4": 49.758919, "field_5": 7.180036 }, "geometry": { "type": "Point", "coordinates": [ 7.180036, 49.758919 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Hauptstraße 25", "field_2": "Wirschweiler", "field_3": "kubischer Mansardwalmdachbau, spätmittelalterlich oder aus dem 17. Jahrhundert", "field_4": 49.758296, "field_5": 7.181007 }, "geometry": { "type": "Point", "coordinates": [ 7.181007, 49.758296 ] } }
+,
+{ "type": "Feature", "properties": { "field_1": "Im Oberdorf 1", "field_2": "Wirschweiler", "field_3": "Evangelische Pfarrkirche; im Kern spätmittelalterlicher Saalbau, Umbau 1711; Taufstein wohl aus dem 15. oder 16. Jahrhundert; zwei Glocken: 1532 von Dederich von Wyncfelt, 1700 von Mahthias Crommel, Trier", "field_4": 49.76294, "field_5": 7.171673 }, "geometry": { "type": "Point", "coordinates": [ 7.171673, 49.76294 ] } }
+
+]
+}

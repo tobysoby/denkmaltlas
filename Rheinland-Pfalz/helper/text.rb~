@@ -1,0 +1,5 @@
+f = File.open("testfile.txt")
+inhalt = f.read
+inhalt_arr = inhalt.scan(/<li>.*</li>/)
+puts inhalt_arr
+f.close
